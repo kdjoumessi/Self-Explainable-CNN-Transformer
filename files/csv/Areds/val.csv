@@ -1,0 +1,2657 @@
+patient_id,visit_number,image_eye,image_path,patient_sex,patient_age,diagnosis_amd_grade,amd_label,amd_level
+3260,8,right,58322/58322_08_F2_RE_LS.jpg,M,78.5,9.0,Advanced Intermediate AMD,2
+2956,14,right,59067/59067_14_F2_RE_RS.jpg,F,71.7,1.0,Early AMD,0
+4806,8,right,60984/60984_08_F2_RE_LS.jpg,F,64.2,4.0,Moderate AMD,1
+5327,2,left,60306/60306_02_F2_LE_RS.jpg,M,73.2,6.0,Moderate AMD,1
+G086,18,left,53227/53227_18_F2_LE_RS.jpg,F,81.10000000000001,4.0,Moderate AMD,1
+G439,6,left,53847/53847_06_F2_LE_LS.jpg,M,77.5,6.0,Moderate AMD,1
+1345,4,right,58113/58113_04_F2_RE_LS.jpg,M,70.2,1.0,Early AMD,0
+G392,8,right,61495/61495_08_F2_RE_LS.jpg,M,70.4,11.0,Active Neovascular AMD,4
+G426,16,left,61324/61324_16_F2_LE_LS.jpg,F,75.2,8.0,Advanced Intermediate AMD,2
+2413,6,right,56789/56789_06_F2_RE_LS.jpg,M,67.6,7.0,Advanced Intermediate AMD,2
+2654,22,left,53082/53082_22_F2_LE_RS.jpg,M,75.1,2.0,Early AMD,0
+4454,18,left,55685/55685_18_F2_LE_LS.jpg,M,71.1,1.0,Early AMD,0
+2563,18,right,59705/59705_18_F2_RE_LS.jpg,F,69.8,1.0,Early AMD,0
+3794,22,left,57182/57182_22_F2_LE_LS.jpg,F,73.6,11.0,Active Neovascular AMD,4
+2426,24,right,61351/61351_24_F2_RE_RS.jpg,M,84.3,12.0,End-Stage AMD,5
+4505,8,right,54538/54538_08_F2_RE_LS.jpg,F,70.10000000000001,5.0,Moderate AMD,1
+3317,8,right,58778/58778_08_F2_RE_LS.jpg,M,64.7,1.0,Early AMD,0
+5370,16,right,58467/58467_16_F2_RE_RS.jpg,F,73.39999999999999,8.0,Advanced Intermediate AMD,2
+2246,20,left,60966/60966_20_F2_LE_LS.jpg,F,78.5,2.0,Early AMD,0
+G105,14,right,58546/58546_14_F2_RE_RS.jpg,F,66.3,7.0,Advanced Intermediate AMD,2
+4825,4,left,53605/53605_04_F2_LE_RS.jpg,M,76.3,11.0,Active Neovascular AMD,4
+3013,16,left,51480/51480_16_F2_LE_LS.jpg,F,73.69999999999999,1.0,Early AMD,0
+G178,18,right,54858/54858_18_F2_RE_LS.jpg,M,78.2,6.0,Moderate AMD,1
+3494,14,right,61012/61012_14_F2_RE_RS.jpg,M,70.4,5.0,Moderate AMD,1
+1865,16,right,61717/61717_16_F2_RE_RS.jpg,F,75.9,8.0,Advanced Intermediate AMD,2
+1540,4,left,61477/61477_04_F2_LE_RS.jpg,F,79.3,11.0,Active Neovascular AMD,4
+3794,16,left,57182/57182_16_F2_LE_RS.jpg,F,70.6,11.0,Active Neovascular AMD,4
+G200,6,left,56495/56495_06_F2_LE_RS.jpg,F,62.0,7.0,Advanced Intermediate AMD,2
+3889,4,right,61374/61374_04_F2_RE_LS.jpg,F,65.7,4.0,Moderate AMD,1
+4589,8,left,55666/55666_08_F2_LE_RS.jpg,M,70.30000000000001,8.0,Advanced Intermediate AMD,2
+3892,12,left,56710/56710_12_F2_LE_LS.jpg,F,67.6,5.0,Moderate AMD,1
+2276,8,left,2276/2276_08_LE_F2_RS.jpg,M,72.5,7.0,Advanced Intermediate AMD,2
+G200,22,right,56495/56495_22_F2_RE_LS.jpg,F,69.8,8.0,Advanced Intermediate AMD,2
+G316,12,right,51107/51107_12_F2_RE_LS.jpg,M,69.5,7.0,Advanced Intermediate AMD,2
+2044,10,left,54098/54098_10_F2_LE_RS.jpg,F,74.1,1.0,Early AMD,0
+2918,20,left,52742/52742_20_F2_LE_RS.jpg,F,73.3,1.0,Early AMD,0
+2120,22,right,59767/59767_22_F2_RE_RS.jpg,M,79.9,8.0,Advanced Intermediate AMD,2
+G346,10,left,51213/51213_10_F2_LE_LS.jpg,M,80.0,4.0,Moderate AMD,1
+2678,14,right,56679/56679_14_F2_RE_RS.jpg,M,65.3,6.0,Moderate AMD,1
+4914,10,left,58609/58609_10_F2_LE_LS.jpg,M,81.8,7.0,Advanced Intermediate AMD,2
+5325,16,right,60705/60705_16_F2_RE_LS.jpg,M,83.7,7.0,Advanced Intermediate AMD,2
+5372,8,left,60376/60376_08_F2_LE_RS.jpg,M,74.7,1.0,Early AMD,0
+5370,6,right,58467/58467_06_F2_RE_RS.jpg,F,68.3,7.0,Advanced Intermediate AMD,2
+2956,16,right,59067/59067_16_F2_RE_LS.jpg,F,72.5,1.0,Early AMD,0
+3987,20,right,56732/56732_20_F2_RE_RS.jpg,M,79.80000000000001,4.0,Moderate AMD,1
+1277,11,right,60723/60723_11_F2_RE_RS.jpg,F,73.0,1.0,Early AMD,0
+4938,12,right,59840/59840_12_F2_RE_LS.jpg,F,79.4,5.0,Moderate AMD,1
+G219,4,right,52639/52639_04_F2_RE_RS.jpg,F,64.7,2.0,Early AMD,0
+4806,12,right,60984/60984_12_F2_RE_RS.jpg,F,66.0,5.0,Moderate AMD,1
+2728,20,right,53365/53365_20_F2_RE_LS.jpg,F,74.3,1.0,Early AMD,0
+3407,6,left,56816/56816_06_F2_LE_RS.jpg,M,71.4,11.0,Active Neovascular AMD,4
+1812,24,left,54198/54198_24_F2_LE_LS.jpg,F,74.5,2.0,Early AMD,0
+5196,6,left,56393/56393_06_F2_LE_RS.jpg,F,78.4,11.0,Active Neovascular AMD,4
+2034,10,right,54749/54749_10_F2_RE_LS.jpg,F,82.6,12.0,End-Stage AMD,5
+2678,20,left,56679/56679_20_F2_LE_LS.jpg,M,68.2,6.0,Moderate AMD,1
+5610,10,right,56664/56664_10_F2_RE_LS.jpg,F,61.1,2.0,Early AMD,0
+3415,8,left,52063/52063_08_F2_LE_LS.jpg,F,66.7,2.0,Early AMD,0
+3795,6,right,61545/61545_06_F2_RE_RS.jpg,M,67.0,11.0,Active Neovascular AMD,4
+4337,4,left,54836/54836_04_F2_LE_LS.jpg,F,77.2,11.0,Active Neovascular AMD,4
+G314,10,right,53470/53470_10_F2_RE_LS.jpg,F,80.8,7.0,Advanced Intermediate AMD,2
+4671,10,left,4671/4671_10_LE_F2_LS.jpg,M,79.3,10.0,Early Late AMD,3
+4400,18,right,54681/54681_18_F2_RE_RS.jpg,F,73.69999999999999,2.0,Early AMD,0
+5066,18,right,52217/52217_18_F2_RE_LS.jpg,M,73.3,3.0,Early AMD,0
+2010,6,right,58736/58736_06_F2_RE_RS.jpg,M,70.3,4.0,Moderate AMD,1
+5320,1,left,53857/53857_01_F2_LE_LS.jpg,M,74.8,10.0,Early Late AMD,3
+2120,9,left,59767/59767_09_F2_LE_RS.jpg,M,73.5,5.0,Moderate AMD,1
+G249,22,left,61526/61526_22_F2_LE_RS.jpg,M,75.9,8.0,Advanced Intermediate AMD,2
+4699,6,right,59025/59025_06_F2_RE_RS.jpg,F,75.9,1.0,Early AMD,0
+1162,2,left,58572/58572_02_F2_LE_LS.jpg,F,80.0,11.0,Active Neovascular AMD,4
+2939,24,right,57048/57048_24_F2_RE_LS.jpg,F,74.89999999999999,6.0,Moderate AMD,1
+4622,16,right,54812/54812_16_F2_RE_LS.jpg,F,69.39999999999999,6.0,Moderate AMD,1
+3892,18,right,56710/56710_18_F2_RE_LS.jpg,F,70.6,5.0,Moderate AMD,1
+5160,8,right,59893/59893_08_F2_RE_RS.jpg,F,84.8,6.0,Moderate AMD,1
+5610,14,right,56664/56664_14_F2_RE_LS.jpg,F,63.2,2.0,Early AMD,0
+G314,4,right,53470/53470_04_F2_RE_LS.jpg,F,77.8,6.0,Moderate AMD,1
+5351,14,right,53716/53716_14_F2_RE_LS.jpg,F,72.1,5.0,Moderate AMD,1
+5009,22,left,53435/53435_22_F2_LE_RS.jpg,F,87.10000000000001,1.0,Early AMD,0
+4280,18,right,55608/55608_18_F2_RE_LS.jpg,F,75.8,8.0,Advanced Intermediate AMD,2
+1186,20,left,1186/1186_20_LE_F2_RS.jpg,F,82.30000000000001,12.0,End-Stage AMD,5
+1321,6,left,55214/55214_06_F2_LE_LS.jpg,F,64.9,2.0,Early AMD,0
+2933,6,right,55562/55562_06_F2_RE_RS.jpg,F,81.4,11.0,Active Neovascular AMD,4
+5211,14,left,53469/53469_14_F2_LE_LS.jpg,F,78.3,11.0,Active Neovascular AMD,4
+1901,12,right,52690/52690_12_F2_RE_RS.jpg,M,66.5,1.0,Early AMD,0
+2607,12,left,51135/51135_12_F2_LE_RS.jpg,M,69.8,2.0,Early AMD,0
+5320,20,left,53857/53857_20_F2_LE_LS.jpg,M,84.1,12.0,End-Stage AMD,5
+G349,12,right,59858/59858_12_F2_RE_RS.jpg,M,67.10000000000001,10.0,Early Late AMD,3
+2426,4,right,61351/61351_04_F2_RE_RS.jpg,M,74.0,7.0,Advanced Intermediate AMD,2
+5610,18,right,56664/56664_18_F2_RE_RS.jpg,F,65.3,2.0,Early AMD,0
+G106,4,right,53714/53714_04_F2_RE_LS.jpg,F,81.2,11.0,Active Neovascular AMD,4
+5325,12,right,60705/60705_12_F2_RE_RS.jpg,M,81.5,7.0,Advanced Intermediate AMD,2
+4053,4,left,56526/56526_04_F2_LE_LS.jpg,F,74.4,7.0,Advanced Intermediate AMD,2
+5278,18,left,61051/61051_18_F2_LE_RS.jpg,F,76.6,11.0,Active Neovascular AMD,4
+G202,12,left,51551/51551_12_F2_LE_RS.jpg,M,74.6,11.0,Active Neovascular AMD,4
+G249,4,left,61526/61526_04_F2_LE_LS.jpg,M,66.7,4.0,Moderate AMD,1
+1371,6,right,61583/61583_06_F2_RE_RS.jpg,F,74.39999999999999,11.0,Active Neovascular AMD,4
+4906,20,right,56807/56807_20_F2_RE_RS.jpg,M,78.6,7.0,Advanced Intermediate AMD,2
+1663,18,left,58547/58547_18_F2_LE_RS.jpg,M,69.7,8.0,Advanced Intermediate AMD,2
+4190,20,right,4190/4190_20_RE_F2_RS.jpg,F,79.7,1.0,Early AMD,0
+4050,16,left,60056/60056_16_F2_LE_RS.jpg,M,80.10000000000001,4.0,Moderate AMD,1
+5219,12,right,53761/53761_12_F2_RE_RS.jpg,M,75.5,5.0,Moderate AMD,1
+2654,24,left,53082/53082_24_F2_LE_LS.jpg,M,76.1,2.0,Early AMD,0
+1290,16,right,60962/60962_16_F2_RE_RS.jpg,F,84.3,7.0,Advanced Intermediate AMD,2
+1915,22,right,1915/1915_22_RE_F2_RS.jpg,F,71.9,11.0,Active Neovascular AMD,4
+3846,6,left,54045/54045_06_F2_LE_RS.jpg,F,78.5,11.0,Active Neovascular AMD,4
+1949,8,left,61584/61584_08_F2_LE_RS.jpg,M,76.8,4.0,Moderate AMD,1
+4708,12,left,55258/55258_12_F2_LE_LS.jpg,M,71.0,2.0,Early AMD,0
+1568,20,left,1568/1568_20_LE_F2_RS.jpg,F,73.60000000000001,11.0,Active Neovascular AMD,4
+3681,8,left,53835/53835_08_F2_LE_RS.jpg,M,77.8,11.0,Active Neovascular AMD,4
+5351,10,right,53716/53716_10_F2_RE_RS.jpg,F,70.1,4.0,Moderate AMD,1
+2678,18,right,56679/56679_18_F2_RE_RS.jpg,M,67.2,8.0,Advanced Intermediate AMD,2
+4616,16,left,52710/52710_16_F2_LE_LS.jpg,F,81.19999999999999,11.0,Active Neovascular AMD,4
+4037,11,left,55656/55656_11_F2_LE_LS.jpg,F,68.7,3.0,Early AMD,0
+5587,8,left,52172/52172_08_F2_LE_RS.jpg,F,70.3,10.0,Early Late AMD,3
+3272,14,right,53623/53623_14_F2_RE_LS.jpg,M,74.9,11.0,Active Neovascular AMD,4
+2193,6,left,54250/54250_06_F2_LE_RS.jpg,F,71.9,7.0,Advanced Intermediate AMD,2
+4860,6,left,61713/61713_06_F2_LE_LS.jpg,F,65.2,7.0,Advanced Intermediate AMD,2
+5321,18,left,56809/56809_18_F2_LE_RS.jpg,F,76.2,1.0,Early AMD,0
+2834,14,right,56723/56723_14_F2_RE_LS.jpg,F,83.7,5.0,Moderate AMD,1
+4317,8,left,4317/4317_08_LE_F2_RS.jpg,F,76.3,11.0,Active Neovascular AMD,4
+1934,12,right,54236/54236_12_F2_RE_LS.jpg,F,73.19999999999999,3.0,Early AMD,0
+G346,4,left,51213/51213_04_F2_LE_RS.jpg,M,77.0,4.0,Moderate AMD,1
+5587,18,left,52172/52172_18_F2_LE_RS.jpg,F,75.3,10.0,Early Late AMD,3
+3655,20,left,59422/59422_20_F2_LE_RS.jpg,F,79.0,4.0,Moderate AMD,1
+4400,16,right,54681/54681_16_F2_RE_LS.jpg,F,72.69999999999999,3.0,Early AMD,0
+2760,4,right,2760/2760_04_RE_F2_LS.jpg,M,75.4,1.0,Early AMD,0
+2465,4,left,56821/56821_04_F2_LE_RS.jpg,F,70.4,11.0,Active Neovascular AMD,4
+5323,20,right,55216/55216_20_F2_RE_RS.jpg,F,72.1,3.0,Early AMD,0
+4286,20,right,53418/53418_20_F2_RE_LS.jpg,M,76.2,10.0,Early Late AMD,3
+G200,8,right,56495/56495_08_F2_RE_LS.jpg,F,63.0,9.0,Advanced Intermediate AMD,2
+G473,5,left,60715/60715_05_F2_LE_RS.jpg,M,66.3,4.0,Moderate AMD,1
+1011,22,right,52594/52594_22_F2_RE_RS.jpg,F,77.5,10.0,Early Late AMD,3
+2986,4,left,52864/52864_04_F2_LE_LS.jpg,F,81.3,12.0,End-Stage AMD,5
+2193,22,left,54250/54250_22_F2_LE_LS.jpg,F,79.9,9.0,Advanced Intermediate AMD,2
+G303,10,left,59545/59545_10_F2_LE_LS.jpg,M,69.6,1.0,Early AMD,0
+1587,14,right,59648/59648_14_F2_RE_LS.jpg,F,70.2,4.0,Moderate AMD,1
+5327,22,left,60306/60306_22_F2_LE_LS.jpg,M,83.2,8.0,Advanced Intermediate AMD,2
+3889,18,left,61374/61374_18_F2_LE_RS.jpg,F,72.5,5.0,Moderate AMD,1
+1290,4,left,60962/60962_04_F2_LE_RS.jpg,F,78.3,7.0,Advanced Intermediate AMD,2
+G033,12,right,54565/54565_12_F2_RE_LS.jpg,M,75.89999999999999,5.0,Moderate AMD,1
+1365,10,left,53441/53441_10_F2_LE_RS.jpg,M,74.19999999999999,2.0,Early AMD,0
+4314,12,right,56830/56830_12_F2_RE_RS.jpg,F,75.89999999999999,1.0,Early AMD,0
+5103,22,right,59438/59438_22_F2_RE_LS.jpg,M,81.2,9.0,Advanced Intermediate AMD,2
+G249,12,right,61526/61526_12_F2_RE_RS.jpg,M,70.8,8.0,Advanced Intermediate AMD,2
+2481,10,right,58076/58076_10_F2_RE_RS.jpg,F,75.5,3.0,Early AMD,0
+G209,18,left,54727/54727_18_F2_LE_LS.jpg,M,75.69999999999999,1.0,Early AMD,0
+G228,13,right,60320/60320_13_F2_RE_LS.jpg,F,78.8,2.0,Early AMD,0
+4914,16,right,58609/58609_16_F2_RE_RS.jpg,M,84.8,8.0,Advanced Intermediate AMD,2
+G478,6,right,51133/51133_06_F2_RE_RS.jpg,F,76.2,1.0,Early AMD,0
+5304,10,right,56497/56497_10_F2_RE_RS.jpg,M,72.6,5.0,Moderate AMD,1
+3892,14,left,56710/56710_14_F2_LE_RS.jpg,F,68.6,5.0,Moderate AMD,1
+3483,8,right,61747/61747_08_F2_RE_LS.jpg,F,74.3,1.0,Early AMD,0
+4914,18,left,58609/58609_18_F2_LE_RS.jpg,M,85.8,7.0,Advanced Intermediate AMD,2
+G462,14,right,51703/51703_14_F2_RE_LS.jpg,M,77.10000000000001,4.0,Moderate AMD,1
+4918,11,left,52674/52674_11_F2_LE_RS.jpg,M,71.7,7.0,Advanced Intermediate AMD,2
+2524,10,left,55569/55569_10_F2_LE_LS.jpg,M,76.4,1.0,Early AMD,0
+3982,6,right,55551/55551_06_F2_RE_RS.jpg,F,74.2,11.0,Active Neovascular AMD,4
+4606,8,left,54846/54846_08_F2_LE_LS.jpg,F,80.9,5.0,Moderate AMD,1
+4671,4,left,4671/4671_04_LE_F2_LS.jpg,M,76.3,9.0,Advanced Intermediate AMD,2
+3794,12,left,57182/57182_12_F2_LE_LS.jpg,F,68.89999999999999,11.0,Active Neovascular AMD,4
+5478,12,left,5478/5478_12_LE_F2_LS.jpg,F,82.4,11.0,Active Neovascular AMD,4
+1321,14,left,55214/55214_14_F2_LE_RS.jpg,F,69.0,4.0,Moderate AMD,1
+1088,16,left,55721/55721_16_F2_LE_LS.jpg,F,76.3,4.0,Moderate AMD,1
+4505,14,right,54538/54538_14_F2_RE_LS.jpg,F,73.10000000000001,6.0,Moderate AMD,1
+1011,18,right,52594/52594_18_F2_RE_RS.jpg,F,75.60000000000001,10.0,Early Late AMD,3
+4616,18,left,52710/52710_18_F2_LE_RS.jpg,F,82.19999999999999,12.0,End-Stage AMD,5
+3036,20,left,51796/51796_20_F2_LE_LS.jpg,M,84.8,10.0,Early Late AMD,3
+2193,10,left,54250/54250_10_F2_LE_LS.jpg,F,73.9,7.0,Advanced Intermediate AMD,2
+2674,4,left,59743/59743_04_F2_LE_LS.jpg,M,59.1,5.0,Moderate AMD,1
+2212,10,right,52944/52944_10_F2_RE_RS.jpg,M,73.5,10.0,Early Late AMD,3
+1846,6,right,59537/59537_06_F2_RE_RS.jpg,M,68.7,4.0,Moderate AMD,1
+G531,4,right,51223/51223_04_F2_RE_RS.jpg,M,67.6,5.0,Moderate AMD,1
+4938,10,right,59840/59840_10_F2_RE_RS.jpg,F,78.30000000000001,5.0,Moderate AMD,1
+2185,10,left,56255/56255_10_F2_LE_LS.jpg,M,72.30000000000001,1.0,Early AMD,0
+4454,16,left,4454/4454_16_LE_F2_RS.jpg,M,70.1,1.0,Early AMD,0
+1929,8,left,58718/58718_08_F2_LE_LS.jpg,M,71.0,2.0,Early AMD,0
+1016,6,right,53521/53521_06_F2_RE_RS.jpg,M,68.0,11.0,Active Neovascular AMD,4
+4037,6,left,55656/55656_06_F2_LE_LS.jpg,F,66.4,1.0,Early AMD,0
+3867,4,right,54650/54650_04_F2_RE_RS.jpg,M,75.89999999999999,1.0,Early AMD,0
+2952,4,left,56685/56685_04_F2_LE_RS.jpg,M,68.4,4.0,Moderate AMD,1
+G196,10,right,51590/51590_10_F2_RE_LS.jpg,M,74.7,8.0,Advanced Intermediate AMD,2
+4663,6,right,601000/601000_06_F2_RE_RS.jpg,F,64.4,4.0,Moderate AMD,1
+4671,6,right,53604/53604_06_F2_RE_LS.jpg,M,77.3,7.0,Advanced Intermediate AMD,2
+1088,8,left,55721/55721_08_F2_LE_RS.jpg,F,72.3,4.0,Moderate AMD,1
+5066,16,right,52217/52217_16_F2_RE_LS.jpg,M,72.39999999999999,1.0,Early AMD,0
+G499,18,right,56752/56752_18_F2_RE_RS.jpg,M,77.7,1.0,Early AMD,0
+2070,12,right,52606/52606_12_F2_RE_LS.jpg,M,75.3,10.0,Early Late AMD,3
+1281,16,right,61305/61305_16_F2_RE_LS.jpg,M,75.6,11.0,Active Neovascular AMD,4
+4309,6,right,60969/60969_06_F2_RE_LS.jpg,M,76.1,1.0,Early AMD,0
+3481,10,right,54014/54014_10_F2_RE_RS.jpg,F,70.5,2.0,Early AMD,0
+2546,10,left,53578/53578_10_F2_LE_LS.jpg,M,80.0,7.0,Advanced Intermediate AMD,2
+G094,12,right,53727/53727_12_F2_RE_LS.jpg,M,82.5,11.0,Active Neovascular AMD,4
+4286,22,left,53418/53418_22_F2_LE_RS.jpg,M,77.2,10.0,Early Late AMD,3
+3470,8,left,58364/58364_08_F2_LE_LS.jpg,M,77.4,11.0,Active Neovascular AMD,4
+2352,18,left,51036/51036_18_F2_LE_RS.jpg,M,74.39999999999999,4.0,Moderate AMD,1
+1934,6,left,54236/54236_06_F2_LE_RS.jpg,F,70.1,4.0,Moderate AMD,1
+3031,4,right,3031/3031_04_RE_F2_LS.jpg,M,68.6,11.0,Active Neovascular AMD,4
+3368,3,left,59618/59618_03_F2_LE_RS.jpg,F,77.6,11.0,Active Neovascular AMD,4
+2413,4,right,56789/56789_04_F2_RE_LS.jpg,M,66.6,6.0,Moderate AMD,1
+4671,24,right,4671/4671_24_RE_F2_LS.jpg,M,86.3,12.0,End-Stage AMD,5
+2303,8,left,53601/53601_08_F2_LE_LS.jpg,M,74.80000000000001,11.0,Active Neovascular AMD,4
+2654,12,left,53082/53082_12_F2_LE_RS.jpg,M,70.19999999999999,2.0,Early AMD,0
+5009,14,left,53435/53435_14_F2_LE_LS.jpg,F,83.10000000000001,1.0,Early AMD,0
+3420,2,right,56488/56488_02_F2_RE_LS.jpg,F,75.0,11.0,Active Neovascular AMD,4
+5400,20,left,5400/5400_20_LE_F2_RS.jpg,F,78.2,10.0,Early Late AMD,3
+1439,4,left,53285/53285_04_F2_LE_LS.jpg,M,68.0,6.0,Moderate AMD,1
+2259,12,left,54556/54556_12_F2_LE_LS.jpg,M,78.1,11.0,Active Neovascular AMD,4
+2055,4,left,2055/2055_04_LE_F2_RS.jpg,F,77.0,7.0,Advanced Intermediate AMD,2
+3420,4,right,56488/56488_04_F2_RE_RS.jpg,F,76.0,11.0,Active Neovascular AMD,4
+1734,6,right,52397/52397_06_F2_RE_LS.jpg,F,73.0,5.0,Moderate AMD,1
+1462,6,right,52588/52588_06_F2_RE_LS.jpg,M,74.7,8.0,Advanced Intermediate AMD,2
+2834,10,right,56723/56723_10_F2_RE_RS.jpg,F,81.7,5.0,Moderate AMD,1
+3681,12,left,53835/53835_12_F2_LE_LS.jpg,M,79.6,11.0,Active Neovascular AMD,4
+2546,12,left,53578/53578_12_F2_LE_LS.jpg,M,80.7,8.0,Advanced Intermediate AMD,2
+G054,4,left,60909/60909_04_F2_LE_LS.jpg,M,67.1,3.0,Early AMD,0
+5400,6,left,55472/55472_06_F2_LE_RS.jpg,F,71.2,10.0,Early Late AMD,3
+1540,8,right,61477/61477_08_F2_RE_LS.jpg,F,81.3,7.0,Advanced Intermediate AMD,2
+G086,24,left,53227/53227_24_F2_LE_LS.jpg,F,84.3,4.0,Moderate AMD,1
+1016,12,right,53521/53521_12_F2_RE_LS.jpg,M,71.1,11.0,Active Neovascular AMD,4
+3840,22,right,53442/53442_22_F2_RE_LS.jpg,F,76.1,5.0,Moderate AMD,1
+3357,14,left,60888/60888_14_F2_LE_RS.jpg,F,70.3,5.0,Moderate AMD,1
+G499,10,right,56752/56752_10_F2_RE_RS.jpg,M,73.7,1.0,Early AMD,0
+2663,4,right,52305/52305_04_F2_RE_LS.jpg,M,71.9,1.0,Early AMD,0
+3272,18,right,53623/53623_18_F2_RE_LS.jpg,M,77.0,11.0,Active Neovascular AMD,4
+4121,14,left,56202/56202_14_F2_LE_RS.jpg,F,68.3,2.0,Early AMD,0
+2870,22,right,55507/55507_22_F2_RE_RS.jpg,F,80.5,2.0,Early AMD,0
+5400,4,left,5400/5400_04_LE_F2_RS.jpg,F,70.0,11.0,Active Neovascular AMD,4
+3840,18,right,53442/53442_18_F2_RE_LS.jpg,F,74.1,7.0,Advanced Intermediate AMD,2
+2563,4,left,59705/59705_04_F2_LE_RS.jpg,F,63.2,1.0,Early AMD,0
+2575,14,left,56362/56362_14_F2_LE_LS.jpg,F,70.0,11.0,Active Neovascular AMD,4
+2465,6,right,56821/56821_06_F2_RE_RS.jpg,F,71.6,11.0,Active Neovascular AMD,4
+1295,6,right,55193/55193_06_F2_RE_LS.jpg,F,75.5,4.0,Moderate AMD,1
+4933,10,left,60610/60610_10_F2_LE_LS.jpg,M,71.9,6.0,Moderate AMD,1
+3049,8,right,52529/52529_08_F2_RE_LS.jpg,M,80.1,11.0,Active Neovascular AMD,4
+3717,10,left,59093/59093_10_F2_LE_RS.jpg,M,75.0,1.0,Early AMD,0
+2505,6,left,58688/58688_06_F2_LE_RS.jpg,F,63.6,1.0,Early AMD,0
+1865,20,left,61717/61717_20_F2_LE_RS.jpg,F,77.9,11.0,Active Neovascular AMD,4
+3341,18,right,601006/601006_18_F2_RE_RS.jpg,M,67.9,11.0,Active Neovascular AMD,4
+1462,8,right,1462/1462_08_RE_F2_RS.jpg,M,75.7,11.0,Active Neovascular AMD,4
+G321,15,left,57049/57049_15_F2_LE_RS.jpg,M,70.9,2.0,Early AMD,0
+2728,18,right,53365/53365_18_F2_RE_LS.jpg,F,73.2,1.0,Early AMD,0
+1907,6,left,61696/61696_06_F2_LE_RS.jpg,M,73.80000000000001,2.0,Early AMD,0
+G603,20,left,55587/55587_20_F2_LE_LS.jpg,M,73.6,5.0,Moderate AMD,1
+4520,4,right,58753/58753_04_F2_RE_LS.jpg,F,71.5,6.0,Moderate AMD,1
+4274,4,left,60986/60986_04_F2_LE_RS.jpg,F,79.3,11.0,Active Neovascular AMD,4
+3008,4,right,56610/56610_04_F2_RE_LS.jpg,F,75.7,4.0,Moderate AMD,1
+4840,16,left,55593/55593_16_F2_LE_RS.jpg,F,71.7,1.0,Early AMD,0
+4362,14,left,60074/60074_14_F2_LE_LS.jpg,M,69.4,3.0,Early AMD,0
+5103,8,left,59438/59438_08_F2_LE_LS.jpg,M,74.3,5.0,Moderate AMD,1
+1924,16,right,1924/1924_16_RE_F2_LS.jpg,F,76.2,1.0,Early AMD,0
+5290,22,right,51588/51588_22_F2_RE_LS.jpg,F,74.0,10.0,Early Late AMD,3
+G043,8,left,60886/60886_08_F2_LE_RS.jpg,F,75.1,11.0,Active Neovascular AMD,4
+2003,12,left,54182/54182_12_F2_LE_LS.jpg,F,73.6,5.0,Moderate AMD,1
+3356,20,right,56722/56722_20_F2_RE_LS.jpg,F,74.4,5.0,Moderate AMD,1
+1242,10,right,51701/51701_10_F2_RE_LS.jpg,M,77.3,8.0,Advanced Intermediate AMD,2
+1439,6,left,53285/53285_06_F2_LE_LS.jpg,M,69.0,5.0,Moderate AMD,1
+G349,14,right,59858/59858_14_F2_RE_LS.jpg,M,68.10000000000001,10.0,Early Late AMD,3
+3008,22,right,56610/56610_22_F2_RE_RS.jpg,F,84.8,7.0,Advanced Intermediate AMD,2
+3415,20,left,52063/52063_20_F2_LE_LS.jpg,F,72.7,2.0,Early AMD,0
+3640,18,right,60642/60642_18_F2_RE_RS.jpg,M,82.1,5.0,Moderate AMD,1
+G428,22,right,61190/61190_22_F2_RE_RS.jpg,F,79.8,4.0,Moderate AMD,1
+3031,18,right,59080/59080_18_F2_RE_RS.jpg,M,75.8,10.0,Early Late AMD,3
+1430,22,right,59195/59195_22_F2_RE_LS.jpg,M,76.5,4.0,Moderate AMD,1
+3077,8,left,59724/59724_08_F2_LE_RS.jpg,F,72.0,11.0,Active Neovascular AMD,4
+3481,22,left,54014/54014_22_F2_LE_RS.jpg,F,77.0,2.0,Early AMD,0
+1788,10,left,59645/59645_10_F2_LE_LS.jpg,F,81.1,11.0,Active Neovascular AMD,4
+1568,8,right,1568/1568_08_RE_F2_LS.jpg,F,67.7,8.0,Advanced Intermediate AMD,2
+1295,4,right,55193/55193_04_F2_RE_LS.jpg,F,74.5,4.0,Moderate AMD,1
+1924,6,left,52309/52309_06_F2_LE_RS.jpg,F,71.2,1.0,Early AMD,0
+3494,20,left,61012/61012_20_F2_LE_RS.jpg,M,73.4,5.0,Moderate AMD,1
+2939,12,left,57048/57048_12_F2_LE_RS.jpg,F,68.89999999999999,5.0,Moderate AMD,1
+4286,12,left,53418/53418_12_F2_LE_LS.jpg,M,72.2,8.0,Advanced Intermediate AMD,2
+2047,22,left,55024/55024_22_F2_LE_LS.jpg,M,73.2,3.0,Early AMD,0
+3042,10,left,58317/58317_10_F2_LE_RS.jpg,F,67.5,11.0,Active Neovascular AMD,4
+1479,12,right,51725/51725_12_F2_RE_LS.jpg,M,67.8,11.0,Active Neovascular AMD,4
+5351,12,right,53716/53716_12_F2_RE_LS.jpg,F,71.2,5.0,Moderate AMD,1
+4224,14,left,53809/53809_14_F2_LE_RS.jpg,F,79.9,8.0,Advanced Intermediate AMD,2
+G444,12,right,60601/60601_12_F2_RE_LS.jpg,F,77.4,1.0,Early AMD,0
+5061,4,left,58457/58457_04_F2_LE_RS.jpg,F,72.1,7.0,Advanced Intermediate AMD,2
+1088,4,right,55721/55721_04_F2_RE_LS.jpg,F,70.2,2.0,Early AMD,0
+2939,18,right,57048/57048_18_F2_RE_RS.jpg,F,71.8,5.0,Moderate AMD,1
+2276,0,left,2276/2276_00_LE_F2_RS.jpg,M,68.5,7.0,Advanced Intermediate AMD,2
+2426,22,right,61351/61351_22_F2_RE_LS.jpg,M,83.3,12.0,End-Stage AMD,5
+2739,6,left,60275/60275_06_F2_LE_LS.jpg,F,71.4,11.0,Active Neovascular AMD,4
+1934,20,left,54236/54236_20_F2_LE_RS.jpg,F,77.19999999999999,7.0,Advanced Intermediate AMD,2
+4274,11,right,60986/60986_11_F2_RE_LS.jpg,F,82.8,11.0,Active Neovascular AMD,4
+5587,22,right,52172/52172_22_F2_RE_RS.jpg,F,77.3,8.0,Advanced Intermediate AMD,2
+G316,10,right,51107/51107_10_F2_RE_LS.jpg,M,68.5,5.0,Moderate AMD,1
+2524,4,left,55569/55569_04_F2_LE_LS.jpg,M,73.4,1.0,Early AMD,0
+4825,5,left,53605/53605_05_F2_LE_LS.jpg,M,76.8,11.0,Active Neovascular AMD,4
+3049,22,right,52529/52529_22_F2_RE_LS.jpg,M,87.1,11.0,Active Neovascular AMD,4
+G444,20,right,60601/60601_20_F2_RE_RS.jpg,F,81.30000000000001,1.0,Early AMD,0
+3260,14,right,58322/58322_14_F2_RE_RS.jpg,M,81.5,8.0,Advanced Intermediate AMD,2
+3846,24,right,54045/54045_24_F2_RE_LS.jpg,F,87.3,11.0,Active Neovascular AMD,4
+G180,18,right,53659/53659_18_F2_RE_RS.jpg,F,70.8,1.0,Early AMD,0
+1735,4,right,53338/53338_04_F2_RE_RS.jpg,F,65.1,1.0,Early AMD,0
+2145,14,left,53135/53135_14_F2_LE_LS.jpg,F,78.0,11.0,Active Neovascular AMD,4
+1915,12,left,1915/1915_12_LE_F2_RS.jpg,F,66.9,6.0,Moderate AMD,1
+1152,6,left,60872/60872_06_F2_LE_RS.jpg,M,75.8,4.0,Moderate AMD,1
+4286,4,left,53418/53418_04_F2_LE_RS.jpg,M,68.2,8.0,Advanced Intermediate AMD,2
+1345,10,left,58113/58113_10_F2_LE_RS.jpg,M,73.3,1.0,Early AMD,0
+1160,14,left,52932/52932_14_F2_LE_RS.jpg,F,71.2,8.0,Advanced Intermediate AMD,2
+5320,8,left,53857/53857_08_F2_LE_LS.jpg,M,78.39999999999999,12.0,End-Stage AMD,5
+1478,4,right,1478/1478_04_RE_F2_RS.jpg,M,66.0,11.0,Active Neovascular AMD,4
+4050,14,left,60056/60056_14_F2_LE_RS.jpg,M,79.2,4.0,Moderate AMD,1
+5675,4,right,58558/58558_04_F2_RE_LS.jpg,F,71.60000000000001,11.0,Active Neovascular AMD,4
+1924,20,left,1924/1924_20_LE_F2_RS.jpg,F,78.2,1.0,Early AMD,0
+2760,12,left,2760/2760_12_LE_F2_LS.jpg,M,79.4,1.0,Early AMD,0
+2314,2,left,52542/52542_02_F2_LE_RS.jpg,M,74.2,11.0,Active Neovascular AMD,4
+3087,12,left,56639/56639_12_F2_LE_LS.jpg,F,71.8,3.0,Early AMD,0
+2607,24,left,51135/51135_24_F2_LE_LS.jpg,M,76.0,4.0,Moderate AMD,1
+1155,8,left,58567/58567_08_F2_LE_RS.jpg,M,73.30000000000001,1.0,Early AMD,0
+1949,12,left,61584/61584_12_F2_LE_LS.jpg,M,78.7,4.0,Moderate AMD,1
+G531,8,right,51223/51223_08_F2_RE_RS.jpg,M,69.6,5.0,Moderate AMD,1
+4657,4,right,52403/52403_04_F2_RE_RS.jpg,M,77.6,7.0,Advanced Intermediate AMD,2
+2145,1,right,53135/53135_01_F2_RE_LS.jpg,F,71.4,11.0,Active Neovascular AMD,4
+2303,12,left,53601/53601_12_F2_LE_RS.jpg,M,76.9,11.0,Active Neovascular AMD,4
+1588,20,right,1588/1588_20_RE_F2_LS.jpg,F,81.7,11.0,Active Neovascular AMD,4
+2617,8,left,58157/58157_08_F2_LE_LS.jpg,M,74.6,3.0,Early AMD,0
+3792,4,right,53313/53313_04_F2_RE_LS.jpg,F,70.9,4.0,Moderate AMD,1
+G324,15,left,52049/52049_15_F2_LE_RS.jpg,F,70.8,1.0,Early AMD,0
+2607,4,left,51135/51135_04_F2_LE_LS.jpg,M,65.8,1.0,Early AMD,0
+2793,8,left,2793/2793_08_LE_F2_RS.jpg,M,70.1,7.0,Advanced Intermediate AMD,2
+5325,8,right,60705/60705_08_F2_RE_RS.jpg,M,79.4,6.0,Moderate AMD,1
+5160,6,right,59893/59893_06_F2_RE_LS.jpg,F,83.69999999999999,6.0,Moderate AMD,1
+G531,6,right,51223/51223_06_F2_RE_LS.jpg,M,68.6,5.0,Moderate AMD,1
+1808,22,left,53195/53195_22_F2_LE_LS.jpg,F,83.1,11.0,Active Neovascular AMD,4
+3857,12,left,55741/55741_12_F2_LE_RS.jpg,F,74.10000000000001,4.0,Moderate AMD,1
+1371,20,right,1371/1371_20_RE_F2_RS.jpg,F,81.2,11.0,Active Neovascular AMD,4
+G531,12,right,51223/51223_12_F2_RE_RS.jpg,M,71.69999999999999,6.0,Moderate AMD,1
+1800,4,right,56154/56154_04_F2_RE_RS.jpg,M,71.2,2.0,Early AMD,0
+3117,6,left,54146/54146_06_F2_LE_LS.jpg,F,75.5,2.0,Early AMD,0
+3272,6,right,53623/53623_06_F2_RE_LS.jpg,M,71.0,11.0,Active Neovascular AMD,4
+G043,4,left,60886/60886_04_F2_LE_LS.jpg,F,73.19999999999999,11.0,Active Neovascular AMD,4
+4938,8,right,59840/59840_08_F2_RE_RS.jpg,F,77.30000000000001,5.0,Moderate AMD,1
+4820,8,right,54526/54526_08_F2_RE_LS.jpg,F,71.8,5.0,Moderate AMD,1
+4280,11,left,55608/55608_11_F2_LE_RS.jpg,F,72.2,8.0,Advanced Intermediate AMD,2
+5103,15,right,59438/59438_15_F2_RE_RS.jpg,M,77.7,5.0,Moderate AMD,1
+3892,6,right,56710/56710_06_F2_RE_LS.jpg,F,64.6,4.0,Moderate AMD,1
+2100,10,left,51780/51780_10_F2_LE_LS.jpg,M,64.89999999999999,7.0,Advanced Intermediate AMD,2
+2097,6,right,56217/56217_06_F2_RE_LS.jpg,M,74.8,1.0,Early AMD,0
+5156,6,left,58672/58672_06_F2_LE_LS.jpg,F,62.5,6.0,Moderate AMD,1
+3356,12,right,56722/56722_12_F2_RE_RS.jpg,F,70.4,7.0,Advanced Intermediate AMD,2
+1941,10,left,58776/58776_10_F2_LE_LS.jpg,M,67.5,11.0,Active Neovascular AMD,4
+1011,8,right,52594/52594_08_F2_RE_LS.jpg,F,70.5,12.0,End-Stage AMD,5
+3596,18,left,59281/59281_18_F2_LE_RS.jpg,F,76.1,2.0,Early AMD,0
+1734,12,right,52397/52397_12_F2_RE_RS.jpg,F,76.0,4.0,Moderate AMD,1
+5393,8,left,61676/61676_08_F2_LE_RS.jpg,F,74.5,7.0,Advanced Intermediate AMD,2
+1485,18,right,61249/61249_18_F2_RE_LS.jpg,M,85.60000000000001,1.0,Early AMD,0
+5325,4,left,60705/60705_04_F2_LE_RS.jpg,M,77.5,5.0,Moderate AMD,1
+5228,8,right,56800/56800_08_F2_RE_LS.jpg,M,80.9,4.0,Moderate AMD,1
+2044,8,right,54098/54098_08_F2_RE_LS.jpg,F,73.0,1.0,Early AMD,0
+4490,14,right,55080/55080_14_F2_RE_LS.jpg,F,77.69999999999999,5.0,Moderate AMD,1
+2145,24,right,53135/53135_24_F2_RE_LS.jpg,F,82.9,11.0,Active Neovascular AMD,4
+2055,0,right,2055/2055_00_RE_F2_RS.jpg,F,75.0,6.0,Moderate AMD,1
+1021,8,right,57220/57220_08_F2_RE_RS.jpg,F,79.89999999999999,4.0,Moderate AMD,1
+G287,18,right,60910/60910_18_F2_RE_RS.jpg,M,71.6,1.0,Early AMD,0
+3681,6,left,53835/53835_06_F2_LE_RS.jpg,M,76.8,11.0,Active Neovascular AMD,4
+4318,12,right,4318/4318_12_RE_F2_RS.jpg,M,75.5,1.0,Early AMD,0
+3077,10,left,59724/59724_10_F2_LE_LS.jpg,F,73.2,11.0,Active Neovascular AMD,4
+5351,6,left,53716/53716_06_F2_LE_RS.jpg,F,68.1,3.0,Early AMD,0
+G316,18,left,51107/51107_18_F2_LE_LS.jpg,M,72.6,8.0,Advanced Intermediate AMD,2
+5278,24,left,61051/61051_24_F2_LE_LS.jpg,F,79.69999999999999,11.0,Active Neovascular AMD,4
+G180,4,right,53659/53659_04_F2_RE_LS.jpg,F,63.9,2.0,Early AMD,0
+G161,12,right,53805/53805_12_F2_RE_RS.jpg,M,84.60000000000001,11.0,Active Neovascular AMD,4
+1907,14,right,61696/61696_14_F2_RE_RS.jpg,M,77.80000000000001,1.0,Early AMD,0
+1462,0,left,1462/1462_00_LE_F2_LS.jpg,M,71.8,7.0,Advanced Intermediate AMD,2
+1865,12,right,61717/61717_12_F2_RE_LS.jpg,F,73.8,8.0,Advanced Intermediate AMD,2
+3795,10,right,61545/61545_10_F2_RE_RS.jpg,M,69.0,11.0,Active Neovascular AMD,4
+1808,4,left,53195/53195_04_F2_LE_LS.jpg,F,73.8,7.0,Advanced Intermediate AMD,2
+3681,10,left,53835/53835_10_F2_LE_LS.jpg,M,78.7,11.0,Active Neovascular AMD,4
+1371,22,right,1371/1371_22_RE_F2_RS.jpg,F,82.2,11.0,Active Neovascular AMD,4
+5478,0,left,5478/5478_00_LE_F2_LS.jpg,F,76.4,11.0,Active Neovascular AMD,4
+1016,16,right,53521/53521_16_F2_RE_LS.jpg,M,72.8,11.0,Active Neovascular AMD,4
+4310,14,right,55028/55028_14_F2_RE_LS.jpg,F,80.4,1.0,Early AMD,0
+4671,16,right,4671/4671_16_RE_F2_RS.jpg,M,82.3,10.0,Early Late AMD,3
+G470,22,right,58552/58552_22_F2_RE_LS.jpg,M,67.0,11.0,Active Neovascular AMD,4
+4577,20,right,55339/55339_20_F2_RE_LS.jpg,F,78.4,11.0,Active Neovascular AMD,4
+G105,18,right,58546/58546_18_F2_RE_RS.jpg,F,68.39999999999999,7.0,Advanced Intermediate AMD,2
+1663,6,left,58547/58547_06_F2_LE_RS.jpg,M,63.6,8.0,Advanced Intermediate AMD,2
+3889,24,left,61374/61374_24_F2_LE_LS.jpg,F,75.60000000000001,5.0,Moderate AMD,1
+1942,6,right,55703/55703_06_F2_RE_RS.jpg,F,69.9,4.0,Moderate AMD,1
+4663,10,left,601000/601000_10_F2_LE_LS.jpg,F,66.4,4.0,Moderate AMD,1
+4122,14,left,60244/60244_14_F2_LE_RS.jpg,M,76.5,2.0,Early AMD,0
+1717,8,right,59604/59604_08_F2_RE_LS.jpg,F,83.2,11.0,Active Neovascular AMD,4
+3010,18,left,3010/3010_18_LE_F2_LS.jpg,F,82.60000000000001,12.0,End-Stage AMD,5
+2162,8,left,2162/2162_08_LE_F2_LS.jpg,F,74.39999999999999,11.0,Active Neovascular AMD,4
+5321,20,right,56809/56809_20_F2_RE_LS.jpg,F,77.2,2.0,Early AMD,0
+5320,4,left,53857/53857_04_F2_LE_LS.jpg,M,76.3,11.0,Active Neovascular AMD,4
+2663,12,right,52305/52305_12_F2_RE_RS.jpg,M,75.9,1.0,Early AMD,0
+5325,10,right,60705/60705_10_F2_RE_RS.jpg,M,80.4,7.0,Advanced Intermediate AMD,2
+G604,4,left,52739/52739_04_F2_LE_LS.jpg,F,72.0,5.0,Moderate AMD,1
+2790,12,right,58191/58191_12_F2_RE_RS.jpg,M,79.9,1.0,Early AMD,0
+4172,16,right,4172/4172_16_RE_F2_LS.jpg,M,81.6,1.0,Early AMD,0
+4310,18,right,55028/55028_18_F2_RE_LS.jpg,F,82.9,2.0,Early AMD,0
+2939,10,right,57048/57048_10_F2_RE_RS.jpg,F,67.89999999999999,4.0,Moderate AMD,1
+5179,0,left,5179/5179_00_LE_F2_RS.jpg,F,72.5,7.0,Advanced Intermediate AMD,2
+1070,14,right,51060/51060_14_F2_RE_RS.jpg,F,71.0,2.0,Early AMD,0
+4286,10,left,53418/53418_10_F2_LE_RS.jpg,M,71.2,9.0,Advanced Intermediate AMD,2
+G129,12,right,58280/58280_12_F2_RE_RS.jpg,F,71.4,2.0,Early AMD,0
+G228,16,right,60320/60320_16_F2_RE_RS.jpg,F,80.3,1.0,Early AMD,0
+1774,14,left,61420/61420_14_F2_LE_LS.jpg,F,63.8,7.0,Advanced Intermediate AMD,2
+3717,16,left,59093/59093_16_F2_LE_LS.jpg,M,77.7,1.0,Early AMD,0
+3826,14,right,52385/52385_14_F2_RE_RS.jpg,M,73.0,4.0,Moderate AMD,1
+1500,16,left,1500/1500_16_LE_F2_LS.jpg,M,73.9,10.0,Early Late AMD,3
+1361,20,right,51176/51176_20_F2_RE_RS.jpg,M,77.0,1.0,Early AMD,0
+4616,12,left,52710/52710_12_F2_LE_RS.jpg,F,79.1,11.0,Active Neovascular AMD,4
+1106,8,right,61552/61552_08_F2_RE_RS.jpg,F,70.4,4.0,Moderate AMD,1
+1478,6,right,60799/60799_06_F2_RE_RS.jpg,M,66.9,11.0,Active Neovascular AMD,4
+2793,20,right,2793/2793_20_RE_F2_RS.jpg,M,76.19999999999999,11.0,Active Neovascular AMD,4
+4166,8,right,55060/55060_08_F2_RE_LS.jpg,M,71.7,1.0,Early AMD,0
+4946,10,right,54058/54058_10_F2_RE_RS.jpg,M,70.0,2.0,Early AMD,0
+G444,6,left,60601/60601_06_F2_LE_LS.jpg,F,74.4,2.0,Early AMD,0
+4317,20,left,4317/4317_20_LE_F2_RS.jpg,F,82.6,11.0,Active Neovascular AMD,4
+1873,24,right,1873/1873_24_RE_F2_LS.jpg,M,80.3,11.0,Active Neovascular AMD,4
+4362,12,left,60074/60074_12_F2_LE_LS.jpg,M,68.4,2.0,Early AMD,0
+1021,13,right,57220/57220_13_F2_RE_LS.jpg,F,82.39999999999999,4.0,Moderate AMD,1
+4577,6,right,55339/55339_06_F2_RE_RS.jpg,F,70.7,11.0,Active Neovascular AMD,4
+1929,18,left,58718/58718_18_F2_LE_RS.jpg,M,76.3,2.0,Early AMD,0
+1806,6,right,60535/60535_06_F2_RE_LS.jpg,M,63.9,4.0,Moderate AMD,1
+3655,10,left,59422/59422_10_F2_LE_RS.jpg,F,73.89999999999999,1.0,Early AMD,0
+G014,22,left,53224/53224_22_F2_LE_LS.jpg,F,77.7,4.0,Moderate AMD,1
+5531,8,right,52600/52600_08_F2_RE_RS.jpg,M,73.5,1.0,Early AMD,0
+3845,20,right,53400/53400_20_F2_RE_RS.jpg,M,82.80000000000001,6.0,Moderate AMD,1
+1774,8,right,61420/61420_08_F2_RE_LS.jpg,F,60.9,7.0,Advanced Intermediate AMD,2
+5610,12,right,56664/56664_12_F2_RE_RS.jpg,F,62.1,4.0,Moderate AMD,1
+4749,6,right,57165/57165_06_F2_RE_RS.jpg,F,69.7,11.0,Active Neovascular AMD,4
+5370,4,right,58467/58467_04_F2_RE_LS.jpg,F,67.3,7.0,Advanced Intermediate AMD,2
+4726,8,left,61598/61598_08_F2_LE_LS.jpg,F,70.6,7.0,Advanced Intermediate AMD,2
+G321,10,left,57049/57049_10_F2_LE_LS.jpg,M,68.3,2.0,Early AMD,0
+1321,10,left,55214/55214_10_F2_LE_RS.jpg,F,67.0,4.0,Moderate AMD,1
+G161,8,right,53805/53805_08_F2_RE_RS.jpg,M,82.8,11.0,Active Neovascular AMD,4
+2678,4,left,56679/56679_04_F2_LE_RS.jpg,M,60.2,4.0,Moderate AMD,1
+4300,6,left,61612/61612_06_F2_LE_RS.jpg,F,67.4,4.0,Moderate AMD,1
+1865,8,right,61717/61717_08_F2_RE_RS.jpg,F,72.1,7.0,Advanced Intermediate AMD,2
+4280,4,right,55608/55608_04_F2_RE_RS.jpg,F,68.8,7.0,Advanced Intermediate AMD,2
+5009,6,left,53435/53435_06_F2_LE_LS.jpg,F,79.2,1.0,Early AMD,0
+4558,6,left,56006/56006_06_F2_LE_LS.jpg,M,74.2,11.0,Active Neovascular AMD,4
+2120,4,right,59767/59767_04_F2_RE_LS.jpg,M,70.8,4.0,Moderate AMD,1
+G228,20,right,60320/60320_20_F2_RE_LS.jpg,F,82.39999999999999,1.0,Early AMD,0
+1588,18,right,52455/52455_18_F2_RE_LS.jpg,F,80.8,11.0,Active Neovascular AMD,4
+5325,14,right,60705/60705_14_F2_RE_RS.jpg,M,82.6,8.0,Advanced Intermediate AMD,2
+3032,11,left,51760/51760_11_F2_LE_RS.jpg,M,84.60000000000001,11.0,Active Neovascular AMD,4
+3042,8,left,58317/58317_08_F2_LE_RS.jpg,F,66.7,11.0,Active Neovascular AMD,4
+2939,14,right,57048/57048_14_F2_RE_RS.jpg,F,69.8,5.0,Moderate AMD,1
+1426,4,right,53594/53594_04_F2_RE_RS.jpg,F,75.5,7.0,Advanced Intermediate AMD,2
+3031,14,left,59080/59080_14_F2_LE_LS.jpg,M,73.6,11.0,Active Neovascular AMD,4
+4594,14,right,61151/61151_14_F2_RE_LS.jpg,M,84.2,4.0,Moderate AMD,1
+G392,14,right,61495/61495_14_F2_RE_LS.jpg,M,73.4,11.0,Active Neovascular AMD,4
+1734,24,right,52397/52397_24_F2_RE_LS.jpg,F,81.8,6.0,Moderate AMD,1
+1961,4,right,60857/60857_04_F2_RE_LS.jpg,F,67.2,1.0,Early AMD,0
+3461,20,right,3461/3461_20_RE_F2_LS.jpg,F,82.5,1.0,Early AMD,0
+2370,0,left,2370/2370_00_LE_F2_LS.jpg,M,63.4,1.0,Early AMD,0
+3008,14,right,56610/56610_14_F2_RE_LS.jpg,F,81.0,6.0,Moderate AMD,1
+2162,6,left,61422/61422_06_F2_LE_RS.jpg,F,73.3,11.0,Active Neovascular AMD,4
+3812,12,right,55519/55519_12_F2_RE_RS.jpg,F,69.9,1.0,Early AMD,0
+2583,8,right,56112/56112_08_F2_RE_RS.jpg,M,72.2,5.0,Moderate AMD,1
+G209,16,right,G209/G209_16_RE_F2_RS.jpg,M,74.6,1.0,Early AMD,0
+1663,10,left,58547/58547_10_F2_LE_LS.jpg,M,65.6,8.0,Advanced Intermediate AMD,2
+3795,20,right,61545/61545_20_F2_RE_LS.jpg,M,74.1,11.0,Active Neovascular AMD,4
+G033,14,right,54565/54565_14_F2_RE_RS.jpg,M,76.8,8.0,Advanced Intermediate AMD,2
+1478,16,right,1478/1478_16_RE_F2_LS.jpg,M,72.1,11.0,Active Neovascular AMD,4
+5610,22,right,56664/56664_22_F2_RE_RS.jpg,F,67.2,3.0,Early AMD,0
+2465,18,left,56821/56821_18_F2_LE_RS.jpg,F,77.5,12.0,End-Stage AMD,5
+5032,6,right,53618/53618_06_F2_RE_LS.jpg,F,72.5,7.0,Advanced Intermediate AMD,2
+G495,14,left,51350/51350_14_F2_LE_LS.jpg,F,78.1,1.0,Early AMD,0
+5397,6,left,56498/56498_06_F2_LE_LS.jpg,F,73.4,10.0,Early Late AMD,3
+3356,18,left,56722/56722_18_F2_LE_LS.jpg,F,73.4,6.0,Moderate AMD,1
+G473,14,left,60715/60715_14_F2_LE_LS.jpg,M,71.0,8.0,Advanced Intermediate AMD,2
+3120,6,left,55320/55320_06_F2_LE_RS.jpg,F,73.2,7.0,Advanced Intermediate AMD,2
+4938,20,right,59840/59840_20_F2_RE_LS.jpg,F,83.7,6.0,Moderate AMD,1
+3840,10,right,53442/53442_10_F2_RE_RS.jpg,F,70.0,5.0,Moderate AMD,1
+2765,10,left,52360/52360_10_F2_LE_RS.jpg,F,74.9,4.0,Moderate AMD,1
+1291,8,left,61419/61419_08_F2_LE_RS.jpg,M,84.19999999999999,5.0,Moderate AMD,1
+4490,6,right,55080/55080_06_F2_RE_LS.jpg,F,73.6,3.0,Early AMD,0
+3720,8,left,3720/3720_08_LE_F2_RS.jpg,F,77.3,11.0,Active Neovascular AMD,4
+3174,10,right,3174/3174_10_RE_F2_RS.jpg,M,63.5,10.0,Early Late AMD,3
+G502,22,right,61162/61162_22_F2_RE_LS.jpg,F,75.1,1.0,Early AMD,0
+1070,10,right,51060/51060_10_F2_RE_RS.jpg,F,69.0,1.0,Early AMD,0
+5203,6,right,53825/53825_06_F2_RE_RS.jpg,F,68.60000000000001,1.0,Early AMD,0
+1774,20,right,61420/61420_20_F2_RE_LS.jpg,F,66.9,8.0,Advanced Intermediate AMD,2
+3494,10,right,61012/61012_10_F2_RE_RS.jpg,M,68.4,4.0,Moderate AMD,1
+1471,14,right,59898/59898_14_F2_RE_RS.jpg,M,81.9,5.0,Moderate AMD,1
+4622,6,right,54812/54812_06_F2_RE_RS.jpg,F,64.3,3.0,Early AMD,0
+G129,10,right,58280/58280_10_F2_RE_RS.jpg,F,70.5,1.0,Early AMD,0
+G287,16,left,60910/60910_16_F2_LE_RS.jpg,M,70.6,1.0,Early AMD,0
+4746,22,left,58124/58124_22_F2_LE_RS.jpg,F,81.8,1.0,Early AMD,0
+G349,4,left,59858/59858_04_F2_LE_LS.jpg,M,63.2,7.0,Advanced Intermediate AMD,2
+1225,16,right,56673/56673_16_F2_RE_RS.jpg,M,75.60000000000001,5.0,Moderate AMD,1
+1016,4,right,53521/53521_04_F2_RE_RS.jpg,M,67.0,11.0,Active Neovascular AMD,4
+1717,12,right,59604/59604_12_F2_RE_RS.jpg,F,85.2,11.0,Active Neovascular AMD,4
+4860,8,right,61713/61713_08_F2_RE_RS.jpg,F,66.7,8.0,Advanced Intermediate AMD,2
+3077,6,left,59724/59724_06_F2_LE_RS.jpg,F,71.0,11.0,Active Neovascular AMD,4
+2790,8,left,58191/58191_08_F2_LE_RS.jpg,M,77.80000000000001,2.0,Early AMD,0
+1608,12,left,60249/60249_12_F2_LE_LS.jpg,M,83.9,1.0,Early AMD,0
+3999,1,left,58132/58132_01_F2_LE_RS.jpg,F,71.5,11.0,Active Neovascular AMD,4
+5156,18,right,58672/58672_18_F2_RE_LS.jpg,F,68.5,6.0,Moderate AMD,1
+G219,20,right,52639/52639_20_F2_RE_LS.jpg,F,72.8,2.0,Early AMD,0
+3049,20,right,52529/52529_20_F2_RE_RS.jpg,M,86.1,11.0,Active Neovascular AMD,4
+2100,20,left,51780/51780_20_F2_LE_RS.jpg,M,69.6,9.0,Advanced Intermediate AMD,2
+4671,20,left,4671/4671_20_LE_F2_LS.jpg,M,84.3,10.0,Early Late AMD,3
+2426,12,right,61351/61351_12_F2_RE_LS.jpg,M,77.89999999999999,11.0,Active Neovascular AMD,4
+5278,4,left,61051/61051_04_F2_LE_LS.jpg,F,69.6,11.0,Active Neovascular AMD,4
+1011,4,right,52594/52594_04_F2_RE_LS.jpg,F,68.5,12.0,End-Stage AMD,5
+1734,18,right,52397/52397_18_F2_RE_RS.jpg,F,79.0,5.0,Moderate AMD,1
+3142,12,right,53607/53607_12_F2_RE_LS.jpg,F,76.89999999999999,11.0,Active Neovascular AMD,4
+5504,8,left,57247/57247_08_F2_LE_LS.jpg,F,64.4,4.0,Moderate AMD,1
+1843,12,right,54279/54279_12_F2_RE_RS.jpg,F,78.3,4.0,Moderate AMD,1
+3032,8,left,51760/51760_08_F2_LE_LS.jpg,M,83.10000000000001,11.0,Active Neovascular AMD,4
+2918,6,right,52742/52742_06_F2_RE_RS.jpg,F,66.3,1.0,Early AMD,0
+3840,8,left,53442/53442_08_F2_LE_RS.jpg,F,69.1,4.0,Moderate AMD,1
+2674,16,left,59743/59743_16_F2_LE_RS.jpg,M,65.1,8.0,Advanced Intermediate AMD,2
+3655,12,left,59422/59422_12_F2_LE_RS.jpg,F,74.89999999999999,1.0,Early AMD,0
+4121,22,right,56202/56202_22_F2_RE_RS.jpg,F,72.5,1.0,Early AMD,0
+1479,10,right,51725/51725_10_F2_RE_RS.jpg,M,66.8,11.0,Active Neovascular AMD,4
+G202,8,left,51551/51551_08_F2_LE_LS.jpg,M,73.0,11.0,Active Neovascular AMD,4
+1588,12,right,1588/1588_12_RE_F2_RS.jpg,F,77.7,11.0,Active Neovascular AMD,4
+3368,20,left,59618/59618_20_F2_LE_RS.jpg,F,86.1,11.0,Active Neovascular AMD,4
+G443,4,left,59638/59638_04_F2_LE_LS.jpg,F,68.6,5.0,Moderate AMD,1
+5393,18,left,61676/61676_18_F2_LE_LS.jpg,F,79.3,6.0,Moderate AMD,1
+4594,10,right,61151/61151_10_F2_RE_LS.jpg,M,82.2,4.0,Moderate AMD,1
+4300,14,left,61612/61612_14_F2_LE_RS.jpg,F,71.4,2.0,Early AMD,0
+G526,14,left,61605/61605_14_F2_LE_LS.jpg,F,76.1,6.0,Moderate AMD,1
+2276,10,right,61654/61654_10_F2_RE_RS.jpg,M,73.5,7.0,Advanced Intermediate AMD,2
+1774,12,right,61420/61420_12_F2_RE_RS.jpg,F,62.9,7.0,Advanced Intermediate AMD,2
+5179,14,left,5179/5179_14_LE_F2_LS.jpg,F,79.7,11.0,Active Neovascular AMD,4
+1106,4,right,61552/61552_04_F2_RE_LS.jpg,F,68.4,6.0,Moderate AMD,1
+3597,12,left,51197/51197_12_F2_LE_LS.jpg,F,76.3,11.0,Active Neovascular AMD,4
+G129,4,right,58280/58280_04_F2_RE_RS.jpg,F,67.4,2.0,Early AMD,0
+2481,16,left,58076/58076_16_F2_LE_LS.jpg,F,78.2,5.0,Moderate AMD,1
+2150,4,right,60854/60854_04_F2_RE_LS.jpg,M,75.5,4.0,Moderate AMD,1
+3368,8,left,59618/59618_08_F2_LE_RS.jpg,F,80.0,11.0,Active Neovascular AMD,4
+1471,6,right,59898/59898_06_F2_RE_RS.jpg,M,77.9,4.0,Moderate AMD,1
+2563,8,left,59705/59705_08_F2_LE_LS.jpg,F,65.2,1.0,Early AMD,0
+3049,12,right,52529/52529_12_F2_RE_LS.jpg,M,82.1,11.0,Active Neovascular AMD,4
+3481,14,right,54014/54014_14_F2_RE_RS.jpg,F,72.3,1.0,Early AMD,0
+5320,6,left,53857/53857_06_F2_LE_LS.jpg,M,77.3,11.0,Active Neovascular AMD,4
+1774,22,left,61420/61420_22_F2_LE_RS.jpg,F,67.9,8.0,Advanced Intermediate AMD,2
+3640,12,left,60642/60642_12_F2_LE_LS.jpg,M,79.1,8.0,Advanced Intermediate AMD,2
+4050,8,left,60056/60056_08_F2_LE_RS.jpg,M,76.2,5.0,Moderate AMD,1
+3792,6,right,53313/53313_06_F2_RE_LS.jpg,F,71.9,4.0,Moderate AMD,1
+G346,6,left,51213/51213_06_F2_LE_LS.jpg,M,78.0,5.0,Moderate AMD,1
+5160,9,right,59893/59893_09_F2_RE_RS.jpg,F,85.3,6.0,Moderate AMD,1
+3792,18,left,53313/53313_18_F2_LE_RS.jpg,F,77.9,4.0,Moderate AMD,1
+G490,6,left,53751/53751_06_F2_LE_LS.jpg,F,79.4,6.0,Moderate AMD,1
+4121,4,right,56202/56202_04_F2_RE_LS.jpg,F,63.3,1.0,Early AMD,0
+3415,10,left,52063/52063_10_F2_LE_RS.jpg,F,67.7,2.0,Early AMD,0
+3142,6,right,53607/53607_06_F2_RE_RS.jpg,F,73.89999999999999,11.0,Active Neovascular AMD,4
+4822,10,left,51771/51771_10_F2_LE_RS.jpg,M,67.4,11.0,Active Neovascular AMD,4
+3031,12,left,3031/3031_12_LE_F2_LS.jpg,M,72.6,11.0,Active Neovascular AMD,4
+G349,8,right,59858/59858_08_F2_RE_RS.jpg,M,65.10000000000001,9.0,Advanced Intermediate AMD,2
+1014,10,left,55692/55692_10_F2_LE_RS.jpg,M,83.3,11.0,Active Neovascular AMD,4
+G307,8,left,59757/59757_08_F2_LE_LS.jpg,F,74.89999999999999,3.0,Early AMD,0
+G033,16,right,54565/54565_16_F2_RE_RS.jpg,M,77.8,6.0,Moderate AMD,1
+5274,9,left,53295/53295_09_F2_LE_LS.jpg,M,76.4,11.0,Active Neovascular AMD,4
+3274,20,right,52692/52692_20_F2_RE_LS.jpg,M,87.1,1.0,Early AMD,0
+G058,2,left,61686/61686_02_F2_LE_LS.jpg,F,80.19999999999999,1.0,Early AMD,0
+2070,5,right,52606/52606_05_F2_RE_RS.jpg,M,71.8,7.0,Advanced Intermediate AMD,2
+G054,20,right,60909/60909_20_F2_RE_LS.jpg,M,75.1,6.0,Moderate AMD,1
+2466,10,left,58696/58696_10_F2_LE_RS.jpg,F,74.2,11.0,Active Neovascular AMD,4
+4202,22,left,53481/53481_22_F2_LE_RS.jpg,F,73.5,8.0,Advanced Intermediate AMD,2
+4053,12,right,56526/56526_12_F2_RE_RS.jpg,F,78.5,9.0,Advanced Intermediate AMD,2
+1761,15,right,55118/55118_15_F2_RE_RS.jpg,F,84.6,1.0,Early AMD,0
+5432,10,left,52745/52745_10_F2_LE_LS.jpg,F,71.9,11.0,Active Neovascular AMD,4
+1604,14,right,52836/52836_14_F2_RE_LS.jpg,M,66.6,6.0,Moderate AMD,1
+4986,6,right,58745/58745_06_F2_RE_RS.jpg,M,76.19999999999999,4.0,Moderate AMD,1
+1350,14,left,54471/54471_14_F2_LE_LS.jpg,F,77.10000000000001,11.0,Active Neovascular AMD,4
+3031,20,left,3031/3031_20_LE_F2_LS.jpg,M,76.6,10.0,Early Late AMD,3
+1281,14,right,61305/61305_14_F2_RE_RS.jpg,M,74.6,11.0,Active Neovascular AMD,4
+4457,14,right,55047/55047_14_F2_RE_RS.jpg,F,81.89999999999999,11.0,Active Neovascular AMD,4
+3892,8,right,56710/56710_08_F2_RE_LS.jpg,F,65.6,5.0,Moderate AMD,1
+2466,8,left,58696/58696_08_F2_LE_RS.jpg,F,73.1,11.0,Active Neovascular AMD,4
+4771,20,left,54280/54280_20_F2_LE_RS.jpg,M,82.1,1.0,Early AMD,0
+G178,8,right,54858/54858_08_F2_RE_RS.jpg,M,73.3,5.0,Moderate AMD,1
+4699,4,left,59025/59025_04_F2_LE_LS.jpg,F,75.10000000000001,1.0,Early AMD,0
+1934,16,right,54236/54236_16_F2_RE_RS.jpg,F,75.1,5.0,Moderate AMD,1
+G470,10,left,58552/58552_10_F2_LE_RS.jpg,M,60.8,11.0,Active Neovascular AMD,4
+4671,8,left,4671/4671_08_LE_F2_LS.jpg,M,78.3,9.0,Advanced Intermediate AMD,2
+1604,10,left,52836/52836_10_F2_LE_LS.jpg,M,64.6,7.0,Advanced Intermediate AMD,2
+1929,4,left,58718/58718_04_F2_LE_RS.jpg,M,69.1,2.0,Early AMD,0
+1295,24,right,55193/55193_24_F2_RE_RS.jpg,F,84.1,5.0,Moderate AMD,1
+4172,18,left,56014/56014_18_F2_LE_LS.jpg,M,82.6,1.0,Early AMD,0
+1653,10,left,52633/52633_10_F2_LE_LS.jpg,M,71.9,1.0,Early AMD,0
+4050,20,left,60056/60056_20_F2_LE_RS.jpg,M,82.2,5.0,Moderate AMD,1
+2870,6,right,55507/55507_06_F2_RE_LS.jpg,F,73.3,1.0,Early AMD,0
+3138,4,left,3138/3138_04_LE_F2_LS.jpg,F,74.6,8.0,Advanced Intermediate AMD,2
+G349,16,left,59858/59858_16_F2_LE_LS.jpg,M,69.10000000000001,10.0,Early Late AMD,3
+3174,20,right,3174/3174_20_RE_F2_RS.jpg,M,68.5,10.0,Early Late AMD,3
+4577,10,right,55339/55339_10_F2_RE_LS.jpg,F,72.9,11.0,Active Neovascular AMD,4
+2120,8,right,59767/59767_08_F2_RE_RS.jpg,M,73.0,4.0,Moderate AMD,1
+G473,10,left,60715/60715_10_F2_LE_RS.jpg,M,69.0,8.0,Advanced Intermediate AMD,2
+G604,12,left,52739/52739_12_F2_LE_LS.jpg,F,76.0,9.0,Advanced Intermediate AMD,2
+2465,12,right,56821/56821_12_F2_RE_RS.jpg,F,74.3,11.0,Active Neovascular AMD,4
+1953,6,right,58469/58469_06_F2_RE_LS.jpg,M,64.6,4.0,Moderate AMD,1
+3470,10,left,58364/58364_10_F2_LE_LS.jpg,M,78.4,12.0,End-Stage AMD,5
+G228,10,right,60320/60320_10_F2_RE_RS.jpg,F,77.3,2.0,Early AMD,0
+G249,10,right,61526/61526_10_F2_RE_LS.jpg,M,69.7,8.0,Advanced Intermediate AMD,2
+3857,14,right,55741/55741_14_F2_RE_LS.jpg,F,75.2,2.0,Early AMD,0
+1865,14,right,61717/61717_14_F2_RE_LS.jpg,F,74.8,8.0,Advanced Intermediate AMD,2
+2793,12,right,2793/2793_12_RE_F2_LS.jpg,M,72.1,7.0,Advanced Intermediate AMD,2
+4219,4,right,51767/51767_04_F2_RE_LS.jpg,M,79.9,7.0,Advanced Intermediate AMD,2
+4121,18,right,56202/56202_18_F2_RE_RS.jpg,F,70.3,1.0,Early AMD,0
+3982,16,right,3982/3982_16_RE_F2_RS.jpg,F,79.2,11.0,Active Neovascular AMD,4
+1808,15,left,53195/53195_15_F2_LE_LS.jpg,F,79.2,11.0,Active Neovascular AMD,4
+2518,18,left,51645/51645_18_F2_LE_RS.jpg,M,66.89999999999999,7.0,Advanced Intermediate AMD,2
+2607,10,right,51135/51135_10_F2_RE_LS.jpg,M,68.8,1.0,Early AMD,0
+3717,12,left,59093/59093_12_F2_LE_RS.jpg,M,75.80000000000001,1.0,Early AMD,0
+G444,14,left,60601/60601_14_F2_LE_LS.jpg,F,78.4,1.0,Early AMD,0
+3049,14,right,52529/52529_14_F2_RE_RS.jpg,M,83.1,11.0,Active Neovascular AMD,4
+2212,20,left,2212/2212_20_LE_F2_RS.jpg,M,78.5,10.0,Early Late AMD,3
+5504,14,left,57247/57247_14_F2_LE_RS.jpg,F,67.5,6.0,Moderate AMD,1
+G462,8,right,51703/51703_08_F2_RE_LS.jpg,M,74.10000000000001,3.0,Early AMD,0
+3341,0,left,3341/3341_00_LE_F2_LS.jpg,M,58.9,11.0,Active Neovascular AMD,4
+1011,16,right,52594/52594_16_F2_RE_LS.jpg,F,74.60000000000001,10.0,Early Late AMD,3
+5179,20,left,5179/5179_20_LE_F2_RS.jpg,F,82.5,11.0,Active Neovascular AMD,4
+5179,22,right,56538/56538_22_F2_RE_LS.jpg,F,83.5,11.0,Active Neovascular AMD,4
+1663,12,left,58547/58547_12_F2_LE_RS.jpg,M,66.6,8.0,Advanced Intermediate AMD,2
+1291,4,right,61419/61419_04_F2_RE_RS.jpg,M,82.19999999999999,6.0,Moderate AMD,1
+G106,13,right,53714/53714_13_F2_RE_LS.jpg,F,85.7,11.0,Active Neovascular AMD,4
+3597,4,right,51197/51197_04_F2_RE_RS.jpg,F,72.4,7.0,Advanced Intermediate AMD,2
+3008,6,right,56610/56610_06_F2_RE_LS.jpg,F,76.8,5.0,Moderate AMD,1
+3987,8,right,56732/56732_08_F2_RE_LS.jpg,M,73.4,1.0,Early AMD,0
+G089,14,right,53238/53238_14_F2_RE_LS.jpg,F,69.6,2.0,Early AMD,0
+5370,12,left,58467/58467_12_F2_LE_LS.jpg,F,71.3,7.0,Advanced Intermediate AMD,2
+4822,8,left,51771/51771_08_F2_LE_LS.jpg,M,66.4,11.0,Active Neovascular AMD,4
+4166,20,left,55060/55060_20_F2_LE_LS.jpg,M,77.8,1.0,Early AMD,0
+5239,15,left,55404/55404_15_F2_LE_RS.jpg,M,85.8,8.0,Advanced Intermediate AMD,2
+G324,18,right,52049/52049_18_F2_RE_LS.jpg,F,72.3,1.0,Early AMD,0
+1604,18,left,52836/52836_18_F2_LE_LS.jpg,M,68.6,7.0,Advanced Intermediate AMD,2
+2600,4,right,53838/53838_04_F2_RE_LS.jpg,M,63.3,11.0,Active Neovascular AMD,4
+2481,14,left,58076/58076_14_F2_LE_RS.jpg,F,77.4,4.0,Moderate AMD,1
+5265,10,left,56658/56658_10_F2_LE_RS.jpg,F,81.7,10.0,Early Late AMD,3
+2426,6,left,61351/61351_06_F2_LE_LS.jpg,M,75.1,7.0,Advanced Intermediate AMD,2
+4663,16,left,601000/601000_16_F2_LE_RS.jpg,F,69.4,4.0,Moderate AMD,1
+G105,6,left,58546/58546_06_F2_LE_RS.jpg,F,62.2,6.0,Moderate AMD,1
+4408,4,right,62017/62017_04_F2_RE_RS.jpg,F,76.3,6.0,Moderate AMD,1
+1350,6,left,54471/54471_06_F2_LE_RS.jpg,F,73.0,11.0,Active Neovascular AMD,4
+1016,8,right,53521/53521_08_F2_RE_LS.jpg,M,69.0,11.0,Active Neovascular AMD,4
+G429,16,right,59852/59852_16_F2_RE_LS.jpg,M,74.0,1.0,Early AMD,0
+5738,16,right,58632/58632_16_F2_RE_RS.jpg,M,85.7,1.0,Early AMD,0
+1152,4,left,60872/60872_04_F2_LE_RS.jpg,M,74.8,4.0,Moderate AMD,1
+2193,12,right,2193/2193_12_RE_F2_RS.jpg,F,74.80000000000001,7.0,Advanced Intermediate AMD,2
+2162,4,left,2162/2162_04_LE_F2_LS.jpg,F,72.3,11.0,Active Neovascular AMD,4
+3042,15,left,58317/58317_15_F2_LE_RS.jpg,F,69.8,11.0,Active Neovascular AMD,4
+4280,6,left,55608/55608_06_F2_LE_LS.jpg,F,69.9,8.0,Advanced Intermediate AMD,2
+3010,12,left,3010/3010_12_LE_F2_LS.jpg,F,79.5,6.0,Moderate AMD,1
+G307,6,right,59757/59757_06_F2_RE_RS.jpg,F,73.8,4.0,Moderate AMD,1
+G588,10,right,51718/51718_10_F2_RE_RS.jpg,M,68.7,1.0,Early AMD,0
+4286,24,left,53418/53418_24_F2_LE_LS.jpg,M,78.2,10.0,Early Late AMD,3
+3846,22,right,54045/54045_22_F2_RE_RS.jpg,F,86.3,11.0,Active Neovascular AMD,4
+G490,8,right,53751/53751_08_F2_RE_LS.jpg,F,80.4,6.0,Moderate AMD,1
+1295,8,right,55193/55193_08_F2_RE_RS.jpg,F,76.39999999999999,4.0,Moderate AMD,1
+2952,18,left,56685/56685_18_F2_LE_RS.jpg,M,75.4,2.0,Early AMD,0
+2010,4,right,58736/58736_04_F2_RE_LS.jpg,M,69.3,4.0,Moderate AMD,1
+3407,16,left,56816/56816_16_F2_LE_RS.jpg,M,76.4,12.0,End-Stage AMD,5
+G178,6,right,54858/54858_06_F2_RE_RS.jpg,M,72.2,4.0,Moderate AMD,1
+G353,16,left,53815/53815_16_F2_LE_LS.jpg,F,75.39999999999999,1.0,Early AMD,0
+5404,14,left,58247/58247_14_F2_LE_LS.jpg,M,75.2,2.0,Early AMD,0
+G470,16,left,58552/58552_16_F2_LE_RS.jpg,M,63.8,11.0,Active Neovascular AMD,4
+5160,10,right,59893/59893_10_F2_RE_LS.jpg,F,85.69999999999999,6.0,Moderate AMD,1
+3341,10,left,601006/601006_10_F2_LE_LS.jpg,M,63.8,11.0,Active Neovascular AMD,4
+3133,22,left,59192/59192_22_F2_LE_LS.jpg,F,79.2,7.0,Advanced Intermediate AMD,2
+4840,8,right,55593/55593_08_F2_RE_LS.jpg,F,67.7,1.0,Early AMD,0
+G420,6,left,61290/61290_06_F2_LE_LS.jpg,M,69.4,1.0,Early AMD,0
+4672,4,right,59589/59589_04_F2_RE_RS.jpg,M,69.6,7.0,Advanced Intermediate AMD,2
+4307,0,left,4307/4307_00_LE_F2_RS.jpg,F,63.8,1.0,Early AMD,0
+G603,8,right,55587/55587_08_F2_RE_LS.jpg,M,68.0,4.0,Moderate AMD,1
+1942,4,right,55703/55703_04_F2_RE_RS.jpg,F,68.9,5.0,Moderate AMD,1
+1345,8,left,58113/58113_08_F2_LE_RS.jpg,M,72.2,1.0,Early AMD,0
+5265,6,left,56658/56658_06_F2_LE_RS.jpg,F,79.5,10.0,Early Late AMD,3
+5061,12,left,58457/58457_12_F2_LE_RS.jpg,F,76.1,8.0,Advanced Intermediate AMD,2
+3717,6,right,59093/59093_06_F2_RE_LS.jpg,M,73.10000000000001,1.0,Early AMD,0
+2791,22,left,60582/60582_22_F2_LE_RS.jpg,M,71.3,6.0,Moderate AMD,1
+G209,8,left,G209/G209_08_LE_F2_RS.jpg,M,70.6,1.0,Early AMD,0
+2518,10,left,51645/51645_10_F2_LE_LS.jpg,M,62.9,6.0,Moderate AMD,1
+1800,14,right,56154/56154_14_F2_RE_LS.jpg,M,76.3,2.0,Early AMD,0
+4726,10,left,61598/61598_10_F2_LE_LS.jpg,F,71.6,6.0,Moderate AMD,1
+5478,8,left,5478/5478_08_LE_F2_LS.jpg,F,80.4,11.0,Active Neovascular AMD,4
+2120,12,right,59767/59767_12_F2_RE_LS.jpg,M,75.0,5.0,Moderate AMD,1
+4616,14,left,52710/52710_14_F2_LE_RS.jpg,F,80.1,12.0,End-Stage AMD,5
+G014,10,left,53224/53224_10_F2_LE_LS.jpg,F,71.0,4.0,Moderate AMD,1
+5156,16,left,58672/58672_16_F2_LE_LS.jpg,F,67.5,6.0,Moderate AMD,1
+5397,4,left,56498/56498_04_F2_LE_RS.jpg,F,72.4,10.0,Early Late AMD,3
+4520,10,right,58753/58753_10_F2_RE_RS.jpg,F,74.5,11.0,Active Neovascular AMD,4
+1869,3,right,56534/56534_03_F2_RE_LS.jpg,F,68.3,7.0,Advanced Intermediate AMD,2
+2100,8,left,51780/51780_08_F2_LE_LS.jpg,M,63.9,7.0,Advanced Intermediate AMD,2
+G526,20,left,61605/61605_20_F2_LE_LS.jpg,F,79.0,6.0,Moderate AMD,1
+G279,2,left,61203/61203_02_F2_LE_RS.jpg,F,73.8,5.0,Moderate AMD,1
+2097,20,right,56217/56217_20_F2_RE_RS.jpg,M,81.8,1.0,Early AMD,0
+1901,10,left,52690/52690_10_F2_LE_RS.jpg,M,65.5,1.0,Early AMD,0
+G180,6,right,53659/53659_06_F2_RE_LS.jpg,F,64.89999999999999,2.0,Early AMD,0
+G105,20,right,58546/58546_20_F2_RE_LS.jpg,F,69.5,8.0,Advanced Intermediate AMD,2
+G443,12,left,59638/59638_12_F2_LE_LS.jpg,F,72.6,5.0,Moderate AMD,1
+1568,16,left,1568/1568_16_LE_F2_RS.jpg,F,71.5,11.0,Active Neovascular AMD,4
+5239,10,left,55404/55404_10_F2_LE_RS.jpg,M,83.1,7.0,Advanced Intermediate AMD,2
+4645,8,left,55668/55668_08_F2_LE_RS.jpg,M,70.8,2.0,Early AMD,0
+4589,20,right,55666/55666_20_F2_RE_LS.jpg,M,76.9,1.0,Early AMD,0
+2212,0,right,2212/2212_00_RE_F2_RS.jpg,M,68.5,8.0,Advanced Intermediate AMD,2
+3142,4,right,53607/53607_04_F2_RE_LS.jpg,F,72.8,11.0,Active Neovascular AMD,4
+3640,8,right,60642/60642_08_F2_RE_LS.jpg,M,77.1,6.0,Moderate AMD,1
+5372,6,right,60376/60376_06_F2_RE_LS.jpg,M,73.7,1.0,Early AMD,0
+2183,4,left,59448/59448_04_F2_LE_LS.jpg,M,68.7,4.0,Moderate AMD,1
+3852,14,right,55681/55681_14_F2_RE_LS.jpg,F,68.2,1.0,Early AMD,0
+2034,22,left,54749/54749_22_F2_LE_LS.jpg,F,88.1,10.0,Early Late AMD,3
+3341,14,right,601006/601006_14_F2_RE_LS.jpg,M,65.9,11.0,Active Neovascular AMD,4
+2575,18,left,56362/56362_18_F2_LE_LS.jpg,F,72.0,11.0,Active Neovascular AMD,4
+5156,8,left,58672/58672_08_F2_LE_RS.jpg,F,63.6,5.0,Moderate AMD,1
+1873,14,right,59531/59531_14_F2_RE_RS.jpg,M,75.5,11.0,Active Neovascular AMD,4
+3272,10,right,53623/53623_10_F2_RE_LS.jpg,M,73.0,11.0,Active Neovascular AMD,4
+2100,4,left,51780/51780_04_F2_LE_LS.jpg,M,61.8,7.0,Advanced Intermediate AMD,2
+1941,4,right,58776/58776_04_F2_RE_RS.jpg,M,64.5,11.0,Active Neovascular AMD,4
+G467,13,right,53681/53681_13_F2_RE_LS.jpg,F,79.39999999999999,8.0,Advanced Intermediate AMD,2
+1500,8,left,1500/1500_08_LE_F2_RS.jpg,M,69.9,10.0,Early Late AMD,3
+3133,14,left,59192/59192_14_F2_LE_RS.jpg,F,75.39999999999999,8.0,Advanced Intermediate AMD,2
+1800,8,right,56154/56154_08_F2_RE_LS.jpg,M,73.3,1.0,Early AMD,0
+2616,10,right,54484/54484_10_F2_RE_LS.jpg,M,78.8,11.0,Active Neovascular AMD,4
+1117,6,left,54779/54779_06_F2_LE_LS.jpg,M,71.1,1.0,Early AMD,0
+4616,6,left,52710/52710_06_F2_LE_RS.jpg,F,76.1,11.0,Active Neovascular AMD,4
+4286,16,right,53418/53418_16_F2_RE_RS.jpg,M,74.4,9.0,Advanced Intermediate AMD,2
+5211,4,left,53469/53469_04_F2_LE_RS.jpg,F,73.3,6.0,Moderate AMD,1
+5049,16,left,54775/54775_16_F2_LE_LS.jpg,F,80.5,1.0,Early AMD,0
+G426,6,right,61324/61324_06_F2_RE_LS.jpg,F,70.2,7.0,Advanced Intermediate AMD,2
+4906,12,right,56807/56807_12_F2_RE_RS.jpg,M,74.0,7.0,Advanced Intermediate AMD,2
+3596,24,left,59281/59281_24_F2_LE_RS.jpg,F,79.1,2.0,Early AMD,0
+5675,14,right,58558/58558_14_F2_RE_RS.jpg,F,76.7,11.0,Active Neovascular AMD,4
+1350,12,left,54471/54471_12_F2_LE_LS.jpg,F,76.0,11.0,Active Neovascular AMD,4
+G429,18,right,59852/59852_18_F2_RE_RS.jpg,M,75.0,1.0,Early AMD,0
+1479,6,left,51725/51725_06_F2_LE_LS.jpg,M,64.9,9.0,Advanced Intermediate AMD,2
+4505,20,right,54538/54538_20_F2_RE_RS.jpg,F,75.9,7.0,Advanced Intermediate AMD,2
+3410,4,right,56424/56424_04_F2_RE_RS.jpg,M,73.7,7.0,Advanced Intermediate AMD,2
+1677,20,left,1677/1677_20_LE_F2_RS.jpg,M,87.5,1.0,Early AMD,0
+1500,20,left,1500/1500_20_LE_F2_LS.jpg,M,76.10000000000001,10.0,Early Late AMD,3
+1929,6,left,58718/58718_06_F2_LE_LS.jpg,M,70.0,2.0,Early AMD,0
+4822,11,left,51771/51771_11_F2_LE_RS.jpg,M,68.0,12.0,End-Stage AMD,5
+4914,4,left,58609/58609_04_F2_LE_LS.jpg,M,78.8,4.0,Moderate AMD,1
+4224,6,left,53809/53809_06_F2_LE_LS.jpg,F,76.0,6.0,Moderate AMD,1
+1350,10,left,54471/54471_10_F2_LE_RS.jpg,F,75.0,11.0,Active Neovascular AMD,4
+4683,16,right,56826/56826_16_F2_RE_LS.jpg,F,69.10000000000001,2.0,Early AMD,0
+4202,10,right,53481/53481_10_F2_RE_LS.jpg,F,67.4,7.0,Advanced Intermediate AMD,2
+2185,20,right,56255/56255_20_F2_RE_RS.jpg,M,77.4,2.0,Early AMD,0
+G353,18,right,53815/53815_18_F2_RE_RS.jpg,F,76.5,1.0,Early AMD,0
+G279,10,left,61203/61203_10_F2_LE_LS.jpg,F,77.7,5.0,Moderate AMD,1
+2047,4,left,55024/55024_04_F2_LE_RS.jpg,M,64.3,2.0,Early AMD,0
+G462,6,left,51703/51703_06_F2_LE_RS.jpg,M,73.3,2.0,Early AMD,0
+2739,14,left,60275/60275_14_F2_LE_LS.jpg,F,75.5,11.0,Active Neovascular AMD,4
+G043,9,left,60886/60886_09_F2_LE_RS.jpg,F,75.6,11.0,Active Neovascular AMD,4
+1843,22,right,54279/54279_22_F2_RE_RS.jpg,F,83.2,5.0,Moderate AMD,1
+4749,4,right,57165/57165_04_F2_RE_LS.jpg,F,68.60000000000001,11.0,Active Neovascular AMD,4
+1350,8,left,54471/54471_08_F2_LE_RS.jpg,F,74.0,11.0,Active Neovascular AMD,4
+4577,18,right,55339/55339_18_F2_RE_RS.jpg,F,77.5,11.0,Active Neovascular AMD,4
+1843,20,right,54279/54279_20_F2_RE_RS.jpg,F,82.3,2.0,Early AMD,0
+1761,10,left,55118/55118_10_F2_LE_RS.jpg,F,82.19999999999999,1.0,Early AMD,0
+4258,14,left,59647/59647_14_F2_LE_RS.jpg,M,71.4,2.0,Early AMD,0
+2193,0,left,2193/2193_00_LE_F2_LS.jpg,F,68.9,6.0,Moderate AMD,1
+4172,12,left,4172/4172_12_LE_F2_LS.jpg,M,79.6,1.0,Early AMD,0
+1478,8,right,1478/1478_08_RE_F2_RS.jpg,M,68.0,11.0,Active Neovascular AMD,4
+4236,14,right,51800/51800_14_F2_RE_LS.jpg,F,76.0,1.0,Early AMD,0
+3597,18,right,51197/51197_18_F2_RE_LS.jpg,F,79.3,12.0,End-Stage AMD,5
+G429,10,right,59852/59852_10_F2_RE_LS.jpg,M,70.7,1.0,Early AMD,0
+5156,20,right,58672/58672_20_F2_RE_RS.jpg,F,69.5,6.0,Moderate AMD,1
+4053,8,left,56526/56526_08_F2_LE_LS.jpg,F,76.30000000000001,8.0,Advanced Intermediate AMD,2
+5211,10,right,53469/53469_10_F2_RE_RS.jpg,F,76.3,7.0,Advanced Intermediate AMD,2
+3174,18,left,59883/59883_18_F2_LE_LS.jpg,M,67.6,10.0,Early Late AMD,3
+3036,10,left,51796/51796_10_F2_LE_RS.jpg,M,79.89999999999999,10.0,Early Late AMD,3
+3042,4,left,58317/58317_04_F2_LE_LS.jpg,F,64.3,11.0,Active Neovascular AMD,4
+3971,4,left,52020/52020_04_F2_LE_LS.jpg,F,78.6,1.0,Early AMD,0
+1588,6,right,52455/52455_06_F2_RE_RS.jpg,F,74.7,11.0,Active Neovascular AMD,4
+5290,4,right,51588/51588_04_F2_RE_RS.jpg,F,65.6,10.0,Early Late AMD,3
+G439,8,left,53847/53847_08_F2_LE_RS.jpg,M,78.5,6.0,Moderate AMD,1
+4616,10,left,52710/52710_10_F2_LE_RS.jpg,F,78.1,11.0,Active Neovascular AMD,4
+4933,8,right,60610/60610_08_F2_RE_LS.jpg,M,71.0,5.0,Moderate AMD,1
+1568,14,left,61498/61498_14_F2_LE_RS.jpg,F,70.5,11.0,Active Neovascular AMD,4
+4362,8,left,60074/60074_08_F2_LE_LS.jpg,M,66.4,2.0,Early AMD,0
+1934,18,right,54236/54236_18_F2_RE_RS.jpg,F,76.1,5.0,Moderate AMD,1
+5103,4,right,59438/59438_04_F2_RE_RS.jpg,M,72.3,5.0,Moderate AMD,1
+2396,4,left,55738/55738_04_F2_LE_RS.jpg,F,66.19999999999999,3.0,Early AMD,0
+1462,10,right,52588/52588_10_F2_RE_RS.jpg,M,76.8,11.0,Active Neovascular AMD,4
+1426,6,right,53594/53594_06_F2_RE_RS.jpg,F,76.7,7.0,Advanced Intermediate AMD,2
+2728,10,left,53365/53365_10_F2_LE_RS.jpg,F,69.39999999999999,2.0,Early AMD,0
+4663,20,right,601000/601000_20_F2_RE_LS.jpg,F,71.4,6.0,Moderate AMD,1
+1471,12,right,59898/59898_12_F2_RE_LS.jpg,M,80.9,6.0,Moderate AMD,1
+2314,8,right,52542/52542_08_F2_RE_RS.jpg,M,77.2,11.0,Active Neovascular AMD,4
+5103,6,right,59438/59438_06_F2_RE_LS.jpg,M,73.3,5.0,Moderate AMD,1
+3420,15,right,56488/56488_15_F2_RE_RS.jpg,F,81.5,11.0,Active Neovascular AMD,4
+5145,18,right,59410/59410_18_F2_RE_LS.jpg,F,79.3,11.0,Active Neovascular AMD,4
+G429,4,right,59852/59852_04_F2_RE_RS.jpg,M,67.5,2.0,Early AMD,0
+2617,12,left,58157/58157_12_F2_LE_RS.jpg,M,76.6,6.0,Moderate AMD,1
+2426,8,right,61351/61351_08_F2_RE_RS.jpg,M,76.1,11.0,Active Neovascular AMD,4
+3494,24,right,61012/61012_24_F2_RE_RS.jpg,M,75.4,5.0,Moderate AMD,1
+G444,18,left,60601/60601_18_F2_LE_RS.jpg,F,80.30000000000001,1.0,Early AMD,0
+2793,14,right,56441/56441_14_F2_RE_RS.jpg,M,73.1,7.0,Advanced Intermediate AMD,2
+2003,15,right,54182/54182_15_F2_RE_RS.jpg,F,75.1,6.0,Moderate AMD,1
+1475,20,right,56589/56589_20_F2_RE_RS.jpg,F,76.1,3.0,Early AMD,0
+4822,6,left,51771/51771_06_F2_LE_LS.jpg,M,65.6,10.0,Early Late AMD,3
+2070,8,left,52606/52606_08_F2_LE_RS.jpg,M,73.3,7.0,Advanced Intermediate AMD,2
+3840,16,right,53442/53442_16_F2_RE_LS.jpg,F,73.19999999999999,5.0,Moderate AMD,1
+3117,10,right,54146/54146_10_F2_RE_LS.jpg,F,77.5,4.0,Moderate AMD,1
+4746,12,right,58124/58124_12_F2_RE_LS.jpg,F,70.6,1.0,Early AMD,0
+G033,18,left,54565/54565_18_F2_LE_LS.jpg,M,78.8,8.0,Advanced Intermediate AMD,2
+3138,8,left,3138/3138_08_LE_F2_LS.jpg,F,76.6,8.0,Advanced Intermediate AMD,2
+3415,22,left,52063/52063_22_F2_LE_RS.jpg,F,73.7,2.0,Early AMD,0
+G420,14,right,61290/61290_14_F2_RE_LS.jpg,M,73.4,1.0,Early AMD,0
+4202,16,left,53481/53481_16_F2_LE_LS.jpg,F,70.6,8.0,Advanced Intermediate AMD,2
+4224,10,right,53809/53809_10_F2_RE_RS.jpg,F,78.0,7.0,Advanced Intermediate AMD,2
+G462,10,right,51703/51703_10_F2_RE_RS.jpg,M,75.2,4.0,Moderate AMD,1
+4490,15,right,55080/55080_15_F2_RE_RS.jpg,F,78.1,6.0,Moderate AMD,1
+4490,4,left,55080/55080_04_F2_LE_LS.jpg,F,72.69999999999999,3.0,Early AMD,0
+G314,6,left,53470/53470_06_F2_LE_LS.jpg,F,78.8,8.0,Advanced Intermediate AMD,2
+2465,20,left,56821/56821_20_F2_LE_RS.jpg,F,78.5,12.0,End-Stage AMD,5
+1186,7,right,60575/60575_07_F2_RE_RS.jpg,F,75.9,8.0,Advanced Intermediate AMD,2
+G307,12,right,59757/59757_12_F2_RE_RS.jpg,F,77.0,5.0,Moderate AMD,1
+5327,16,right,60306/60306_16_F2_RE_LS.jpg,M,80.2,7.0,Advanced Intermediate AMD,2
+1240,16,right,53371/53371_16_F2_RE_RS.jpg,F,69.5,2.0,Early AMD,0
+3356,4,left,56722/56722_04_F2_LE_LS.jpg,F,66.30000000000001,5.0,Moderate AMD,1
+1873,9,right,59531/59531_09_F2_RE_RS.jpg,M,73.0,11.0,Active Neovascular AMD,4
+2607,20,right,51135/51135_20_F2_RE_RS.jpg,M,73.6,4.0,Moderate AMD,1
+3889,10,left,61374/61374_10_F2_LE_RS.jpg,F,68.7,5.0,Moderate AMD,1
+G502,12,right,61162/61162_12_F2_RE_LS.jpg,F,69.9,2.0,Early AMD,0
+5274,14,left,53295/53295_14_F2_LE_RS.jpg,M,78.9,11.0,Active Neovascular AMD,4
+G349,10,right,59858/59858_10_F2_RE_LS.jpg,M,66.0,10.0,Early Late AMD,3
+1065,18,right,51616/51616_18_F2_RE_LS.jpg,M,71.1,1.0,Early AMD,0
+1949,14,left,61584/61584_14_F2_LE_LS.jpg,M,79.9,4.0,Moderate AMD,1
+2505,10,left,58688/58688_10_F2_LE_RS.jpg,F,65.6,1.0,Early AMD,0
+2918,14,left,52742/52742_14_F2_LE_LS.jpg,F,70.3,1.0,Early AMD,0
+1365,14,left,53441/53441_14_F2_LE_RS.jpg,M,76.19999999999999,2.0,Early AMD,0
+G178,20,right,54858/54858_20_F2_RE_RS.jpg,M,79.3,5.0,Moderate AMD,1
+1011,10,right,52594/52594_10_F2_RE_RS.jpg,F,71.4,10.0,Early Late AMD,3
+2734,16,left,51654/51654_16_F2_LE_RS.jpg,M,74.3,2.0,Early AMD,0
+5327,18,right,60306/60306_18_F2_RE_LS.jpg,M,81.10000000000001,8.0,Advanced Intermediate AMD,2
+3794,10,right,57182/57182_10_F2_RE_LS.jpg,F,67.8,11.0,Active Neovascular AMD,4
+G604,6,left,52739/52739_06_F2_LE_RS.jpg,F,73.0,5.0,Moderate AMD,1
+1186,12,right,1186/1186_12_RE_F2_RS.jpg,F,78.4,10.0,Early Late AMD,3
+1604,6,right,52836/52836_06_F2_RE_RS.jpg,M,62.6,6.0,Moderate AMD,1
+4300,16,left,61612/61612_16_F2_LE_RS.jpg,F,72.30000000000001,4.0,Moderate AMD,1
+4771,22,left,54280/54280_22_F2_LE_LS.jpg,M,83.0,1.0,Early AMD,0
+1624,8,right,56356/56356_08_F2_RE_RS.jpg,M,69.7,11.0,Active Neovascular AMD,4
+2070,6,right,52606/52606_06_F2_RE_RS.jpg,M,72.3,7.0,Advanced Intermediate AMD,2
+5325,20,right,60705/60705_20_F2_RE_LS.jpg,M,85.4,8.0,Advanced Intermediate AMD,2
+4606,4,right,54846/54846_04_F2_RE_RS.jpg,F,78.9,5.0,Moderate AMD,1
+1663,14,left,58547/58547_14_F2_LE_RS.jpg,M,67.6,8.0,Advanced Intermediate AMD,2
+5239,12,left,55404/55404_12_F2_LE_LS.jpg,M,84.2,7.0,Advanced Intermediate AMD,2
+G033,8,right,54565/54565_08_F2_RE_LS.jpg,M,73.89999999999999,6.0,Moderate AMD,1
+2760,0,left,2760/2760_00_LE_F2_RS.jpg,M,73.4,1.0,Early AMD,0
+G502,6,left,61162/61162_06_F2_LE_RS.jpg,F,66.9,2.0,Early AMD,0
+4258,8,right,59647/59647_08_F2_RE_LS.jpg,M,68.5,2.0,Early AMD,0
+4683,13,left,56826/56826_13_F2_LE_LS.jpg,F,67.7,3.0,Early AMD,0
+3008,8,right,56610/56610_08_F2_RE_LS.jpg,F,77.7,5.0,Moderate AMD,1
+4746,10,right,58124/58124_10_F2_RE_LS.jpg,F,75.6,1.0,Early AMD,0
+4318,8,right,4318/4318_08_RE_F2_RS.jpg,M,73.5,1.0,Early AMD,0
+3415,6,left,52063/52063_06_F2_LE_RS.jpg,F,65.7,3.0,Early AMD,0
+2150,10,right,60854/60854_10_F2_RE_RS.jpg,M,78.5,8.0,Advanced Intermediate AMD,2
+2616,14,right,54484/54484_14_F2_RE_LS.jpg,M,80.89999999999999,11.0,Active Neovascular AMD,4
+3356,14,right,56722/56722_14_F2_RE_RS.jpg,F,71.60000000000001,5.0,Moderate AMD,1
+4906,10,right,56807/56807_10_F2_RE_RS.jpg,M,73.1,6.0,Moderate AMD,1
+3087,16,left,56639/56639_16_F2_LE_RS.jpg,F,73.89999999999999,1.0,Early AMD,0
+3987,10,right,56732/56732_10_F2_RE_LS.jpg,M,74.30000000000001,5.0,Moderate AMD,1
+4520,12,left,58753/58753_12_F2_LE_LS.jpg,F,75.4,11.0,Active Neovascular AMD,4
+3794,20,right,57182/57182_20_F2_RE_RS.jpg,F,72.7,11.0,Active Neovascular AMD,4
+2801,14,right,55727/55727_14_F2_RE_LS.jpg,F,78.5,1.0,Early AMD,0
+3470,12,left,58364/58364_12_F2_LE_LS.jpg,M,79.4,11.0,Active Neovascular AMD,4
+4771,12,right,54280/54280_12_F2_RE_LS.jpg,M,78.0,1.0,Early AMD,0
+1485,14,right,61249/61249_14_F2_RE_RS.jpg,M,83.4,1.0,Early AMD,0
+5299,10,left,56198/56198_10_F2_LE_LS.jpg,M,74.1,10.0,Early Late AMD,3
+3272,4,right,3272/3272_04_RE_F2_RS.jpg,M,70.0,11.0,Active Neovascular AMD,4
+3098,18,left,52085/52085_18_F2_LE_RS.jpg,F,71.1,1.0,Early AMD,0
+3792,14,right,53313/53313_14_F2_RE_LS.jpg,F,75.80000000000001,4.0,Moderate AMD,1
+5278,12,left,61051/61051_12_F2_LE_RS.jpg,F,73.69999999999999,11.0,Active Neovascular AMD,4
+1240,22,right,53371/53371_22_F2_RE_LS.jpg,F,72.6,2.0,Early AMD,0
+3982,14,right,55551/55551_14_F2_RE_LS.jpg,F,78.5,11.0,Active Neovascular AMD,4
+3717,8,left,59093/59093_08_F2_LE_LS.jpg,M,73.9,1.0,Early AMD,0
+4310,12,left,55028/55028_12_F2_LE_LS.jpg,F,79.4,1.0,Early AMD,0
+1587,10,left,59648/59648_10_F2_LE_RS.jpg,F,68.1,5.0,Moderate AMD,1
+2616,18,right,54484/54484_18_F2_RE_RS.jpg,M,82.8,11.0,Active Neovascular AMD,4
+1281,8,right,61305/61305_08_F2_RE_LS.jpg,M,71.5,11.0,Active Neovascular AMD,4
+2426,7,right,61351/61351_07_F2_RE_LS.jpg,M,75.5,11.0,Active Neovascular AMD,4
+2314,3,left,52542/52542_03_F2_LE_LS.jpg,M,75.0,11.0,Active Neovascular AMD,4
+5351,18,left,53716/53716_18_F2_LE_RS.jpg,F,74.0,4.0,Moderate AMD,1
+1915,4,right,1915/1915_04_RE_F2_RS.jpg,F,62.9,6.0,Moderate AMD,1
+4683,6,left,56826/56826_06_F2_LE_LS.jpg,F,64.3,4.0,Moderate AMD,1
+1915,14,left,1915/1915_14_LE_F2_LS.jpg,F,67.9,11.0,Active Neovascular AMD,4
+5228,20,right,56800/56800_20_F2_RE_LS.jpg,M,87.0,4.0,Moderate AMD,1
+5228,14,right,56800/56800_14_F2_RE_RS.jpg,M,84.10000000000001,4.0,Moderate AMD,1
+2413,14,left,56789/56789_14_F2_LE_LS.jpg,M,71.6,4.0,Moderate AMD,1
+2055,6,right,53030/53030_06_F2_RE_LS.jpg,F,78.0,7.0,Advanced Intermediate AMD,2
+3138,12,left,3138/3138_12_LE_F2_RS.jpg,F,78.5,11.0,Active Neovascular AMD,4
+G160,4,right,51618/51618_04_F2_RE_RS.jpg,M,74.8,4.0,Moderate AMD,1
+1942,16,right,55703/55703_16_F2_RE_LS.jpg,F,74.9,7.0,Advanced Intermediate AMD,2
+3889,22,right,61374/61374_22_F2_RE_LS.jpg,F,74.60000000000001,5.0,Moderate AMD,1
+3609,8,right,52938/52938_08_F2_RE_RS.jpg,M,76.39999999999999,7.0,Advanced Intermediate AMD,2
+G316,16,left,51107/51107_16_F2_LE_LS.jpg,M,71.7,7.0,Advanced Intermediate AMD,2
+3494,16,right,61012/61012_16_F2_RE_RS.jpg,M,71.4,4.0,Moderate AMD,1
+3892,10,right,56710/56710_10_F2_RE_RS.jpg,F,66.7,5.0,Moderate AMD,1
+2352,14,right,51036/51036_14_F2_RE_LS.jpg,M,72.3,1.0,Early AMD,0
+1663,16,left,58547/58547_16_F2_LE_RS.jpg,M,68.8,8.0,Advanced Intermediate AMD,2
+1761,12,right,55118/55118_12_F2_RE_LS.jpg,F,83.0,2.0,Early AMD,0
+5393,10,left,61676/61676_10_F2_LE_LS.jpg,F,75.5,7.0,Advanced Intermediate AMD,2
+5156,12,left,58672/58672_12_F2_LE_RS.jpg,F,65.5,6.0,Moderate AMD,1
+2162,10,left,61422/61422_10_F2_LE_LS.jpg,F,75.39999999999999,11.0,Active Neovascular AMD,4
+2037,6,right,54632/54632_06_F2_RE_RS.jpg,F,83.1,9.0,Advanced Intermediate AMD,2
+3636,22,left,60332/60332_22_F2_LE_RS.jpg,M,86.1,1.0,Early AMD,0
+1565,6,left,53293/53293_06_F2_LE_LS.jpg,F,77.4,1.0,Early AMD,0
+4906,4,right,56807/56807_04_F2_RE_LS.jpg,M,70.1,6.0,Moderate AMD,1
+3640,20,right,60642/60642_20_F2_RE_LS.jpg,M,83.1,8.0,Advanced Intermediate AMD,2
+1439,16,right,53285/53285_16_F2_RE_RS.jpg,M,74.2,7.0,Advanced Intermediate AMD,2
+3077,12,left,59724/59724_12_F2_LE_LS.jpg,F,74.1,11.0,Active Neovascular AMD,4
+3597,20,left,51197/51197_20_F2_LE_RS.jpg,F,80.5,11.0,Active Neovascular AMD,4
+1734,16,right,52397/52397_16_F2_RE_LS.jpg,F,78.1,4.0,Moderate AMD,1
+2674,18,left,59743/59743_18_F2_LE_LS.jpg,M,66.2,8.0,Advanced Intermediate AMD,2
+5400,0,left,5400/5400_00_LE_F2_RS.jpg,F,68.0,7.0,Advanced Intermediate AMD,2
+5009,12,left,53435/53435_12_F2_LE_LS.jpg,F,82.10000000000001,1.0,Early AMD,0
+5397,7,left,56498/56498_07_F2_LE_RS.jpg,F,73.9,10.0,Early Late AMD,3
+3420,10,left,56488/56488_10_F2_LE_LS.jpg,F,79.0,11.0,Active Neovascular AMD,4
+1788,8,left,59645/59645_08_F2_LE_RS.jpg,F,79.89999999999999,11.0,Active Neovascular AMD,4
+1734,20,right,52397/52397_20_F2_RE_RS.jpg,F,80.0,4.0,Moderate AMD,1
+1843,14,left,54279/54279_14_F2_LE_RS.jpg,F,79.3,4.0,Moderate AMD,1
+3843,4,left,56333/56333_04_F2_LE_RS.jpg,M,78.6,9.0,Advanced Intermediate AMD,2
+2616,6,right,54484/54484_06_F2_RE_LS.jpg,M,76.8,11.0,Active Neovascular AMD,4
+2100,18,right,51780/51780_18_F2_RE_RS.jpg,M,68.6,8.0,Advanced Intermediate AMD,2
+1677,10,right,53736/53736_10_F2_RE_RS.jpg,M,82.5,1.0,Early AMD,0
+1006,18,right,55353/55353_18_F2_RE_RS.jpg,F,76.4,2.0,Early AMD,0
+G428,20,right,61190/61190_20_F2_RE_LS.jpg,F,78.6,3.0,Early AMD,0
+3008,10,right,56610/56610_10_F2_RE_RS.jpg,F,78.7,5.0,Moderate AMD,1
+2465,10,right,56821/56821_10_F2_RE_LS.jpg,F,73.5,11.0,Active Neovascular AMD,4
+4050,18,left,60056/60056_18_F2_LE_LS.jpg,M,81.2,4.0,Moderate AMD,1
+1873,20,right,1873/1873_20_RE_F2_RS.jpg,M,78.3,11.0,Active Neovascular AMD,4
+2616,20,left,54484/54484_20_F2_LE_RS.jpg,M,83.89999999999999,11.0,Active Neovascular AMD,4
+G443,6,left,59638/59638_06_F2_LE_RS.jpg,F,69.6,5.0,Moderate AMD,1
+2183,8,left,59448/59448_08_F2_LE_RS.jpg,M,70.9,1.0,Early AMD,0
+1759,12,left,54697/54697_12_F2_LE_RS.jpg,M,81.5,11.0,Active Neovascular AMD,4
+G526,12,left,61605/61605_12_F2_LE_RS.jpg,F,75.1,5.0,Moderate AMD,1
+1070,20,right,51060/51060_20_F2_RE_RS.jpg,F,74.0,1.0,Early AMD,0
+3368,22,left,59618/59618_22_F2_LE_LS.jpg,F,87.0,11.0,Active Neovascular AMD,4
+2370,6,left,55554/55554_06_F2_LE_LS.jpg,M,66.4,1.0,Early AMD,0
+4274,16,right,60986/60986_16_F2_RE_LS.jpg,F,85.5,11.0,Active Neovascular AMD,4
+4822,4,left,51771/51771_04_F2_LE_LS.jpg,M,64.6,11.0,Active Neovascular AMD,4
+3010,16,left,3010/3010_16_LE_F2_LS.jpg,F,81.4,11.0,Active Neovascular AMD,4
+2426,18,right,61351/61351_18_F2_RE_RS.jpg,M,81.19999999999999,12.0,End-Stage AMD,5
+3098,8,left,52085/52085_08_F2_LE_LS.jpg,F,66.3,1.0,Early AMD,0
+2259,10,left,54556/54556_10_F2_LE_LS.jpg,M,77.1,11.0,Active Neovascular AMD,4
+1426,10,right,53594/53594_10_F2_RE_LS.jpg,F,78.7,8.0,Advanced Intermediate AMD,2
+G209,10,right,54727/54727_10_F2_RE_RS.jpg,M,71.69999999999999,1.0,Early AMD,0
+1873,6,right,59531/59531_06_F2_RE_RS.jpg,M,71.5,11.0,Active Neovascular AMD,4
+3846,10,left,54045/54045_10_F2_LE_RS.jpg,F,80.3,11.0,Active Neovascular AMD,4
+3087,4,right,56639/56639_04_F2_RE_LS.jpg,F,67.8,1.0,Early AMD,0
+4932,10,left,59936/59936_10_F2_LE_LS.jpg,M,70.39999999999999,3.0,Early AMD,0
+1587,20,right,59648/59648_20_F2_RE_RS.jpg,F,72.9,5.0,Moderate AMD,1
+3077,4,left,59724/59724_04_F2_LE_RS.jpg,F,70.0,11.0,Active Neovascular AMD,4
+5066,4,left,52217/52217_04_F2_LE_LS.jpg,M,66.3,1.0,Early AMD,0
+2145,6,right,53135/53135_06_F2_RE_LS.jpg,F,74.0,11.0,Active Neovascular AMD,4
+3260,15,left,58322/58322_15_F2_LE_RS.jpg,M,82.0,8.0,Advanced Intermediate AMD,2
+3792,8,right,53313/53313_08_F2_RE_LS.jpg,F,72.9,2.0,Early AMD,0
+5265,8,left,56658/56658_08_F2_LE_LS.jpg,F,80.7,10.0,Early Late AMD,3
+5274,8,left,53295/53295_08_F2_LE_RS.jpg,M,75.9,11.0,Active Neovascular AMD,4
+3889,14,left,61374/61374_14_F2_LE_RS.jpg,F,70.7,5.0,Moderate AMD,1
+G178,4,right,54858/54858_04_F2_RE_RS.jpg,M,71.3,2.0,Early AMD,0
+3846,16,left,54045/54045_16_F2_LE_LS.jpg,F,83.2,11.0,Active Neovascular AMD,4
+4300,4,left,61612/61612_04_F2_LE_LS.jpg,F,66.30000000000001,4.0,Moderate AMD,1
+5432,12,right,52745/52745_12_F2_RE_RS.jpg,F,72.9,11.0,Active Neovascular AMD,4
+2616,22,left,54484/54484_22_F2_LE_LS.jpg,M,84.89999999999999,11.0,Active Neovascular AMD,4
+3138,6,left,3138/3138_06_LE_F2_RS.jpg,F,75.6,11.0,Active Neovascular AMD,4
+2167,14,left,56281/56281_14__F2_LE_LS.jpg,F,73.6,1.0,Early AMD,0
+3636,16,left,60332/60332_16_F2_LE_RS.jpg,M,82.89999999999999,1.0,Early AMD,0
+4454,10,right,55685/55685_10_F2_RE_LS.jpg,M,67.2,1.0,Early AMD,0
+3640,10,left,60642/60642_10_F2_LE_LS.jpg,M,78.1,6.0,Moderate AMD,1
+5393,12,left,61676/61676_12_F2_LE_RS.jpg,F,76.5,6.0,Moderate AMD,1
+2712,4,left,2712/2712_04_LE_F2_RS.jpg,F,71.2,1.0,Early AMD,0
+2396,16,left,55738/55738_16_F2_LE_RS.jpg,F,72.0,2.0,Early AMD,0
+5325,18,right,60705/60705_18_F2_RE_LS.jpg,M,84.7,7.0,Advanced Intermediate AMD,2
+5274,4,left,53295/53295_04_F2_LE_RS.jpg,M,73.9,7.0,Advanced Intermediate AMD,2
+5219,8,right,53761/53761_08_F2_RE_RS.jpg,M,73.6,4.0,Moderate AMD,1
+5274,12,left,53295/53295_12_F2_LE_LS.jpg,M,77.9,11.0,Active Neovascular AMD,4
+3357,6,left,60888/60888_06_F2_LE_RS.jpg,F,66.2,4.0,Moderate AMD,1
+G054,6,left,60909/60909_06_F2_LE_RS.jpg,M,68.1,5.0,Moderate AMD,1
+3049,18,right,52529/52529_18_F2_RE_RS.jpg,M,85.1,11.0,Active Neovascular AMD,4
+1295,10,right,55193/55193_10_F2_RE_LS.jpg,F,77.3,4.0,Moderate AMD,1
+5211,20,right,53469/53469_20_F2_RE_RS.jpg,F,81.2,7.0,Advanced Intermediate AMD,2
+2145,22,left,53135/53135_22_F2_LE_LS.jpg,F,81.9,11.0,Active Neovascular AMD,4
+1677,16,right,1677/1677_16_RE_F2_LS.jpg,M,85.5,1.0,Early AMD,0
+G228,12,right,60320/60320_12_F2_RE_LS.jpg,F,78.3,2.0,Early AMD,0
+2791,6,left,60582/60582_06_F2_LE_LS.jpg,M,63.5,6.0,Moderate AMD,1
+2956,10,right,59067/59067_10_F2_RE_LS.jpg,F,69.9,1.0,Early AMD,0
+4918,6,left,52674/52674_06_F2_LE_LS.jpg,M,69.2,7.0,Advanced Intermediate AMD,2
+2474,10,right,52499/52499_10_F2_RE_RS.jpg,F,74.7,6.0,Moderate AMD,1
+G202,10,left,51551/51551_10_F2_LE_LS.jpg,M,73.39999999999999,11.0,Active Neovascular AMD,4
+5145,22,right,59410/59410_22_F2_RE_LS.jpg,F,81.69999999999999,11.0,Active Neovascular AMD,4
+2259,22,left,54556/54556_22_F2_LE_LS.jpg,M,83.1,11.0,Active Neovascular AMD,4
+3258,1,left,60630/60630_01_F2_LE_LS.jpg,M,75.6,6.0,Moderate AMD,1
+2167,8,left,56281/56281_08__F2_LE_LS.jpg,F,70.8,1.0,Early AMD,0
+4457,10,right,55047/55047_10_F2_RE_LS.jpg,F,79.89999999999999,11.0,Active Neovascular AMD,4
+3794,5,right,57182/57182_05_F2_RE_LS.jpg,F,65.3,11.0,Active Neovascular AMD,4
+1588,14,right,52455/52455_14_F2_RE_LS.jpg,F,78.7,11.0,Active Neovascular AMD,4
+2145,18,right,53135/53135_18_F2_RE_LS.jpg,F,79.9,11.0,Active Neovascular AMD,4
+4274,10,left,60986/60986_10_F2_LE_RS.jpg,F,82.3,11.0,Active Neovascular AMD,4
+3174,16,left,3174/3174_16_LE_F2_RS.jpg,M,66.4,10.0,Early Late AMD,3
+G359,4,right,61223/61223_04_F2_RE_LS.jpg,M,73.0,1.0,Early AMD,0
+1915,20,right,1915/1915_20_RE_F2_LS.jpg,F,71.0,11.0,Active Neovascular AMD,4
+4274,2,left,60986/60986_02_F2_LE_RS.jpg,F,78.4,11.0,Active Neovascular AMD,4
+3892,20,right,56710/56710_20_F2_RE_RS.jpg,F,71.6,4.0,Moderate AMD,1
+4219,8,right,51767/51767_08_F2_RE_LS.jpg,M,81.9,8.0,Advanced Intermediate AMD,2
+5393,14,left,61676/61676_14_F2_LE_RS.jpg,F,77.3,7.0,Advanced Intermediate AMD,2
+3031,22,right,59080/59080_22_F2_RE_RS.jpg,M,77.6,10.0,Early Late AMD,3
+3272,20,right,3272/3272_20_RE_F2_LS.jpg,M,78.0,11.0,Active Neovascular AMD,4
+1065,20,right,51616/51616_20_F2_RE_LS.jpg,M,72.5,2.0,Early AMD,0
+1846,14,right,59537/59537_14_F2_RE_LS.jpg,M,72.7,5.0,Moderate AMD,1
+4671,14,right,53604/53604_14_F2_RE_RS.jpg,M,81.3,7.0,Advanced Intermediate AMD,2
+3042,6,left,58317/58317_06_F2_LE_RS.jpg,F,65.3,11.0,Active Neovascular AMD,4
+1907,4,left,61696/61696_04_F2_LE_RS.jpg,M,72.80000000000001,1.0,Early AMD,0
+3982,13,right,55551/55551_13_F2_RE_LS.jpg,F,77.5,11.0,Active Neovascular AMD,4
+3795,8,right,61545/61545_08_F2_RE_LS.jpg,M,67.89999999999999,11.0,Active Neovascular AMD,4
+1873,22,right,59531/59531_22_F2_RE_RS.jpg,M,79.4,11.0,Active Neovascular AMD,4
+4190,10,left,56203/56203_10_F2_LE_RS.jpg,F,74.7,1.0,Early AMD,0
+1006,16,right,55353/55353_16_F2_RE_RS.jpg,F,75.4,2.0,Early AMD,0
+3368,10,left,59618/59618_10_F2_LE_LS.jpg,F,81.0,11.0,Active Neovascular AMD,4
+3483,4,right,61747/61747_04_F2_RE_RS.jpg,F,72.3,1.0,Early AMD,0
+1759,11,right,54697/54697_11_F2_RE_LS.jpg,M,80.89999999999999,8.0,Advanced Intermediate AMD,2
+2734,6,left,51654/51654_06_F2_LE_RS.jpg,M,69.19999999999999,1.0,Early AMD,0
+4586,18,left,59229/59229_18_F2_LE_RS.jpg,M,78.4,2.0,Early AMD,0
+G502,14,right,61162/61162_14_F2_RE_LS.jpg,F,70.9,2.0,Early AMD,0
+1846,10,right,59537/59537_10_F2_RE_RS.jpg,M,70.7,5.0,Moderate AMD,1
+3258,4,left,60630/60630_04_F2_LE_LS.jpg,M,77.1,7.0,Advanced Intermediate AMD,2
+1758,14,right,52760/52760_14_F2_RE_RS.jpg,F,79.3,4.0,Moderate AMD,1
+3795,18,right,61545/61545_18_F2_RE_LS.jpg,M,72.89999999999999,11.0,Active Neovascular AMD,4
+4641,18,right,60937/60937_18_F2_RE_LS.jpg,F,75.0,2.0,Early AMD,0
+1568,12,left,1568/1568_12_LE_F2_LS.jpg,F,69.5,11.0,Active Neovascular AMD,4
+3794,18,left,57182/57182_18_F2_LE_RS.jpg,F,71.8,11.0,Active Neovascular AMD,4
+4825,6,left,53605/53605_06_F2_LE_LS.jpg,M,77.3,11.0,Active Neovascular AMD,4
+4337,8,left,54836/54836_08_F2_LE_RS.jpg,F,79.2,9.0,Advanced Intermediate AMD,2
+4166,14,left,55060/55060_14_F2_LE_RS.jpg,M,75.0,2.0,Early AMD,0
+1666,8,left,60261/60261_08_F2_LE_RS.jpg,M,73.6,4.0,Moderate AMD,1
+2097,8,right,56217/56217_08_F2_RE_RS.jpg,M,75.8,2.0,Early AMD,0
+1588,10,right,52455/52455_10_F2_RE_LS.jpg,F,76.7,11.0,Active Neovascular AMD,4
+3470,4,left,58364/58364_04_F2_LE_RS.jpg,M,75.4,11.0,Active Neovascular AMD,4
+2616,4,left,54484/54484_04_F2_LE_LS.jpg,M,75.8,11.0,Active Neovascular AMD,4
+3636,8,right,60332/60332_08_F2_RE_LS.jpg,M,78.89999999999999,1.0,Early AMD,0
+1735,12,left,53338/53338_12_F2_LE_LS.jpg,F,69.1,1.0,Early AMD,0
+2728,6,left,53365/53365_06_F2_LE_LS.jpg,F,67.39999999999999,1.0,Early AMD,0
+1016,14,left,53521/53521_14_F2_LE_LS.jpg,M,72.0,11.0,Active Neovascular AMD,4
+G353,14,left,53815/53815_14_F2_LE_LS.jpg,F,74.39999999999999,1.0,Early AMD,0
+4946,20,left,54058/54058_20_F2_LE_LS.jpg,M,75.1,1.0,Early AMD,0
+G499,8,left,G499/G499_08_LE_F2_RS.jpg,M,72.8,1.0,Early AMD,0
+1160,10,right,52932/52932_10_F2_RE_RS.jpg,F,69.2,8.0,Advanced Intermediate AMD,2
+1070,18,right,51060/51060_18_F2_RE_RS.jpg,F,73.0,1.0,Early AMD,0
+2918,18,right,52742/52742_18_F2_RE_RS.jpg,F,72.3,1.0,Early AMD,0
+1439,18,left,53285/53285_18_F2_LE_RS.jpg,M,75.0,8.0,Advanced Intermediate AMD,2
+1873,10,right,59531/59531_10_F2_RE_RS.jpg,M,73.5,11.0,Active Neovascular AMD,4
+2527,8,right,51505/51505_08_F2_RE_RS.jpg,F,75.1,11.0,Active Neovascular AMD,4
+5321,10,left,56809/56809_10_F2_LE_RS.jpg,F,72.0,2.0,Early AMD,0
+G043,10,left,60886/60886_10_F2_LE_LS.jpg,F,76.1,11.0,Active Neovascular AMD,4
+G324,10,left,52049/52049_10_F2_LE_LS.jpg,F,68.3,1.0,Early AMD,0
+1915,8,left,1915/1915_08_LE_F2_LS.jpg,F,64.9,6.0,Moderate AMD,1
+4840,6,right,55593/55593_06_F2_RE_LS.jpg,F,66.7,1.0,Early AMD,0
+G094,4,right,53727/53727_04_F2_RE_LS.jpg,M,78.5,12.0,End-Stage AMD,5
+1865,10,left,61717/61717_10_F2_LE_RS.jpg,F,73.0,8.0,Advanced Intermediate AMD,2
+2678,8,right,56679/56679_08_F2_RE_LS.jpg,M,62.2,6.0,Moderate AMD,1
+2503,4,left,53657/53657_04_F2_LE_LS.jpg,M,78.3,7.0,Advanced Intermediate AMD,2
+1011,6,right,52594/52594_06_F2_RE_LS.jpg,F,69.5,10.0,Early Late AMD,3
+1788,3,left,59645/59645_03_F2_LE_LS.jpg,F,77.6,11.0,Active Neovascular AMD,4
+1295,13,right,55193/55193_13_F2_RE_RS.jpg,F,79.0,4.0,Moderate AMD,1
+G392,10,right,61495/61495_10_F2_RE_RS.jpg,M,71.4,10.0,Early Late AMD,3
+4663,11,right,601000/601000_11_F2_RE_RS.jpg,F,66.9,4.0,Moderate AMD,1
+G086,14,left,53227/53227_14_F2_LE_RS.jpg,F,79.10000000000001,4.0,Moderate AMD,1
+4663,18,left,601000/601000_18_F2_LE_LS.jpg,F,70.5,4.0,Moderate AMD,1
+3341,12,right,3341/3341_12_RE_F2_LS.jpg,M,65.1,12.0,End-Stage AMD,5
+3008,12,right,56610/56610_12_F2_RE_RS.jpg,F,79.8,6.0,Moderate AMD,1
+1225,10,right,56673/56673_10_F2_RE_RS.jpg,M,72.7,8.0,Advanced Intermediate AMD,2
+4505,22,right,54538/54538_22_F2_RE_LS.jpg,F,77.0,6.0,Moderate AMD,1
+2616,8,right,54484/54484_08_F2_RE_LS.jpg,M,77.8,11.0,Active Neovascular AMD,4
+1046,8,right,51624/51624_08_F2_RE_RS.jpg,F,78.6,4.0,Moderate AMD,1
+G604,8,right,52739/52739_08_F2_RE_RS.jpg,F,74.0,5.0,Moderate AMD,1
+G499,4,left,G499/G499_04_LE_F2_RS.jpg,M,70.7,1.0,Early AMD,0
+3031,10,right,59080/59080_10_F2_RE_LS.jpg,M,71.6,11.0,Active Neovascular AMD,4
+5103,18,left,59438/59438_18_F2_LE_LS.jpg,M,79.1,11.0,Active Neovascular AMD,4
+3874,4,right,3874/3874_04_RE_F2_LS.jpg,F,74.0,1.0,Early AMD,0
+G054,18,left,60909/60909_18_F2_LE_LS.jpg,M,74.1,6.0,Moderate AMD,1
+1345,14,left,58113/58113_14_F2_LE_LS.jpg,M,75.2,1.0,Early AMD,0
+2465,2,left,56821/56821_02_F2_LE_LS.jpg,F,69.5,11.0,Active Neovascular AMD,4
+5350,12,left,61681/61681_12_F2_LE_LS.jpg,F,70.80000000000001,1.0,Early AMD,0
+5009,16,left,53435/53435_16_F2_LE_RS.jpg,F,84.2,3.0,Early AMD,0
+G478,18,right,51133/51133_18_F2_RE_RS.jpg,F,82.2,2.0,Early AMD,0
+1088,6,left,55721/55721_06_F2_LE_RS.jpg,F,71.2,5.0,Moderate AMD,1
+G412,6,left,55527/55527_06_F2_LE_LS.jpg,F,73.5,1.0,Early AMD,0
+5532,10,left,56699/56699_10_F2_LE_RS.jpg,F,84.8,11.0,Active Neovascular AMD,4
+3098,14,left,52085/52085_14_F2_LE_RS.jpg,F,69.3,1.0,Early AMD,0
+3120,4,left,55320/55320_04_F2_LE_RS.jpg,F,72.2,7.0,Advanced Intermediate AMD,2
+5278,6,left,61051/61051_06_F2_LE_LS.jpg,F,70.6,11.0,Active Neovascular AMD,4
+G202,14,left,51551/51551_14_F2_LE_LS.jpg,M,75.5,11.0,Active Neovascular AMD,4
+3470,20,left,58364/58364_20_F2_LE_RS.jpg,M,83.2,11.0,Active Neovascular AMD,4
+2259,4,left,54556/54556_04_F2_LE_LS.jpg,M,74.1,11.0,Active Neovascular AMD,4
+3272,16,right,3272/3272_16_RE_F2_RS.jpg,M,76.0,11.0,Active Neovascular AMD,4
+2956,8,right,59067/59067_08_F2_RE_RS.jpg,F,68.9,1.0,Early AMD,0
+G426,10,right,61324/61324_10_F2_RE_RS.jpg,F,72.3,8.0,Advanced Intermediate AMD,2
+4918,8,left,52674/52674_08_F2_LE_RS.jpg,M,70.2,7.0,Advanced Intermediate AMD,2
+4657,6,left,52403/52403_06_F2_LE_RS.jpg,M,78.69999999999999,7.0,Advanced Intermediate AMD,2
+2162,18,left,61422/61422_18_F2_LE_LS.jpg,F,79.39999999999999,11.0,Active Neovascular AMD,4
+5478,18,left,61130/61130_18_F2_LE_LS.jpg,F,85.30000000000001,11.0,Active Neovascular AMD,4
+4860,10,right,61713/61713_10_F2_RE_RS.jpg,F,67.0,8.0,Advanced Intermediate AMD,2
+G314,20,right,53470/53470_20_F2_RE_RS.jpg,F,85.8,8.0,Advanced Intermediate AMD,2
+2047,24,right,55024/55024_24_F2_RE_RS.jpg,M,74.60000000000001,1.0,Early AMD,0
+1426,8,right,53594/53594_08_F2_RE_LS.jpg,F,77.8,7.0,Advanced Intermediate AMD,2
+2617,18,left,58157/58157_18_F2_LE_LS.jpg,M,79.8,5.0,Moderate AMD,1
+3420,8,right,56488/56488_08_F2_RE_RS.jpg,F,78.0,11.0,Active Neovascular AMD,4
+G081,12,right,G081/G081_12_RE_F2_RS.jpg,M,74.4,11.0,Active Neovascular AMD,4
+1812,18,right,54198/54198_18_F2_RE_LS.jpg,F,71.5,1.0,Early AMD,0
+3987,14,right,56732/56732_14_F2_RE_LS.jpg,M,76.4,4.0,Moderate AMD,1
+5404,12,left,58247/58247_12_F2_LE_RS.jpg,M,74.3,2.0,Early AMD,0
+4914,22,left,58609/58609_22_F2_LE_LS.jpg,M,87.89999999999999,11.0,Active Neovascular AMD,4
+4616,8,left,52710/52710_08_F2_LE_LS.jpg,F,77.1,11.0,Active Neovascular AMD,4
+1717,10,right,59604/59604_10_F2_RE_RS.jpg,F,84.2,11.0,Active Neovascular AMD,4
+2259,6,left,54556/54556_06_F2_LE_RS.jpg,M,75.19999999999999,11.0,Active Neovascular AMD,4
+1588,4,right,1588/1588_04_RE_F2_RS.jpg,F,73.7,11.0,Active Neovascular AMD,4
+1735,20,left,53338/53338_20_F2_LE_LS.jpg,F,73.1,1.0,Early AMD,0
+5478,10,left,61130/61130_10_F2_LE_RS.jpg,F,81.30000000000001,11.0,Active Neovascular AMD,4
+1186,0,right,1186/1186_00_RE_F2_LS.jpg,F,72.4,7.0,Advanced Intermediate AMD,2
+4906,8,left,56807/56807_08_F2_LE_LS.jpg,M,72.1,5.0,Moderate AMD,1
+G420,15,right,G420/G420_15_RE_F2_LS.jpg,M,73.9,1.0,Early AMD,0
+2481,18,left,58076/58076_18_F2_LE_RS.jpg,F,79.2,4.0,Moderate AMD,1
+3826,20,right,52385/52385_20_F2_RE_LS.jpg,M,76.2,4.0,Moderate AMD,1
+1653,4,right,52633/52633_04_F2_RE_RS.jpg,M,68.9,1.0,Early AMD,0
+5265,4,left,56658/56658_04_F2_LE_RS.jpg,F,78.5,10.0,Early Late AMD,3
+2939,4,right,57048/57048_04_F2_RE_RS.jpg,F,64.8,3.0,Early AMD,0
+5323,12,right,55216/55216_12_F2_RE_RS.jpg,F,68.5,2.0,Early AMD,0
+3826,4,right,52385/52385_04_F2_RE_LS.jpg,M,68.2,4.0,Moderate AMD,1
+1006,20,left,55353/55353_20_F2_LE_RS.jpg,F,77.4,2.0,Early AMD,0
+1485,0,right,1485/1485_00_RE_F2_LS.jpg,M,76.4,1.0,Early AMD,0
+G470,6,right,58552/58552_06_F2_RE_LS.jpg,M,58.8,11.0,Active Neovascular AMD,4
+3126,10,left,54264/54264_10_F2_LE_LS.jpg,M,72.6,1.0,Early AMD,0
+4663,14,right,601000/601000_14_F2_RE_LS.jpg,F,68.4,4.0,Moderate AMD,1
+4362,10,left,60074/60074_10_F2_LE_LS.jpg,M,67.4,4.0,Moderate AMD,1
+5432,4,right,52745/52745_04_F2_RE_RS.jpg,F,69.10000000000001,11.0,Active Neovascular AMD,4
+G502,18,left,61162/61162_18_F2_LE_RS.jpg,F,73.1,2.0,Early AMD,0
+2193,20,right,2193/2193_20_RE_F2_LS.jpg,F,78.9,9.0,Advanced Intermediate AMD,2
+2617,22,left,58157/58157_22_F2_LE_LS.jpg,M,81.69999999999999,5.0,Moderate AMD,1
+1373,2,right,59937/59937_02_F2_RE_LS.jpg,M,72.3,2.0,Early AMD,0
+5610,16,right,56664/56664_16_F2_RE_RS.jpg,F,64.1,3.0,Early AMD,0
+5532,4,right,56699/56699_04_F2_RE_LS.jpg,F,81.7,11.0,Active Neovascular AMD,4
+1929,12,right,58718/58718_12_F2_RE_RS.jpg,M,73.1,4.0,Moderate AMD,1
+3008,18,right,56610/56610_18_F2_RE_RS.jpg,F,82.8,7.0,Advanced Intermediate AMD,2
+2563,6,right,59705/59705_06_F2_RE_LS.jpg,F,64.2,1.0,Early AMD,0
+1186,14,left,1186/1186_14_LE_F2_RS.jpg,F,80.2,12.0,End-Stage AMD,5
+2793,0,right,2793/2793_00_RE_F2_RS.jpg,M,66.1,7.0,Advanced Intermediate AMD,2
+2617,4,left,58157/58157_04_F2_LE_RS.jpg,M,72.6,2.0,Early AMD,0
+2678,12,right,56679/56679_12_F2_RE_RS.jpg,M,64.0,6.0,Moderate AMD,1
+G321,22,right,57049/57049_22_F2_RE_LS.jpg,M,74.4,2.0,Early AMD,0
+G117,14,left,53143/53143_14_F2_LE_RS.jpg,M,75.0,2.0,Early AMD,0
+2426,10,right,61351/61351_10_F2_RE_LS.jpg,M,77.0,11.0,Active Neovascular AMD,4
+G478,20,right,51133/51133_20_F2_RE_RS.jpg,F,83.3,2.0,Early AMD,0
+G202,6,right,51551/51551_06_F2_RE_LS.jpg,M,71.6,12.0,End-Stage AMD,5
+G020,6,right,58063/58063_06_F2_RE_LS.jpg,M,65.5,1.0,Early AMD,0
+G478,10,left,51133/51133_10_F2_LE_LS.jpg,F,78.2,1.0,Early AMD,0
+2754,4,right,52862/52862_04_F2_RE_RS.jpg,M,69.1,9.0,Advanced Intermediate AMD,2
+1225,4,right,56673/56673_04_F2_RE_LS.jpg,M,69.7,5.0,Moderate AMD,1
+4219,20,left,51767/51767_20_F2_LE_LS.jpg,M,88.0,9.0,Advanced Intermediate AMD,2
+1625,4,right,60577/60577_04_F2_RE_LS.jpg,F,68.1,6.0,Moderate AMD,1
+5032,4,right,53618/53618_04_F2_RE_RS.jpg,F,71.5,7.0,Advanced Intermediate AMD,2
+2956,20,left,59067/59067_20_F2_LE_LS.jpg,F,74.60000000000001,1.0,Early AMD,0
+4749,24,right,57165/57165_24_F2_RE_RS.jpg,F,78.60000000000001,11.0,Active Neovascular AMD,4
+3633,13,left,56473/56473_13_F2_LE_LS.jpg,F,78.1,11.0,Active Neovascular AMD,4
+5211,8,right,53469/53469_08_F2_RE_RS.jpg,F,75.3,6.0,Moderate AMD,1
+1942,14,right,55703/55703_14_F2_RE_LS.jpg,F,74.10000000000001,7.0,Advanced Intermediate AMD,2
+4806,16,right,60984/60984_16_F2_RE_RS.jpg,F,68.2,4.0,Moderate AMD,1
+1426,3,right,53594/53594_03_F2_RE_RS.jpg,F,75.2,7.0,Advanced Intermediate AMD,2
+G089,10,left,53238/53238_10_F2_LE_RS.jpg,F,67.6,4.0,Moderate AMD,1
+4806,18,right,60984/60984_18_F2_RE_LS.jpg,F,69.60000000000001,4.0,Moderate AMD,1
+1088,10,left,55721/55721_10_F2_LE_RS.jpg,F,73.4,5.0,Moderate AMD,1
+5393,4,left,61676/61676_04_F2_LE_RS.jpg,F,72.5,6.0,Moderate AMD,1
+3845,16,right,53400/53400_16_F2_RE_RS.jpg,M,80.9,4.0,Moderate AMD,1
+4309,16,right,60969/60969_16_F2_RE_RS.jpg,M,81.0,3.0,Early AMD,0
+2635,16,left,52226/52226_16_F2_LE_RS.jpg,M,77.5,1.0,Early AMD,0
+4594,18,right,61151/61151_18_F2_RE_LS.jpg,M,86.4,7.0,Advanced Intermediate AMD,2
+1070,4,left,51060/51060_04_F2_LE_LS.jpg,F,65.8,1.0,Early AMD,0
+3720,4,right,3720/3720_04_RE_F2_RS.jpg,F,75.3,11.0,Active Neovascular AMD,4
+1758,18,right,52760/52760_18_F2_RE_RS.jpg,F,81.3,4.0,Moderate AMD,1
+G473,4,left,60715/60715_04_F2_LE_LS.jpg,M,65.9,7.0,Advanced Intermediate AMD,2
+1812,20,left,54198/54198_20_F2_LE_RS.jpg,F,72.5,2.0,Early AMD,0
+4751,4,right,56620/56620_04_F2_RE_LS.jpg,F,68.4,1.0,Early AMD,0
+1187,6,right,58561/58561_06_F2_RE_RS.jpg,M,79.9,11.0,Active Neovascular AMD,4
+G426,14,left,61324/61324_14_F2_LE_RS.jpg,F,74.3,7.0,Advanced Intermediate AMD,2
+G033,10,right,54565/54565_10_F2_RE_RS.jpg,M,74.89999999999999,6.0,Moderate AMD,1
+1475,16,right,56589/56589_16_F2_RE_LS.jpg,F,74.1,6.0,Moderate AMD,1
+3597,6,left,51197/51197_06_F2_LE_LS.jpg,F,73.3,11.0,Active Neovascular AMD,4
+5323,14,right,55216/55216_14_F2_RE_LS.jpg,F,69.5,2.0,Early AMD,0
+1006,14,right,55353/55353_14_F2_RE_RS.jpg,F,74.2,2.0,Early AMD,0
+G526,8,left,61605/61605_08_F2_LE_LS.jpg,F,73.1,6.0,Moderate AMD,1
+2055,16,right,2055/2055_16_RE_F2_RS.jpg,F,82.9,11.0,Active Neovascular AMD,4
+4122,4,left,60244/60244_04_F2_LE_RS.jpg,M,71.8,2.0,Early AMD,0
+G473,8,left,60715/60715_08_F2_LE_RS.jpg,M,67.9,5.0,Moderate AMD,1
+1949,5,right,61584/61584_05_F2_RE_LS.jpg,M,75.3,4.0,Moderate AMD,1
+3461,15,left,52379/52379_15_F2_LE_LS.jpg,F,79.9,1.0,Early AMD,0
+4586,12,right,59229/59229_12_F2_RE_RS.jpg,M,75.4,1.0,Early AMD,0
+4317,13,left,58580/58580_13_F2_LE_RS.jpg,F,78.89999999999999,11.0,Active Neovascular AMD,4
+3010,8,left,3010/3010_08_LE_F2_LS.jpg,F,77.4,8.0,Advanced Intermediate AMD,2
+4310,6,left,55028/55028_06_F2_LE_RS.jpg,F,76.4,1.0,Early AMD,0
+2617,10,right,58157/58157_10_F2_RE_LS.jpg,M,75.6,2.0,Early AMD,0
+2728,12,left,53365/53365_12_F2_LE_LS.jpg,F,70.3,2.0,Early AMD,0
+5145,20,right,59410/59410_20_F2_RE_LS.jpg,F,80.19999999999999,11.0,Active Neovascular AMD,4
+5239,8,right,55404/55404_08_F2_RE_LS.jpg,M,82.1,8.0,Advanced Intermediate AMD,2
+1806,20,right,60535/60535_20_F2_RE_RS.jpg,M,70.9,4.0,Moderate AMD,1
+3846,14,left,54045/54045_14_F2_LE_LS.jpg,F,82.3,11.0,Active Neovascular AMD,4
+4258,20,right,59647/59647_20_F2_RE_LS.jpg,M,74.7,3.0,Early AMD,0
+2120,6,left,59767/59767_06_F2_LE_LS.jpg,M,72.0,4.0,Moderate AMD,1
+5321,11,left,56809/56809_11_F2_LE_RS.jpg,F,72.7,2.0,Early AMD,0
+1915,6,right,59650/59650_06_F2_RE_LS.jpg,F,63.9,6.0,Moderate AMD,1
+1462,12,right,1462/1462_12_RE_F2_LS.jpg,M,77.8,11.0,Active Neovascular AMD,4
+5179,8,left,5179/5179_08_LE_F2_LS.jpg,F,76.6,9.0,Advanced Intermediate AMD,2
+3174,6,left,3174/3174_06_LE_F2_RS.jpg,M,61.4,10.0,Early Late AMD,3
+5278,16,left,61051/61051_16_F2_LE_LS.jpg,F,75.6,11.0,Active Neovascular AMD,4
+1475,8,right,56589/56589_08_F2_RE_RS.jpg,F,70.1,2.0,Early AMD,0
+1587,12,left,59648/59648_12_F2_LE_LS.jpg,F,69.1,6.0,Moderate AMD,1
+2003,18,right,54182/54182_18_F2_RE_RS.jpg,F,76.7,8.0,Advanced Intermediate AMD,2
+4505,18,right,54538/54538_18_F2_RE_LS.jpg,F,74.9,6.0,Moderate AMD,1
+1800,22,right,56154/56154_22_F2_RE_LS.jpg,M,80.3,1.0,Early AMD,0
+4708,4,left,55258/55258_04_F2_LE_RS.jpg,M,66.8,2.0,Early AMD,0
+5323,10,left,55216/55216_10_F2_LE_RS.jpg,F,67.5,1.0,Early AMD,0
+4645,14,left,55668/55668_14_F2_LE_RS.jpg,M,74.2,1.0,Early AMD,0
+3840,20,right,53442/53442_20_F2_RE_RS.jpg,F,75.1,8.0,Advanced Intermediate AMD,2
+2314,6,right,52542/52542_06_F2_RE_LS.jpg,M,76.5,11.0,Active Neovascular AMD,4
+4641,20,right,60937/60937_20_F2_RE_LS.jpg,F,76.0,2.0,Early AMD,0
+1653,6,left,52633/52633_06_F2_LE_LS.jpg,M,69.9,1.0,Early AMD,0
+G531,15,right,51223/51223_15_F2_RE_RS.jpg,M,73.1,5.0,Moderate AMD,1
+1788,14,left,59645/59645_14_F2_LE_LS.jpg,F,83.0,11.0,Active Neovascular AMD,4
+2212,14,right,52944/52944_14_F2_RE_LS.jpg,M,75.5,12.0,End-Stage AMD,5
+2546,4,left,53578/53578_04_F2_LE_RS.jpg,M,76.8,6.0,Moderate AMD,1
+1478,18,right,1478/1478_18_RE_F2_LS.jpg,M,73.2,11.0,Active Neovascular AMD,4
+3013,22,right,51480/51480_22_F2_RE_RS.jpg,F,76.39999999999999,2.0,Early AMD,0
+G473,16,left,60715/60715_16_F2_LE_LS.jpg,M,72.0,6.0,Moderate AMD,1
+4408,8,right,62017/62017_08_F2_RE_LS.jpg,F,78.3,9.0,Advanced Intermediate AMD,2
+G346,8,left,51213/51213_08_F2_LE_RS.jpg,M,79.0,4.0,Moderate AMD,1
+4771,18,right,54280/54280_18_F2_RE_RS.jpg,M,81.0,1.0,Early AMD,0
+1934,22,right,54236/54236_22_F2_RE_RS.jpg,F,78.1,8.0,Advanced Intermediate AMD,2
+2303,10,right,53601/53601_10_F2_RE_RS.jpg,M,75.9,11.0,Active Neovascular AMD,4
+2790,18,left,58191/58191_18_F2_LE_LS.jpg,M,82.9,2.0,Early AMD,0
+5383,15,left,55117/55117_15_F2_LE_LS.jpg,M,77.3,1.0,Early AMD,0
+G279,8,left,61203/61203_08_F2_LE_RS.jpg,F,76.8,6.0,Moderate AMD,1
+1475,18,right,56589/56589_18_F2_RE_LS.jpg,F,75.1,4.0,Moderate AMD,1
+2276,6,left,61654/61654_06_F2_LE_RS.jpg,M,71.5,7.0,Advanced Intermediate AMD,2
+G428,6,left,61190/61190_06_F2_LE_LS.jpg,F,71.8,1.0,Early AMD,0
+3717,22,left,59093/59093_22_F2_LE_RS.jpg,M,80.9,4.0,Moderate AMD,1
+2546,20,right,53578/53578_20_F2_RE_LS.jpg,M,84.8,8.0,Advanced Intermediate AMD,2
+G202,18,left,51551/51551_18_F2_LE_LS.jpg,M,77.6,11.0,Active Neovascular AMD,4
+4622,8,right,54812/54812_08_F2_RE_LS.jpg,F,65.5,2.0,Early AMD,0
+3470,6,left,58364/58364_06_F2_LE_LS.jpg,M,76.4,11.0,Active Neovascular AMD,4
+5274,6,right,53295/53295_06_F2_RE_LS.jpg,M,74.9,6.0,Moderate AMD,1
+1806,4,right,60535/60535_04_F2_RE_RS.jpg,M,62.9,4.0,Moderate AMD,1
+1604,16,left,52836/52836_16_F2_LE_LS.jpg,M,67.6,8.0,Advanced Intermediate AMD,2
+1290,8,left,60962/60962_08_F2_LE_LS.jpg,F,80.3,7.0,Advanced Intermediate AMD,2
+4906,18,left,56807/56807_18_F2_LE_RS.jpg,M,77.6,5.0,Moderate AMD,1
+4300,20,left,61612/61612_20_F2_LE_LS.jpg,F,74.2,4.0,Moderate AMD,1
+5061,6,left,58457/58457_06_F2_LE_RS.jpg,F,73.1,7.0,Advanced Intermediate AMD,2
+G303,4,right,59545/59545_04_F2_RE_RS.jpg,M,66.3,1.0,Early AMD,0
+3720,12,right,3720/3720_12_RE_F2_LS.jpg,F,79.39999999999999,12.0,End-Stage AMD,5
+2162,12,left,2162/2162_12_LE_F2_LS.jpg,F,76.39999999999999,11.0,Active Neovascular AMD,4
+2739,12,left,60275/60275_12_F2_LE_RS.jpg,F,74.5,11.0,Active Neovascular AMD,4
+3407,14,left,56816/56816_14_F2_LE_RS.jpg,M,75.5,12.0,End-Stage AMD,5
+1478,14,right,60799/60799_14_F2_RE_LS.jpg,M,71.0,12.0,End-Stage AMD,5
+2503,6,left,53657/53657_06_F2_LE_RS.jpg,M,79.3,7.0,Advanced Intermediate AMD,2
+3010,10,left,61711/61711_10_F2_LE_LS.jpg,F,78.4,7.0,Advanced Intermediate AMD,2
+G058,10,right,61686/61686_10_F2_RE_RS.jpg,F,84.0,1.0,Early AMD,0
+1106,14,right,61552/61552_14_F2_RE_LS.jpg,F,73.7,5.0,Moderate AMD,1
+2815,6,left,60303/60303_06_F2_LE_RS.jpg,F,69.89999999999999,2.0,Early AMD,0
+5228,4,right,56800/56800_04_F2_RE_LS.jpg,M,78.9,2.0,Early AMD,0
+G349,20,left,59858/59858_20_F2_LE_RS.jpg,M,71.2,10.0,Early Late AMD,3
+1014,6,left,55692/55692_06_F2_LE_LS.jpg,M,81.2,11.0,Active Neovascular AMD,4
+3260,10,right,58322/58322_10_F2_RE_LS.jpg,M,79.5,8.0,Advanced Intermediate AMD,2
+2307,22,right,51074/51074_22_F2_RE_LS.jpg,F,75.5,1.0,Early AMD,0
+G171,4,left,56069/56069_04_F2_LE_RS.jpg,F,70.6,1.0,Early AMD,0
+4663,4,left,601000/601000_04_F2_LE_RS.jpg,F,63.4,4.0,Moderate AMD,1
+3317,6,right,58778/58778_06_F2_RE_RS.jpg,M,63.8,4.0,Moderate AMD,1
+4490,10,left,55080/55080_10_F2_LE_LS.jpg,F,75.69999999999999,3.0,Early AMD,0
+1471,10,right,59898/59898_10_F2_RE_LS.jpg,M,79.9,5.0,Moderate AMD,1
+2408,14,left,52834/52834_14_F2_LE_RS.jpg,M,80.10000000000001,1.0,Early AMD,0
+G228,18,right,60320/60320_18_F2_RE_RS.jpg,F,81.3,1.0,Early AMD,0
+2145,12,right,53135/53135_12_F2_RE_RS.jpg,F,77.0,11.0,Active Neovascular AMD,4
+G219,6,right,52639/52639_06_F2_RE_LS.jpg,F,65.7,2.0,Early AMD,0
+5290,18,right,51588/51588_18_F2_RE_LS.jpg,F,72.6,10.0,Early Late AMD,3
+5592,4,right,53674/53674_04_F2_RE_RS.jpg,M,73.3,11.0,Active Neovascular AMD,4
+2635,18,left,52226/52226_18_F2_LE_RS.jpg,M,78.5,1.0,Early AMD,0
+5350,6,right,61681/61681_06_F2_RE_RS.jpg,F,67.9,1.0,Early AMD,0
+1065,14,left,51616/51616_14_F2_LE_LS.jpg,M,69.1,2.0,Early AMD,0
+5179,12,right,5179/5179_12_RE_F2_RS.jpg,F,78.6,8.0,Advanced Intermediate AMD,2
+1345,0,left,1345/1345_00_LE_F2_RS.jpg,M,68.2,1.0,Early AMD,0
+1430,12,right,59195/59195_12_F2_RE_RS.jpg,M,71.5,4.0,Moderate AMD,1
+1240,6,left,53371/53371_06_F2_LE_RS.jpg,F,64.6,2.0,Early AMD,0
+G160,10,right,51618/51618_10_F2_RE_RS.jpg,M,77.3,4.0,Moderate AMD,1
+4932,4,left,59936/59936_04_F2_LE_RS.jpg,M,67.6,4.0,Moderate AMD,1
+G200,10,right,56495/56495_10_F2_RE_RS.jpg,F,64.0,8.0,Advanced Intermediate AMD,2
+4400,10,right,54681/54681_10_F2_RE_RS.jpg,F,69.69999999999999,2.0,Early AMD,0
+3640,22,right,60642/60642_22_F2_RE_RS.jpg,M,84.1,8.0,Advanced Intermediate AMD,2
+4645,11,right,55668/55668_11_F2_RE_RS.jpg,M,72.3,1.0,Early AMD,0
+1065,10,right,51616/51616_10_F2_RE_LS.jpg,M,67.1,2.0,Early AMD,0
+2834,4,right,56723/56723_04_F2_RE_LS.jpg,F,79.3,2.0,Early AMD,0
+1088,18,right,55721/55721_18_F2_RE_LS.jpg,F,77.2,4.0,Moderate AMD,1
+4840,14,left,55593/55593_14_F2_LE_LS.jpg,F,70.7,1.0,Early AMD,0
+4699,8,right,59025/59025_08_F2_RE_RS.jpg,F,76.9,6.0,Moderate AMD,1
+4606,10,left,54846/54846_10_F2_LE_LS.jpg,F,81.9,9.0,Advanced Intermediate AMD,2
+3971,16,right,52020/52020_16_F2_RE_LS.jpg,F,84.5,2.0,Early AMD,0
+1160,0,left,1160/1160_00_LE_F2_RS.jpg,F,64.2,7.0,Advanced Intermediate AMD,2
+1865,18,right,61717/61717_18_F2_RE_RS.jpg,F,76.9,11.0,Active Neovascular AMD,4
+1666,4,left,60261/60261_04_F2_LE_LS.jpg,M,71.69999999999999,5.0,Moderate AMD,1
+2518,16,left,51645/51645_16_F2_LE_LS.jpg,M,66.0,5.0,Moderate AMD,1
+4586,22,right,59229/59229_22_F2_RE_RS.jpg,M,80.30000000000001,2.0,Early AMD,0
+1430,6,right,59195/59195_06_F2_RE_RS.jpg,M,68.5,4.0,Moderate AMD,1
+G279,16,left,61203/61203_16_F2_LE_RS.jpg,F,81.0,7.0,Advanced Intermediate AMD,2
+1475,4,right,56589/56589_04_F2_RE_LS.jpg,F,68.1,4.0,Moderate AMD,1
+4806,4,right,60984/60984_04_F2_RE_LS.jpg,F,62.2,2.0,Early AMD,0
+G279,18,left,61203/61203_18_F2_LE_RS.jpg,F,81.7,8.0,Advanced Intermediate AMD,2
+3274,16,right,52692/52692_16_F2_RE_RS.jpg,M,85.1,2.0,Early AMD,0
+3987,12,right,56732/56732_12_F2_RE_RS.jpg,M,75.4,4.0,Moderate AMD,1
+4933,20,left,60610/60610_20_F2_LE_LS.jpg,M,77.6,7.0,Advanced Intermediate AMD,2
+1785,12,right,59919/59919_12_F2_RE_LS.jpg,M,80.7,9.0,Advanced Intermediate AMD,2
+5323,24,right,55216/55216_24_F2_RE_RS.jpg,F,74.4,7.0,Advanced Intermediate AMD,2
+1462,4,right,1462/1462_04_RE_F2_RS.jpg,M,73.7,8.0,Advanced Intermediate AMD,2
+G604,16,left,52739/52739_16_F2_LE_RS.jpg,F,78.0,9.0,Advanced Intermediate AMD,2
+5504,12,left,57247/57247_12_F2_LE_LS.jpg,F,66.3,4.0,Moderate AMD,1
+1462,14,right,52588/52588_14_F2_RE_LS.jpg,M,78.8,11.0,Active Neovascular AMD,4
+1430,18,right,59195/59195_18_F2_RE_LS.jpg,M,74.3,4.0,Moderate AMD,1
+1479,8,left,51725/51725_08_F2_LE_RS.jpg,M,65.9,8.0,Advanced Intermediate AMD,2
+4577,15,right,55339/55339_15_F2_RE_RS.jpg,F,75.5,11.0,Active Neovascular AMD,4
+4050,4,left,60056/60056_04_F2_LE_LS.jpg,M,74.2,4.0,Moderate AMD,1
+4337,14,left,54836/54836_14_F2_LE_LS.jpg,F,82.2,9.0,Advanced Intermediate AMD,2
+2765,4,left,52360/52360_04_F2_LE_RS.jpg,F,72.0,1.0,Early AMD,0
+1865,6,right,61717/61717_06_F2_RE_RS.jpg,F,71.0,7.0,Advanced Intermediate AMD,2
+4782,4,left,53575/53575_04_F2_LE_LS.jpg,M,81.1,7.0,Advanced Intermediate AMD,2
+4274,8,right,60986/60986_08_F2_RE_LS.jpg,F,81.3,11.0,Active Neovascular AMD,4
+3042,12,left,58317/58317_12_F2_LE_LS.jpg,F,68.8,11.0,Active Neovascular AMD,4
+3857,8,right,55741/55741_08_F2_RE_RS.jpg,F,72.10000000000001,4.0,Moderate AMD,1
+4736,4,right,56143/56143_04_F2_RE_LS.jpg,F,76.4,1.0,Early AMD,0
+G081,6,right,56721/56721_06_F2_RE_RS.jpg,M,71.4,11.0,Active Neovascular AMD,4
+5103,14,left,59438/59438_14_F2_LE_LS.jpg,M,77.3,6.0,Moderate AMD,1
+1774,15,right,61420/61420_15_F2_RE_LS.jpg,F,64.3,6.0,Moderate AMD,1
+1152,11,left,60872/60872_11_F2_LE_LS.jpg,M,78.3,4.0,Moderate AMD,1
+4219,11,right,51767/51767_11_F2_RE_LS.jpg,M,83.4,8.0,Advanced Intermediate AMD,2
+4457,8,right,55047/55047_08_F2_RE_RS.jpg,F,79.0,11.0,Active Neovascular AMD,4
+2465,14,left,56821/56821_14_F2_LE_RS.jpg,F,75.5,11.0,Active Neovascular AMD,4
+G209,20,left,G209/G209_20_LE_F2_RS.jpg,M,76.6,1.0,Early AMD,0
+3368,2,left,59618/59618_02_F2_LE_RS.jpg,F,77.1,11.0,Active Neovascular AMD,4
+5532,1,left,56699/56699_01_F2_LE_LS.jpg,F,80.3,11.0,Active Neovascular AMD,4
+1774,18,right,61420/61420_18_F2_RE_LS.jpg,F,66.2,8.0,Advanced Intermediate AMD,2
+4577,14,right,55339/55339_14_F2_RE_LS.jpg,F,74.9,11.0,Active Neovascular AMD,4
+2790,20,right,58191/58191_20_F2_RE_RS.jpg,M,83.9,1.0,Early AMD,0
+G559,12,left,53045/53045_12_F2_LE_LS.jpg,F,71.10000000000001,4.0,Moderate AMD,1
+3633,12,left,56473/56473_12_F2_LE_RS.jpg,F,77.7,11.0,Active Neovascular AMD,4
+2791,18,right,60582/60582_18_F2_RE_LS.jpg,M,69.60000000000001,6.0,Moderate AMD,1
+2546,14,left,53578/53578_14_F2_LE_LS.jpg,M,81.8,8.0,Advanced Intermediate AMD,2
+G279,6,left,61203/61203_06_F2_LE_LS.jpg,F,75.8,5.0,Moderate AMD,1
+4622,10,right,54812/54812_10_F2_RE_LS.jpg,F,66.3,2.0,Early AMD,0
+5009,20,left,53435/53435_20_F2_LE_LS.jpg,F,86.2,2.0,Early AMD,0
+3010,0,right,3010/3010_00_RE_F2_LS.jpg,F,73.4,11.0,Active Neovascular AMD,4
+3857,22,left,55741/55741_22_F2_LE_LS.jpg,F,79.10000000000001,4.0,Moderate AMD,1
+3260,12,right,58322/58322_12_F2_RE_RS.jpg,M,80.5,8.0,Advanced Intermediate AMD,2
+2193,18,right,54250/54250_18_F2_RE_LS.jpg,F,77.9,9.0,Advanced Intermediate AMD,2
+4986,3,right,58745/58745_03_F2_RE_LS.jpg,M,74.6,5.0,Moderate AMD,1
+1439,20,left,53285/53285_20_F2_LE_LS.jpg,M,76.1,8.0,Advanced Intermediate AMD,2
+1953,10,left,58469/58469_10_F2_LE_LS.jpg,M,66.6,3.0,Early AMD,0
+1290,11,right,60962/60962_11_F2_RE_RS.jpg,F,81.8,7.0,Advanced Intermediate AMD,2
+2226,10,right,54179/54179_10_F2_RE_RS.jpg,M,75.0,1.0,Early AMD,0
+1281,6,right,61305/61305_06_F2_RE_LS.jpg,M,70.5,11.0,Active Neovascular AMD,4
+G420,18,right,61290/61290_18_F2_RE_RS.jpg,M,75.60000000000001,1.0,Early AMD,0
+2370,14,right,55554/55554_14_F2_RE_LS.jpg,M,70.4,1.0,Early AMD,0
+1162,8,left,58572/58572_08_F2_LE_LS.jpg,F,83.0,11.0,Active Neovascular AMD,4
+1734,4,right,52397/52397_04_F2_RE_LS.jpg,F,72.0,5.0,Moderate AMD,1
+2546,8,right,53578/53578_08_F2_RE_RS.jpg,M,78.8,6.0,Moderate AMD,1
+3272,13,right,53623/53623_13_F2_RE_LS.jpg,M,74.5,11.0,Active Neovascular AMD,4
+3784,13,right,54346/54346_13_F2_RE_RS.jpg,M,75.9,1.0,Early AMD,0
+3470,14,left,58364/58364_14_F2_LE_RS.jpg,M,80.4,11.0,Active Neovascular AMD,4
+2276,16,right,2276/2276_16_RE_F2_RS.jpg,M,76.4,9.0,Advanced Intermediate AMD,2
+3834,14,left,58239/58239_14_F2_LE_LS.jpg,M,70.5,10.0,Early Late AMD,3
+4050,6,left,60056/60056_06_F2_LE_RS.jpg,M,75.2,4.0,Moderate AMD,1
+3415,14,left,52063/52063_14_F2_LE_LS.jpg,F,69.8,2.0,Early AMD,0
+2952,16,left,56685/56685_16_F2_LE_LS.jpg,M,74.4,4.0,Moderate AMD,1
+G426,18,left,61324/61324_18_F2_LE_RS.jpg,F,76.0,8.0,Advanced Intermediate AMD,2
+4310,8,right,55028/55028_08_F2_RE_RS.jpg,F,77.30000000000001,1.0,Early AMD,0
+1365,20,right,53441/53441_20_F2_RE_RS.jpg,M,79.0,3.0,Early AMD,0
+3133,12,left,59192/59192_12_F2_LE_LS.jpg,F,74.3,6.0,Moderate AMD,1
+2674,20,left,59743/59743_20_F2_LE_RS.jpg,M,67.0,8.0,Advanced Intermediate AMD,2
+3826,6,right,52385/52385_06_F2_RE_RS.jpg,M,69.2,5.0,Moderate AMD,1
+3049,6,right,52529/52529_06_F2_RE_LS.jpg,M,79.1,11.0,Active Neovascular AMD,4
+G043,6,left,60886/60886_06_F2_LE_RS.jpg,F,74.1,11.0,Active Neovascular AMD,4
+1016,10,right,53521/53521_10_F2_RE_LS.jpg,M,70.0,11.0,Active Neovascular AMD,4
+3494,12,right,61012/61012_12_F2_RE_LS.jpg,M,69.4,6.0,Moderate AMD,1
+1065,16,left,51616/51616_16_F2_LE_RS.jpg,M,70.1,2.0,Early AMD,0
+5327,12,right,60306/60306_12_F2_RE_RS.jpg,M,78.2,8.0,Advanced Intermediate AMD,2
+3341,11,left,601006/601006_11_F2_LE_RS.jpg,M,64.4,11.0,Active Neovascular AMD,4
+G478,16,left,51133/51133_16_F2_LE_RS.jpg,F,81.2,1.0,Early AMD,0
+5400,8,left,5400/5400_08_LE_F2_RS.jpg,F,72.2,10.0,Early Late AMD,3
+5587,6,left,52172/52172_06_F2_LE_LS.jpg,F,69.3,10.0,Early Late AMD,3
+1160,8,left,1160/1160_08_LE_F2_RS.jpg,F,68.2,8.0,Advanced Intermediate AMD,2
+1653,16,left,52633/52633_16_F2_LE_RS.jpg,M,75.0,3.0,Early AMD,0
+1648,6,right,59518/59518_06_F2_RE_RS.jpg,F,68.8,1.0,Early AMD,0
+2037,4,left,54632/54632_04_F2_LE_RS.jpg,F,82.0,7.0,Advanced Intermediate AMD,2
+2034,4,right,54749/54749_04_F2_RE_LS.jpg,F,79.6,10.0,Early Late AMD,3
+3407,20,left,56816/56816_20_F2_LE_RS.jpg,M,78.5,12.0,End-Stage AMD,5
+G249,8,left,61526/61526_08_F2_LE_RS.jpg,M,68.7,8.0,Advanced Intermediate AMD,2
+3717,18,right,59093/59093_18_F2_RE_RS.jpg,M,78.9,1.0,Early AMD,0
+4224,4,right,53809/53809_04_F2_RE_RS.jpg,F,75.0,6.0,Moderate AMD,1
+2100,16,right,51780/51780_16_F2_RE_RS.jpg,M,67.6,8.0,Advanced Intermediate AMD,2
+5299,6,right,56198/56198_06_F2_RE_RS.jpg,M,72.1,10.0,Early Late AMD,3
+G429,20,left,59852/59852_20_F2_LE_LS.jpg,M,75.7,2.0,Early AMD,0
+2162,0,left,2162/2162_00_LE_F2_RS.jpg,F,70.3,11.0,Active Neovascular AMD,4
+1758,16,right,52760/52760_16_F2_RE_RS.jpg,F,80.3,5.0,Moderate AMD,1
+5239,4,left,55404/55404_04_F2_LE_LS.jpg,M,80.1,7.0,Advanced Intermediate AMD,2
+2474,6,right,52499/52499_06_F2_RE_LS.jpg,F,72.7,5.0,Moderate AMD,1
+2505,4,right,58688/58688_04_F2_RE_RS.jpg,F,62.6,1.0,Early AMD,0
+2162,22,left,2162/2162_22_LE_F2_RS.jpg,F,81.39999999999999,12.0,End-Stage AMD,5
+1345,6,right,58113/58113_06_F2_RE_RS.jpg,M,71.3,1.0,Early AMD,0
+3341,20,right,3341/3341_20_RE_F2_LS.jpg,M,68.9,11.0,Active Neovascular AMD,4
+G303,6,right,59545/59545_06_F2_RE_RS.jpg,M,67.3,2.0,Early AMD,0
+G526,18,left,61605/61605_18_F2_LE_RS.jpg,F,78.0,4.0,Moderate AMD,1
+3982,4,right,3982/3982_04_RE_F2_RS.jpg,F,73.3,11.0,Active Neovascular AMD,4
+2834,16,right,56723/56723_16_F2_RE_LS.jpg,F,84.6,8.0,Advanced Intermediate AMD,2
+2793,10,left,56441/56441_10_F2_LE_RS.jpg,M,71.1,8.0,Advanced Intermediate AMD,2
+1242,12,left,51701/51701_12_F2_LE_RS.jpg,M,78.10000000000001,4.0,Moderate AMD,1
+2583,6,right,56112/56112_06_F2_RE_RS.jpg,M,71.2,5.0,Moderate AMD,1
+5738,5,right,58632/58632_05_F2_RE_LS.jpg,M,79.9,1.0,Early AMD,0
+2100,14,left,51780/51780_14_F2_LE_LS.jpg,M,66.6,8.0,Advanced Intermediate AMD,2
+2047,6,left,55024/55024_06_F2_LE_RS.jpg,M,65.3,2.0,Early AMD,0
+3971,20,left,52020/52020_20_F2_LE_LS.jpg,F,86.6,1.0,Early AMD,0
+4736,12,right,56143/56143_12_F2_RE_RS.jpg,F,80.5,1.0,Early AMD,0
+4337,6,left,54836/54836_06_F2_LE_RS.jpg,F,78.4,6.0,Moderate AMD,1
+1321,18,left,55214/55214_18_F2_LE_RS.jpg,F,70.9,4.0,Moderate AMD,1
+4986,8,right,58745/58745_08_F2_RE_RS.jpg,M,77.19999999999999,7.0,Advanced Intermediate AMD,2
+G104,16,right,51288/51288_16_F2_RE_RS.jpg,M,75.10000000000001,1.0,Early AMD,0
+G470,20,left,58552/58552_20_F2_LE_LS.jpg,M,66.0,11.0,Active Neovascular AMD,4
+G307,10,right,59757/59757_10_F2_RE_RS.jpg,F,75.89999999999999,5.0,Moderate AMD,1
+2654,20,right,53082/53082_20_F2_RE_RS.jpg,M,74.1,1.0,Early AMD,0
+G429,6,left,59852/59852_06_F2_LE_LS.jpg,M,68.5,1.0,Early AMD,0
+1666,6,left,60261/60261_06_F2_LE_RS.jpg,M,72.6,5.0,Moderate AMD,1
+G559,16,left,53045/53045_16_F2_LE_LS.jpg,F,72.7,2.0,Early AMD,0
+G531,10,right,51223/51223_10_F2_RE_RS.jpg,M,70.69999999999999,5.0,Moderate AMD,1
+1290,10,left,60962/60962_10_F2_LE_LS.jpg,F,81.3,7.0,Advanced Intermediate AMD,2
+2145,20,right,53135/53135_20_F2_RE_RS.jpg,F,80.9,11.0,Active Neovascular AMD,4
+2616,24,right,54484/54484_24_F2_RE_RS.jpg,M,85.8,11.0,Active Neovascular AMD,4
+5404,16,right,58247/58247_16_F2_RE_RS.jpg,M,76.0,1.0,Early AMD,0
+1145,9,left,54698/54698_09_F2_LE_RS.jpg,F,78.5,1.0,Early AMD,0
+4258,22,left,59647/59647_22_F2_LE_RS.jpg,M,75.7,4.0,Moderate AMD,1
+5578,20,right,5578/5578_20_RE_F2_LS.jpg,F,74.8,1.0,Early AMD,0
+2765,12,left,52360/52360_12_F2_LE_LS.jpg,F,75.9,4.0,Moderate AMD,1
+3410,8,left,56424/56424_08_F2_LE_LS.jpg,M,75.7,7.0,Advanced Intermediate AMD,2
+G526,22,left,61605/61605_22_F2_LE_LS.jpg,F,79.69999999999999,8.0,Advanced Intermediate AMD,2
+G042,14,left,58733/58733_14_F2_LE_RS.jpg,M,75.2,2.0,Early AMD,0
+2739,4,left,60275/60275_04_F2_LE_RS.jpg,F,70.4,11.0,Active Neovascular AMD,4
+2055,18,left,53030/53030_18_F2_LE_LS.jpg,F,84.0,12.0,End-Stage AMD,5
+4671,22,right,53604/53604_22_F2_RE_LS.jpg,M,85.3,12.0,End-Stage AMD,5
+5211,6,left,53469/53469_06_F2_LE_RS.jpg,F,74.3,6.0,Moderate AMD,1
+G443,10,right,59638/59638_10_F2_RE_LS.jpg,F,71.5,5.0,Moderate AMD,1
+G200,14,left,56495/56495_14_F2_LE_LS.jpg,F,66.0,8.0,Advanced Intermediate AMD,2
+4190,8,right,4190/4190_08_RE_F2_RS.jpg,F,73.7,1.0,Early AMD,0
+2527,6,right,51505/51505_06_F2_RE_LS.jpg,F,74.1,11.0,Active Neovascular AMD,4
+4906,16,left,56807/56807_16_F2_LE_RS.jpg,M,76.1,6.0,Moderate AMD,1
+2003,24,left,54182/54182_24_F2_LE_LS.jpg,F,79.5,7.0,Advanced Intermediate AMD,2
+4933,13,left,60610/60610_13_F2_LE_LS.jpg,M,73.7,6.0,Moderate AMD,1
+G200,4,left,56495/56495_04_F2_LE_RS.jpg,F,61.0,7.0,Advanced Intermediate AMD,2
+3812,14,left,55519/55519_14_F2_LE_LS.jpg,F,71.6,1.0,Early AMD,0
+4286,18,left,53418/53418_18_F2_LE_LS.jpg,M,75.2,10.0,Early Late AMD,3
+2728,16,left,53365/53365_16_F2_LE_RS.jpg,F,72.3,2.0,Early AMD,0
+1281,4,right,61305/61305_04_F2_RE_RS.jpg,M,69.5,11.0,Active Neovascular AMD,4
+1162,4,right,58572/58572_04_F2_RE_LS.jpg,F,81.0,11.0,Active Neovascular AMD,4
+5478,16,left,5478/5478_16_LE_F2_RS.jpg,F,84.60000000000001,11.0,Active Neovascular AMD,4
+1953,4,left,58469/58469_04_F2_LE_RS.jpg,M,63.6,4.0,Moderate AMD,1
+1485,20,left,1485/1485_20_LE_F2_LS.jpg,M,86.60000000000001,1.0,Early AMD,0
+1501,4,left,58750/58750_04_F2_LE_RS.jpg,M,75.4,5.0,Moderate AMD,1
+3356,8,left,56722/56722_08_F2_LE_LS.jpg,F,68.4,9.0,Advanced Intermediate AMD,2
+3826,18,right,52385/52385_18_F2_RE_RS.jpg,M,75.2,4.0,Moderate AMD,1
+2793,16,left,2793/2793_16_LE_F2_RS.jpg,M,74.19999999999999,8.0,Advanced Intermediate AMD,2
+1941,0,left,1941/1941_00_LE_F2_RS.jpg,M,62.5,10.0,Early Late AMD,3
+1430,8,right,59195/59195_08_F2_RE_RS.jpg,M,69.5,4.0,Moderate AMD,1
+1901,4,right,52690/52690_04_F2_RE_RS.jpg,M,62.5,2.0,Early AMD,0
+3840,14,right,53442/53442_14_F2_RE_RS.jpg,F,72.0,8.0,Advanced Intermediate AMD,2
+3834,8,right,58239/58239_08_F2_RE_LS.jpg,M,67.6,10.0,Early Late AMD,3
+3087,6,right,56639/56639_06_F2_RE_LS.jpg,F,68.89999999999999,1.0,Early AMD,0
+4606,6,right,54846/54846_06_F2_RE_RS.jpg,F,79.9,4.0,Moderate AMD,1
+4166,10,left,55060/55060_10_F2_LE_RS.jpg,M,72.7,8.0,Advanced Intermediate AMD,2
+2834,20,right,56723/56723_20_F2_RE_RS.jpg,F,86.7,4.0,Moderate AMD,1
+4236,18,left,51800/51800_18_F2_LE_LS.jpg,F,77.6,1.0,Early AMD,0
+G462,4,right,51703/51703_04_F2_RE_LS.jpg,M,72.10000000000001,2.0,Early AMD,0
+4577,12,right,55339/55339_12_F2_RE_LS.jpg,F,73.9,11.0,Active Neovascular AMD,4
+G426,12,left,61324/61324_12_F2_LE_LS.jpg,F,73.2,6.0,Moderate AMD,1
+1186,13,left,60575/60575_13_F2_LE_RS.jpg,F,78.9,9.0,Advanced Intermediate AMD,2
+4806,6,right,60984/60984_06_F2_RE_LS.jpg,F,63.2,4.0,Moderate AMD,1
+1806,22,right,60535/60535_22_F2_RE_LS.jpg,M,71.9,2.0,Early AMD,0
+4622,18,right,54812/54812_18_F2_RE_LS.jpg,F,70.39999999999999,6.0,Moderate AMD,1
+5587,10,left,52172/52172_10_F2_LE_RS.jpg,F,71.3,10.0,Early Late AMD,3
+G161,10,right,53805/53805_10_F2_RE_LS.jpg,M,83.7,11.0,Active Neovascular AMD,4
+G020,16,left,58063/58063_16_F2_LE_LS.jpg,M,70.4,3.0,Early AMD,0
+5290,20,right,51588/51588_20_F2_RE_RS.jpg,F,73.5,10.0,Early Late AMD,3
+1160,20,left,1160/1160_20_LE_F2_LS.jpg,F,74.10000000000001,11.0,Active Neovascular AMD,4
+2193,24,right,2193/2193_24_RE_F2_LS.jpg,F,80.9,10.0,Early Late AMD,3
+3892,16,left,56710/56710_16_F2_LE_RS.jpg,F,69.5,5.0,Moderate AMD,1
+G495,18,left,51350/51350_18_F2_LE_LS.jpg,F,80.1,8.0,Advanced Intermediate AMD,2
+2466,4,right,58696/58696_04_F2_RE_RS.jpg,F,71.1,10.0,Early Late AMD,3
+2370,20,left,2370/2370_20_LE_F2_RS.jpg,M,73.7,1.0,Early AMD,0
+2193,8,right,2193/2193_08_RE_F2_LS.jpg,F,72.9,7.0,Advanced Intermediate AMD,2
+G314,12,left,53470/53470_12_F2_LE_RS.jpg,F,81.8,11.0,Active Neovascular AMD,4
+1471,20,right,59898/59898_20_F2_RE_LS.jpg,M,84.9,6.0,Moderate AMD,1
+1926,4,right,60319/60319_04_F2_RE_RS.jpg,F,76.1,1.0,Early AMD,0
+2791,8,right,60582/60582_08_F2_RE_LS.jpg,M,64.0,6.0,Moderate AMD,1
+2765,14,left,52360/52360_14_F2_LE_RS.jpg,F,76.9,6.0,Moderate AMD,1
+3720,0,left,3720/3720_00_LE_F2_LS.jpg,F,73.3,11.0,Active Neovascular AMD,4
+1160,16,left,1160/1160_16_LE_F2_RS.jpg,F,72.2,11.0,Active Neovascular AMD,4
+2003,14,right,54182/54182_14_F2_RE_RS.jpg,F,74.6,7.0,Advanced Intermediate AMD,2
+4589,6,right,55666/55666_06_F2_RE_RS.jpg,M,69.30000000000001,1.0,Early AMD,0
+4195,8,right,58222/58222_08_F2_RE_LS.jpg,F,75.3,2.0,Early AMD,0
+2563,10,right,59705/59705_10_F2_RE_RS.jpg,F,66.1,1.0,Early AMD,0
+5179,18,left,56538/56538_18_F2_LE_LS.jpg,F,81.5,11.0,Active Neovascular AMD,4
+2575,10,left,56362/56362_10_F2_LE_RS.jpg,F,68.0,11.0,Active Neovascular AMD,4
+2303,14,left,53601/53601_14_F2_LE_LS.jpg,M,77.80000000000001,11.0,Active Neovascular AMD,4
+5393,16,right,61676/61676_16_F2_RE_RS.jpg,F,78.2,7.0,Advanced Intermediate AMD,2
+4050,10,left,60056/60056_10_F2_LE_RS.jpg,M,77.2,4.0,Moderate AMD,1
+2575,12,left,56362/56362_12_F2_LE_LS.jpg,F,69.0,11.0,Active Neovascular AMD,4
+2583,10,right,56112/56112_10_F2_RE_RS.jpg,M,73.8,4.0,Moderate AMD,1
+1240,8,left,53371/53371_08_F2_LE_RS.jpg,F,65.6,1.0,Early AMD,0
+1594,12,left,54357/54357_12_F2_LE_LS.jpg,F,72.8,2.0,Early AMD,0
+G042,4,left,58733/58733_04_F2_LE_RS.jpg,M,70.2,2.0,Early AMD,0
+G054,10,left,60909/60909_10_F2_LE_RS.jpg,M,70.1,4.0,Moderate AMD,1
+3138,24,left,3138/3138_24_LE_F2_RS.jpg,F,84.6,12.0,End-Stage AMD,5
+4195,12,left,58222/58222_12_F2_LE_LS.jpg,F,77.2,1.0,Early AMD,0
+1800,10,right,56154/56154_10_F2_RE_LS.jpg,M,74.3,1.0,Early AMD,0
+2150,7,right,60854/60854_07_F2_RE_LS.jpg,M,76.9,9.0,Advanced Intermediate AMD,2
+G020,22,left,58063/58063_22_F2_LE_LS.jpg,M,73.5,1.0,Early AMD,0
+3317,20,right,58778/58778_20_F2_RE_LS.jpg,M,71.10000000000001,2.0,Early AMD,0
+1225,14,right,56673/56673_14_F2_RE_RS.jpg,M,74.7,4.0,Moderate AMD,1
+4726,12,right,61598/61598_12_F2_RE_LS.jpg,F,72.6,7.0,Advanced Intermediate AMD,2
+1929,14,right,58718/58718_14_F2_RE_LS.jpg,M,74.0,2.0,Early AMD,0
+2760,16,right,2760/2760_16_RE_F2_RS.jpg,M,81.5,1.0,Early AMD,0
+2739,8,right,60275/60275_08_F2_RE_LS.jpg,F,72.4,11.0,Active Neovascular AMD,4
+3415,24,left,52063/52063_24_F2_LE_LS.jpg,F,74.7,2.0,Early AMD,0
+2546,6,right,53578/53578_06_F2_RE_LS.jpg,M,77.8,6.0,Moderate AMD,1
+4317,6,left,58580/58580_06_F2_LE_RS.jpg,F,75.7,11.0,Active Neovascular AMD,4
+2314,4,left,52542/52542_04_F2_LE_RS.jpg,M,75.5,11.0,Active Neovascular AMD,4
+G042,12,left,58733/58733_12_F2_LE_LS.jpg,M,74.2,2.0,Early AMD,0
+4622,14,right,54812/54812_14_F2_RE_LS.jpg,F,68.3,6.0,Moderate AMD,1
+G424,14,right,51205/51205_14_F2_RE_LS.jpg,F,74.2,3.0,Early AMD,0
+4746,6,left,58124/58124_06_F2_LE_RS.jpg,F,73.6,1.0,Early AMD,0
+G470,4,right,58552/58552_04_F2_RE_RS.jpg,M,57.8,11.0,Active Neovascular AMD,4
+3792,10,right,53313/53313_10_F2_RE_RS.jpg,F,73.9,4.0,Moderate AMD,1
+1624,4,right,56356/56356_04_F2_RE_LS.jpg,M,67.60000000000001,11.0,Active Neovascular AMD,4
+2396,10,left,55738/55738_10_F2_LE_RS.jpg,F,69.19999999999999,3.0,Early AMD,0
+1568,22,left,1568/1568_22_LE_F2_LS.jpg,F,74.60000000000001,11.0,Active Neovascular AMD,4
+5400,18,left,55472/55472_18_F2_LE_RS.jpg,F,77.3,10.0,Early Late AMD,3
+3784,6,left,54346/54346_06_F2_LE_LS.jpg,M,72.7,1.0,Early AMD,0
+1152,10,left,60872/60872_10_F2_LE_RS.jpg,M,77.8,4.0,Moderate AMD,1
+2352,8,right,51036/51036_08_F2_RE_RS.jpg,M,69.3,1.0,Early AMD,0
+4914,14,right,58609/58609_14_F2_RE_RS.jpg,M,84.0,7.0,Advanced Intermediate AMD,2
+2838,10,right,55732/55732_10_F2_RE_RS.jpg,M,78.8,11.0,Active Neovascular AMD,4
+3138,16,left,3138/3138_16_LE_F2_LS.jpg,F,80.8,10.0,Early Late AMD,3
+3272,8,right,3272/3272_08_RE_F2_RS.jpg,M,72.0,11.0,Active Neovascular AMD,4
+1070,12,left,51060/51060_12_F2_LE_RS.jpg,F,70.0,1.0,Early AMD,0
+2408,8,left,52834/52834_08_F2_LE_RS.jpg,M,77.2,1.0,Early AMD,0
+4736,14,left,56143/56143_14_F2_LE_RS.jpg,F,81.5,1.0,Early AMD,0
+4454,6,left,55685/55685_06_F2_LE_LS.jpg,M,65.1,1.0,Early AMD,0
+1806,10,right,60535/60535_10_F2_RE_RS.jpg,M,65.9,2.0,Early AMD,0
+4594,24,left,61151/61151_24_F2_LE_RS.jpg,M,89.4,6.0,Moderate AMD,1
+2185,12,right,56255/56255_12_F2_RE_LS.jpg,M,73.4,2.0,Early AMD,0
+2939,15,right,57048/57048_15_F2_RE_RS.jpg,F,70.39999999999999,4.0,Moderate AMD,1
+5219,14,right,53761/53761_14_F2_RE_RS.jpg,M,76.5,5.0,Moderate AMD,1
+1924,4,left,1924/1924_04_LE_F2_RS.jpg,F,70.3,1.0,Early AMD,0
+1873,0,right,1873/1873_00_RE_F2_LS.jpg,M,68.5,11.0,Active Neovascular AMD,4
+4286,8,left,53418/53418_08_F2_LE_LS.jpg,M,70.2,8.0,Advanced Intermediate AMD,2
+2120,10,right,59767/59767_10_F2_RE_RS.jpg,M,74.1,4.0,Moderate AMD,1
+4986,14,right,58745/58745_14_F2_RE_RS.jpg,M,80.19999999999999,5.0,Moderate AMD,1
+1430,4,right,59195/59195_04_F2_RE_LS.jpg,M,67.5,4.0,Moderate AMD,1
+1949,4,left,61584/61584_04_F2_LE_RS.jpg,M,74.9,3.0,Early AMD,0
+5350,14,left,61681/61681_14_F2_LE_LS.jpg,F,71.80000000000001,1.0,Early AMD,0
+2185,14,right,56255/56255_14_F2_RE_LS.jpg,M,74.4,2.0,Early AMD,0
+3982,10,right,55551/55551_10_F2_RE_LS.jpg,F,76.3,11.0,Active Neovascular AMD,4
+2314,10,left,52542/52542_10_F2_LE_LS.jpg,M,78.5,12.0,End-Stage AMD,5
+5400,12,left,5400/5400_12_LE_F2_RS.jpg,F,73.9,10.0,Early Late AMD,3
+G314,14,left,53470/53470_14_F2_LE_LS.jpg,F,82.7,8.0,Advanced Intermediate AMD,2
+4202,4,right,53481/53481_04_F2_RE_RS.jpg,F,64.4,5.0,Moderate AMD,1
+4558,8,left,56006/56006_08_F2_LE_LS.jpg,M,75.7,11.0,Active Neovascular AMD,4
+5327,8,left,60306/60306_08_F2_LE_LS.jpg,M,76.2,7.0,Advanced Intermediate AMD,2
+4683,4,left,56826/56826_04_F2_LE_RS.jpg,F,63.1,3.0,Early AMD,0
+5239,14,left,55404/55404_14_F2_LE_LS.jpg,M,85.2,7.0,Advanced Intermediate AMD,2
+G106,8,right,53714/53714_08_F2_RE_LS.jpg,F,83.3,11.0,Active Neovascular AMD,4
+2034,6,right,54749/54749_06_F2_RE_LS.jpg,F,80.6,10.0,Early Late AMD,3
+G462,12,right,51703/51703_12_F2_RE_LS.jpg,M,76.10000000000001,5.0,Moderate AMD,1
+1934,8,right,54236/54236_08_F2_RE_LS.jpg,F,71.1,4.0,Moderate AMD,1
+4594,8,left,61151/61151_08_F2_LE_RS.jpg,M,81.2,2.0,Early AMD,0
+4520,8,right,58753/58753_08_F2_RE_RS.jpg,F,73.5,11.0,Active Neovascular AMD,4
+1500,10,right,60938/60938_10_F2_RE_LS.jpg,M,71.10000000000001,5.0,Moderate AMD,1
+2791,16,left,60582/60582_16_F2_LE_LS.jpg,M,68.60000000000001,6.0,Moderate AMD,1
+G526,16,left,61605/61605_16_F2_LE_LS.jpg,F,77.1,6.0,Moderate AMD,1
+1717,14,right,59604/59604_14_F2_RE_RS.jpg,F,86.2,11.0,Active Neovascular AMD,4
+3784,10,left,54346/54346_10_F2_LE_RS.jpg,M,74.7,1.0,Early AMD,0
+5211,18,right,53469/53469_18_F2_RE_LS.jpg,F,80.3,6.0,Moderate AMD,1
+1186,8,right,1186/1186_08_RE_F2_RS.jpg,F,76.4,9.0,Advanced Intermediate AMD,2
+3794,4,left,57182/57182_04_F2_LE_LS.jpg,F,64.8,11.0,Active Neovascular AMD,4
+2481,20,right,58076/58076_20_F2_RE_LS.jpg,F,80.4,4.0,Moderate AMD,1
+G346,12,left,51213/51213_12_F2_LE_RS.jpg,M,81.1,4.0,Moderate AMD,1
+4439,6,right,56846/56846_06_F2_RE_RS.jpg,F,71.2,6.0,Moderate AMD,1
+2682,6,right,51664/51664_06_F2_RE_LS.jpg,M,70.6,5.0,Moderate AMD,1
+4933,4,left,60610/60610_04_F2_LE_LS.jpg,M,69.0,6.0,Moderate AMD,1
+5478,22,left,61130/61130_22_F2_LE_RS.jpg,F,87.4,11.0,Active Neovascular AMD,4
+1361,6,left,51176/51176_06_F2_LE_RS.jpg,M,69.8,1.0,Early AMD,0
+5211,16,left,53469/53469_16_F2_LE_LS.jpg,F,79.3,7.0,Advanced Intermediate AMD,2
+3982,8,right,3982/3982_08_RE_F2_LS.jpg,F,75.3,11.0,Active Neovascular AMD,4
+4645,6,left,55668/55668_06_F2_LE_LS.jpg,M,69.8,1.0,Early AMD,0
+G424,18,right,51205/51205_18_F2_RE_LS.jpg,F,76.2,4.0,Moderate AMD,1
+1653,20,right,52633/52633_20_F2_RE_RS.jpg,M,76.9,2.0,Early AMD,0
+1225,12,right,56673/56673_12_F2_RE_RS.jpg,M,73.7,4.0,Moderate AMD,1
+2563,20,left,59705/59705_20_F2_LE_RS.jpg,F,70.7,1.0,Early AMD,0
+1924,18,right,52309/52309_18_F2_RE_LS.jpg,F,77.2,1.0,Early AMD,0
+3010,1,left,61711/61711_01_F2_LE_RS.jpg,F,73.9,7.0,Advanced Intermediate AMD,2
+G392,12,right,61495/61495_12_F2_RE_RS.jpg,M,72.4,10.0,Early Late AMD,3
+3357,20,left,60888/60888_20_F2_LE_LS.jpg,F,73.2,1.0,Early AMD,0
+1160,6,left,52932/52932_06_F2_LE_RS.jpg,F,67.3,6.0,Moderate AMD,1
+1439,24,right,53285/53285_24_F2_RE_RS.jpg,M,78.0,8.0,Advanced Intermediate AMD,2
+3597,8,left,51197/51197_08_F2_LE_LS.jpg,F,74.3,11.0,Active Neovascular AMD,4
+G470,14,right,58552/58552_14_F2_RE_LS.jpg,M,62.8,11.0,Active Neovascular AMD,4
+4300,18,left,61612/61612_18_F2_LE_RS.jpg,F,73.2,4.0,Moderate AMD,1
+5211,12,left,53469/53469_12_F2_LE_RS.jpg,F,77.3,6.0,Moderate AMD,1
+3341,8,left,3341/3341_08_LE_F2_LS.jpg,M,63.1,11.0,Active Neovascular AMD,4
+5160,4,right,59893/59893_04_F2_RE_RS.jpg,F,83.0,6.0,Moderate AMD,1
+G470,18,left,58552/58552_18_F2_LE_RS.jpg,M,64.7,11.0,Active Neovascular AMD,4
+G104,12,left,51288/51288_12_F2_LE_RS.jpg,M,72.9,1.0,Early AMD,0
+1587,4,right,59648/59648_04_F2_RE_LS.jpg,F,65.3,4.0,Moderate AMD,1
+3036,16,left,51796/51796_16_F2_LE_RS.jpg,M,83.0,10.0,Early Late AMD,3
+2583,12,right,56112/56112_12_F2_RE_RS.jpg,M,74.2,5.0,Moderate AMD,1
+3739,16,right,52709/52709_16_F2_RE_RS.jpg,M,77.1,1.0,Early AMD,0
+G033,4,left,54565/54565_04_F2_LE_LS.jpg,M,71.8,5.0,Moderate AMD,1
+4317,16,right,4317/4317_16_RE_F2_RS.jpg,F,80.3,7.0,Advanced Intermediate AMD,2
+2465,8,right,56821/56821_08_F2_RE_RS.jpg,F,72.5,11.0,Active Neovascular AMD,4
+3186,4,right,60606/60606_04_F2_RE_LS.jpg,M,68.0,2.0,Early AMD,0
+G228,4,left,60320/60320_04_F2_LE_RS.jpg,F,74.5,2.0,Early AMD,0
+G467,10,left,53681/53681_10_F2_LE_RS.jpg,F,77.8,9.0,Advanced Intermediate AMD,2
+4505,10,right,54538/54538_10_F2_RE_RS.jpg,F,71.10000000000001,6.0,Moderate AMD,1
+G086,16,left,53227/53227_16_F2_LE_RS.jpg,F,80.0,4.0,Moderate AMD,1
+5278,20,left,61051/61051_20_F2_LE_LS.jpg,F,77.69999999999999,11.0,Active Neovascular AMD,4
+1500,13,right,60938/60938_13_F2_RE_LS.jpg,M,72.2,8.0,Advanced Intermediate AMD,2
+1625,8,left,60577/60577_08_F2_LE_LS.jpg,F,70.1,7.0,Advanced Intermediate AMD,2
+1065,4,right,51616/51616_04_F2_RE_LS.jpg,M,64.6,2.0,Early AMD,0
+1240,10,right,53371/53371_10_F2_RE_LS.jpg,F,66.8,1.0,Early AMD,0
+2739,10,left,60275/60275_10_F2_LE_RS.jpg,F,73.5,11.0,Active Neovascular AMD,4
+G054,14,right,60909/60909_14_F2_RE_RS.jpg,M,72.1,5.0,Moderate AMD,1
+5278,10,left,61051/61051_10_F2_LE_LS.jpg,F,72.69999999999999,11.0,Active Neovascular AMD,4
+3612,4,right,55393/55393_04_F2_RE_LS.jpg,M,68.2,7.0,Advanced Intermediate AMD,2
+3597,10,left,51197/51197_10_F2_LE_RS.jpg,F,75.3,11.0,Active Neovascular AMD,4
+2518,20,left,51645/51645_20_F2_LE_RS.jpg,M,68.2,6.0,Moderate AMD,1
+5478,14,left,61130/61130_14_F2_LE_RS.jpg,F,83.4,11.0,Active Neovascular AMD,4
+2426,16,right,61351/61351_16_F2_RE_RS.jpg,M,80.3,12.0,End-Stage AMD,5
+4202,12,right,53481/53481_12_F2_RE_LS.jpg,F,68.6,6.0,Moderate AMD,1
+3031,6,right,59080/59080_06_F2_RE_LS.jpg,M,69.6,11.0,Active Neovascular AMD,4
+2193,14,left,54250/54250_14_F2_LE_RS.jpg,F,75.9,8.0,Advanced Intermediate AMD,2
+3142,11,right,53607/53607_11_F2_RE_RS.jpg,F,76.39999999999999,11.0,Active Neovascular AMD,4
+G178,14,right,54858/54858_14_F2_RE_LS.jpg,M,76.0,3.0,Early AMD,0
+G129,6,left,58280/58280_06_F2_LE_LS.jpg,F,68.4,1.0,Early AMD,0
+2481,24,right,58076/58076_24_F2_RE_LS.jpg,F,82.5,4.0,Moderate AMD,1
+1568,6,right,61498/61498_06_F2_RE_RS.jpg,F,66.9,7.0,Advanced Intermediate AMD,2
+3120,12,left,55320/55320_12_F2_LE_LS.jpg,F,76.2,9.0,Advanced Intermediate AMD,2
+5219,6,right,53761/53761_06_F2_RE_RS.jpg,M,72.5,4.0,Moderate AMD,1
+2465,16,right,56821/56821_16_F2_RE_RS.jpg,F,76.5,11.0,Active Neovascular AMD,4
+G426,20,right,61324/61324_20_F2_RE_LS.jpg,F,77.0,11.0,Active Neovascular AMD,4
+4986,12,right,58745/58745_12_F2_RE_RS.jpg,M,79.0,6.0,Moderate AMD,1
+5290,14,right,51588/51588_14_F2_RE_LS.jpg,F,70.6,10.0,Early Late AMD,3
+2546,18,right,53578/53578_18_F2_RE_RS.jpg,M,83.8,8.0,Advanced Intermediate AMD,2
+G424,10,right,51205/51205_10_F2_RE_RS.jpg,F,72.2,2.0,Early AMD,0
+1843,8,left,54279/54279_08_F2_LE_RS.jpg,F,76.2,4.0,Moderate AMD,1
+2575,6,left,56362/56362_06_F2_LE_LS.jpg,F,66.0,11.0,Active Neovascular AMD,4
+3008,5,right,56610/56610_05_F2_RE_LS.jpg,F,76.3,6.0,Moderate AMD,1
+5228,16,right,56800/56800_16_F2_RE_LS.jpg,M,85.2,4.0,Moderate AMD,1
+2712,6,left,60690/60690_06_F2_LE_LS.jpg,F,72.2,1.0,Early AMD,0
+3494,22,right,61012/61012_22_F2_RE_RS.jpg,M,74.4,4.0,Moderate AMD,1
+2654,14,left,53082/53082_14_F2_LE_LS.jpg,M,71.1,1.0,Early AMD,0
+2413,8,right,56789/56789_08_F2_RE_LS.jpg,M,68.6,5.0,Moderate AMD,1
+4594,6,right,61151/61151_06_F2_RE_LS.jpg,M,80.2,4.0,Moderate AMD,1
+3138,10,left,61483/61483_10_F2_LE_RS.jpg,F,77.5,11.0,Active Neovascular AMD,4
+4219,10,left,51767/51767_10_F2_LE_RS.jpg,M,82.9,8.0,Advanced Intermediate AMD,2
+2793,4,right,2793/2793_04_RE_F2_RS.jpg,M,68.1,6.0,Moderate AMD,1
+2120,16,right,59767/59767_16_F2_RE_RS.jpg,M,76.8,4.0,Moderate AMD,1
+4946,22,right,54058/54058_22_F2_RE_LS.jpg,M,76.1,1.0,Early AMD,0
+2396,6,left,55738/55738_06_F2_LE_RS.jpg,F,67.19999999999999,5.0,Moderate AMD,1
+1800,12,left,56154/56154_12_F2_LE_RS.jpg,M,75.3,1.0,Early AMD,0
+G117,20,left,53143/53143_20_F2_LE_LS.jpg,M,78.0,2.0,Early AMD,0
+5239,18,left,55404/55404_18_F2_LE_RS.jpg,M,86.8,8.0,Advanced Intermediate AMD,2
+1568,10,left,61498/61498_10_F2_LE_LS.jpg,F,68.60000000000001,8.0,Advanced Intermediate AMD,2
+1371,14,right,61583/61583_14_F2_RE_LS.jpg,F,78.5,11.0,Active Neovascular AMD,4
+1462,18,right,52588/52588_18_F2_RE_LS.jpg,M,80.8,11.0,Active Neovascular AMD,4
+2070,4,left,52606/52606_04_F2_LE_RS.jpg,M,71.3,7.0,Advanced Intermediate AMD,2
+3675,6,left,60343/60343_06_F2_LE_RS.jpg,F,74.7,5.0,Moderate AMD,1
+3032,4,left,51760/51760_04_F2_LE_LS.jpg,M,81.2,11.0,Active Neovascular AMD,4
+1907,8,right,61696/61696_08_F2_RE_RS.jpg,M,74.80000000000001,1.0,Early AMD,0
+4946,18,right,54058/54058_18_F2_RE_RS.jpg,M,74.2,2.0,Early AMD,0
+1479,16,right,51725/51725_16_F2_RE_LS.jpg,M,69.9,10.0,Early Late AMD,3
+4224,18,left,53809/53809_18_F2_LE_LS.jpg,F,81.9,8.0,Advanced Intermediate AMD,2
+3410,10,right,56424/56424_10_F2_RE_RS.jpg,M,76.7,8.0,Advanced Intermediate AMD,2
+2120,20,left,59767/59767_20_F2_LE_LS.jpg,M,78.9,3.0,Early AMD,0
+4337,10,left,54836/54836_10_F2_LE_LS.jpg,F,80.4,9.0,Advanced Intermediate AMD,2
+G178,10,right,54858/54858_10_F2_RE_LS.jpg,M,74.3,5.0,Moderate AMD,1
+4641,6,right,60937/60937_06_F2_RE_LS.jpg,F,69.0,2.0,Early AMD,0
+4505,24,right,54538/54538_24_F2_RE_RS.jpg,F,78.0,6.0,Moderate AMD,1
+1604,12,right,52836/52836_12_F2_RE_RS.jpg,M,65.5,7.0,Advanced Intermediate AMD,2
+1291,12,left,61419/61419_12_F2_LE_LS.jpg,M,85.89999999999999,9.0,Advanced Intermediate AMD,2
+5587,20,right,52172/52172_20_F2_RE_RS.jpg,F,76.3,7.0,Advanced Intermediate AMD,2
+1942,11,left,55703/55703_11_F2_LE_RS.jpg,F,72.5,5.0,Moderate AMD,1
+G470,8,right,58552/58552_08_F2_RE_LS.jpg,M,59.8,11.0,Active Neovascular AMD,4
+3133,7,left,59192/59192_07_F2_LE_RS.jpg,F,71.6,6.0,Moderate AMD,1
+5103,20,right,59438/59438_20_F2_RE_LS.jpg,M,80.1,8.0,Advanced Intermediate AMD,2
+1160,18,left,52932/52932_18_F2_LE_LS.jpg,F,73.2,11.0,Active Neovascular AMD,4
+3415,18,left,52063/52063_18_F2_LE_LS.jpg,F,71.7,2.0,Early AMD,0
+5304,5,right,56497/56497_05_F2_RE_RS.jpg,M,70.1,5.0,Moderate AMD,1
+4309,10,right,60969/60969_10_F2_RE_RS.jpg,M,78.1,4.0,Moderate AMD,1
+4906,6,left,56807/56807_06_F2_LE_RS.jpg,M,71.1,6.0,Moderate AMD,1
+1281,12,right,61305/61305_12_F2_RE_RS.jpg,M,73.6,11.0,Active Neovascular AMD,4
+4286,6,right,53418/53418_06_F2_RE_LS.jpg,M,69.2,8.0,Advanced Intermediate AMD,2
+2426,14,right,61351/61351_14_F2_RE_LS.jpg,M,79.0,11.0,Active Neovascular AMD,4
+G467,6,left,53681/53681_06_F2_LE_LS.jpg,F,75.8,7.0,Advanced Intermediate AMD,2
+5274,10,left,53295/53295_10_F2_LE_LS.jpg,M,76.9,11.0,Active Neovascular AMD,4
+1152,8,left,60872/60872_08_F2_LE_RS.jpg,M,76.8,8.0,Advanced Intermediate AMD,2
+4171,6,right,58514/58514_06_F2_RE_LS.jpg,F,76.0,7.0,Advanced Intermediate AMD,2
+2868,8,right,54785/54785_08_F2_RE_LS.jpg,M,73.8,1.0,Early AMD,0
+4317,10,left,58580/58580_10_F2_LE_RS.jpg,F,77.3,11.0,Active Neovascular AMD,4
+2616,1,right,54484/54484_01_F2_RE_LS.jpg,M,74.3,11.0,Active Neovascular AMD,4
+3795,12,right,61545/61545_12_F2_RE_LS.jpg,M,70.0,11.0,Active Neovascular AMD,4
+G349,6,right,59858/59858_06_F2_RE_LS.jpg,M,64.10000000000001,9.0,Advanced Intermediate AMD,2
+2734,18,left,51654/51654_18_F2_LE_LS.jpg,M,75.1,2.0,Early AMD,0
+3982,20,right,3982/3982_20_RE_F2_RS.jpg,F,81.5,11.0,Active Neovascular AMD,4
+G295,10,right,53588/53588_10_F2_RE_LS.jpg,M,82.8,11.0,Active Neovascular AMD,4
+2793,6,right,56441/56441_06_F2_RE_RS.jpg,M,69.1,7.0,Advanced Intermediate AMD,2
+2674,6,left,59743/59743_06_F2_LE_RS.jpg,M,60.1,6.0,Moderate AMD,1
+2259,16,left,54556/54556_16_F2_LE_RS.jpg,M,80.3,11.0,Active Neovascular AMD,4
+1891,22,left,59498/59498_22_F2_LE_RS.jpg,F,77.10000000000001,1.0,Early AMD,0
+5327,6,right,60306/60306_06_F2_RE_RS.jpg,M,75.2,7.0,Advanced Intermediate AMD,2
+1568,0,left,1568/1568_00_LE_F2_LS.jpg,F,63.7,6.0,Moderate AMD,1
+4309,4,left,60969/60969_04_F2_LE_LS.jpg,M,75.1,2.0,Early AMD,0
+3274,8,right,52692/52692_08_F2_RE_RS.jpg,M,81.1,2.0,Early AMD,0
+G104,4,right,51288/51288_04_F2_RE_RS.jpg,M,68.9,1.0,Early AMD,0
+G249,14,left,61526/61526_14_F2_LE_RS.jpg,M,71.9,8.0,Advanced Intermediate AMD,2
+4202,14,right,53481/53481_14_F2_RE_LS.jpg,F,69.5,7.0,Advanced Intermediate AMD,2
+2527,4,left,51505/51505_04_F2_LE_RS.jpg,F,73.1,9.0,Advanced Intermediate AMD,2
+2481,22,right,58076/58076_22_F2_RE_LS.jpg,F,81.4,4.0,Moderate AMD,1
+1186,10,left,60575/60575_10_F2_LE_RS.jpg,F,77.4,8.0,Advanced Intermediate AMD,2
+G428,10,right,61190/61190_10_F2_RE_LS.jpg,F,73.8,1.0,Early AMD,0
+1365,22,left,53441/53441_22_F2_LE_RS.jpg,M,80.1,4.0,Moderate AMD,1
+3494,18,left,61012/61012_18_F2_LE_RS.jpg,M,72.4,4.0,Moderate AMD,1
+3274,6,right,52692/52692_06_F2_RE_RS.jpg,M,80.1,1.0,Early AMD,0
+G295,3,right,53588/53588_03_F2_RE_RS.jpg,M,79.3,11.0,Active Neovascular AMD,4
+4318,0,right,4318/4318_00_RE_F2_LS.jpg,M,69.5,1.0,Early AMD,0
+1361,4,left,51176/51176_04_F2_LE_LS.jpg,M,68.8,2.0,Early AMD,0
+3138,20,left,3138/3138_20_LE_F2_RS.jpg,F,82.69999999999999,12.0,End-Stage AMD,5
+1949,10,right,61584/61584_10_F2_RE_LS.jpg,M,77.7,4.0,Moderate AMD,1
+G081,18,right,56721/56721_18_F2_RE_RS.jpg,M,77.4,11.0,Active Neovascular AMD,4
+3987,16,right,56732/56732_16_F2_RE_RS.jpg,M,77.4,4.0,Moderate AMD,1
+3669,18,right,58409/58409_18_F2_RE_RS.jpg,F,75.8,2.0,Early AMD,0
+2654,6,right,53082/53082_06_F2_RE_RS.jpg,M,67.1,1.0,Early AMD,0
+3317,4,right,58778/58778_04_F2_RE_LS.jpg,M,62.6,2.0,Early AMD,0
+4171,8,right,58514/58514_08_F2_RE_LS.jpg,F,77.1,7.0,Advanced Intermediate AMD,2
+3669,6,right,58409/58409_06_F2_RE_RS.jpg,F,69.5,1.0,Early AMD,0
+1065,8,right,51616/51616_08_F2_RE_RS.jpg,M,66.1,2.0,Early AMD,0
+1717,24,right,59604/59604_24_F2_RE_RS.jpg,F,91.0,11.0,Active Neovascular AMD,4
+5278,22,left,61051/61051_22_F2_LE_RS.jpg,F,78.69999999999999,11.0,Active Neovascular AMD,4
+4195,10,left,58222/58222_10_F2_LE_RS.jpg,F,76.3,1.0,Early AMD,0
+2097,24,left,56217/56217_24_F2_LE_LS.jpg,M,83.8,4.0,Moderate AMD,1
+3341,16,right,3341/3341_16_RE_F2_RS.jpg,M,67.1,11.0,Active Neovascular AMD,4
+3834,10,right,58239/58239_10_F2_RE_LS.jpg,M,68.6,10.0,Early Late AMD,3
+1290,20,right,60962/60962_20_F2_RE_RS.jpg,F,86.3,8.0,Advanced Intermediate AMD,2
+5304,12,right,56497/56497_12_F2_RE_LS.jpg,M,73.69999999999999,5.0,Moderate AMD,1
+1240,18,left,53371/53371_18_F2_LE_LS.jpg,F,70.6,2.0,Early AMD,0
+3494,8,right,61012/61012_08_F2_RE_RS.jpg,M,67.5,4.0,Moderate AMD,1
+5274,15,left,53295/53295_15_F2_LE_LS.jpg,M,79.5,11.0,Active Neovascular AMD,4
+1565,22,right,1565/1565_22_RE_F2_LS.jpg,F,85.4,1.0,Early AMD,0
+5404,4,left,58247/58247_04_F2_LE_RS.jpg,M,70.2,2.0,Early AMD,0
+G094,6,right,53727/53727_06_F2_RE_RS.jpg,M,79.6,11.0,Active Neovascular AMD,4
+1500,0,left,1500/1500_00_LE_F2_RS.jpg,M,65.9,7.0,Advanced Intermediate AMD,2
+3461,10,right,52379/52379_10_F2_RE_LS.jpg,F,77.5,1.0,Early AMD,0
+G321,20,right,57049/57049_20_F2_RE_RS.jpg,M,73.3,3.0,Early AMD,0
+G502,4,left,61162/61162_04_F2_LE_RS.jpg,F,66.4,2.0,Early AMD,0
+1371,10,right,61583/61583_10_F2_RE_LS.jpg,F,76.3,11.0,Active Neovascular AMD,4
+1785,10,left,59919/59919_10_F2_LE_LS.jpg,M,80.10000000000001,6.0,Moderate AMD,1
+4280,20,right,55608/55608_20_F2_RE_LS.jpg,F,77.0,8.0,Advanced Intermediate AMD,2
+2034,8,left,54749/54749_08_F2_LE_RS.jpg,F,81.5,10.0,Early Late AMD,3
+1759,9,left,54697/54697_09_F2_LE_LS.jpg,M,79.89999999999999,11.0,Active Neovascular AMD,4
+1588,22,right,1588/1588_22_RE_F2_RS.jpg,F,82.7,11.0,Active Neovascular AMD,4
+4505,4,right,54538/54538_04_F2_RE_RS.jpg,F,67.9,5.0,Moderate AMD,1
+G086,12,left,53227/53227_12_F2_LE_RS.jpg,F,78.3,5.0,Moderate AMD,1
+2413,20,left,56789/56789_20_F2_LE_RS.jpg,M,74.8,2.0,Early AMD,0
+1734,10,right,52397/52397_10_F2_RE_RS.jpg,F,75.0,5.0,Moderate AMD,1
+G392,4,right,61495/61495_04_F2_RE_RS.jpg,M,68.4,11.0,Active Neovascular AMD,4
+2933,4,right,55562/55562_04_F2_RE_LS.jpg,F,80.4,11.0,Active Neovascular AMD,4
+4860,22,left,61713/61713_22_F2_LE_LS.jpg,F,72.8,10.0,Early Late AMD,3
+3407,10,left,56816/56816_10_F2_LE_RS.jpg,M,73.4,11.0,Active Neovascular AMD,4
+2674,12,left,59743/59743_12_F2_LE_LS.jpg,M,63.1,6.0,Moderate AMD,1
+3640,13,left,60642/60642_13_F2_LE_LS.jpg,M,79.6,6.0,Moderate AMD,1
+1568,18,left,61498/61498_18_F2_LE_RS.jpg,F,72.60000000000001,11.0,Active Neovascular AMD,4
+1604,8,left,52836/52836_08_F2_LE_LS.jpg,M,63.6,7.0,Advanced Intermediate AMD,2
+2575,24,right,56362/56362_24_F2_RE_LS.jpg,F,75.0,11.0,Active Neovascular AMD,4
+2791,14,right,60582/60582_14_F2_RE_LS.jpg,M,67.2,6.0,Moderate AMD,1
+4577,8,right,55339/55339_08_F2_RE_LS.jpg,F,71.80000000000001,11.0,Active Neovascular AMD,4
+2259,8,left,54556/54556_08_F2_LE_RS.jpg,M,76.1,11.0,Active Neovascular AMD,4
+3792,12,right,53313/53313_12_F2_RE_LS.jpg,F,74.9,4.0,Moderate AMD,1
+3008,16,left,56610/56610_16_F2_LE_LS.jpg,F,81.89999999999999,6.0,Moderate AMD,1
+1242,8,left,51701/51701_08_F2_LE_RS.jpg,M,76.2,8.0,Advanced Intermediate AMD,2
+G392,16,left,61495/61495_16_F2_LE_LS.jpg,M,74.4,10.0,Early Late AMD,3
+G033,6,left,54565/54565_06_F2_LE_RS.jpg,M,72.8,4.0,Moderate AMD,1
+G094,8,right,53727/53727_08_F2_RE_LS.jpg,M,80.5,11.0,Active Neovascular AMD,4
+G081,8,right,G081/G081_08_RE_F2_RS.jpg,M,72.4,11.0,Active Neovascular AMD,4
+2044,14,left,54098/54098_14_F2_LE_LS.jpg,F,76.2,1.0,Early AMD,0
+1624,12,right,56356/56356_12_F2_RE_RS.jpg,M,71.8,11.0,Active Neovascular AMD,4
+1106,16,right,61552/61552_16_F2_RE_LS.jpg,F,74.4,2.0,Early AMD,0
+G202,16,left,51551/51551_16_F2_LE_LS.jpg,M,76.69999999999999,10.0,Early Late AMD,3
+G243,8,left,51595/51595_08_F2_LE_LS.jpg,M,72.60000000000001,4.0,Moderate AMD,1
+1568,4,right,1568/1568_04_RE_F2_RS.jpg,F,65.9,7.0,Advanced Intermediate AMD,2
+2426,20,right,61351/61351_20_F2_RE_LS.jpg,M,82.3,12.0,End-Stage AMD,5
+4300,8,left,61612/61612_08_F2_LE_RS.jpg,F,68.30000000000001,9.0,Advanced Intermediate AMD,2
+4683,8,left,56826/56826_08_F2_LE_RS.jpg,F,65.2,2.0,Early AMD,0
+3010,6,right,61711/61711_06_F2_RE_LS.jpg,F,76.4,6.0,Moderate AMD,1
+5587,14,left,52172/52172_14_F2_LE_LS.jpg,F,73.3,10.0,Early Late AMD,3
+2838,4,right,55732/55732_04_F2_RE_RS.jpg,M,75.6,11.0,Active Neovascular AMD,4
+1430,20,right,59195/59195_20_F2_RE_RS.jpg,M,75.5,4.0,Moderate AMD,1
+3410,11,left,56424/56424_11_F2_LE_LS.jpg,M,77.10000000000001,8.0,Advanced Intermediate AMD,2
+4202,18,right,53481/53481_18_F2_RE_LS.jpg,F,71.3,8.0,Advanced Intermediate AMD,2
+G392,6,right,61495/61495_06_F2_RE_RS.jpg,M,69.4,11.0,Active Neovascular AMD,4
+1873,4,right,1873/1873_04_RE_F2_RS.jpg,M,70.5,11.0,Active Neovascular AMD,4
+G033,20,left,54565/54565_20_F2_LE_LS.jpg,M,79.89999999999999,8.0,Advanced Intermediate AMD,2
+5675,6,right,58558/58558_06_F2_RE_LS.jpg,F,72.8,11.0,Active Neovascular AMD,4
+1942,10,left,55703/55703_10_F2_LE_RS.jpg,F,72.0,5.0,Moderate AMD,1
+1371,0,right,1371/1371_00_RE_F2_LS.jpg,F,71.3,11.0,Active Neovascular AMD,4
+G279,4,right,61203/61203_04_F2_RE_RS.jpg,F,74.8,5.0,Moderate AMD,1
+2190,6,right,54719/54719_06_F2_RE_RS.jpg,M,65.2,2.0,Early AMD,0
+4622,20,left,54812/54812_20_F2_LE_RS.jpg,F,71.39999999999999,6.0,Moderate AMD,1
+4050,22,left,60056/60056_22_F2_LE_LS.jpg,M,83.5,4.0,Moderate AMD,1
+2674,22,left,59743/59743_22_F2_LE_LS.jpg,M,68.0,8.0,Advanced Intermediate AMD,2
+5327,4,right,60306/60306_04_F2_RE_LS.jpg,M,74.3,7.0,Advanced Intermediate AMD,2
+2678,10,left,56679/56679_10_F2_LE_LS.jpg,M,63.2,6.0,Moderate AMD,1
+4274,20,left,60986/60986_20_F2_LE_LS.jpg,F,87.4,11.0,Active Neovascular AMD,4
+1587,18,right,59648/59648_18_F2_RE_RS.jpg,F,72.0,5.0,Moderate AMD,1
+5290,8,right,51588/51588_08_F2_RE_RS.jpg,F,67.6,10.0,Early Late AMD,3
+1479,20,right,51725/51725_20_F2_RE_LS.jpg,M,71.9,10.0,Early Late AMD,3
+3826,16,right,52385/52385_16_F2_RE_RS.jpg,M,74.10000000000001,4.0,Moderate AMD,1
+G314,8,right,53470/53470_08_F2_RE_RS.jpg,F,79.8,7.0,Advanced Intermediate AMD,2
+4938,4,right,59840/59840_04_F2_RE_LS.jpg,F,75.2,4.0,Moderate AMD,1
+3846,20,right,54045/54045_20_F2_RE_LS.jpg,F,85.5,11.0,Active Neovascular AMD,4
+1565,10,left,53293/53293_10_F2_LE_LS.jpg,F,79.60000000000001,1.0,Early AMD,0
+3846,8,right,54045/54045_08_F2_RE_RS.jpg,F,79.3,11.0,Active Neovascular AMD,4
+4840,4,right,55593/55593_04_F2_RE_RS.jpg,F,65.7,1.0,Early AMD,0
+G316,22,left,51107/51107_22_F2_LE_LS.jpg,M,74.5,8.0,Advanced Intermediate AMD,2
+G603,4,left,55587/55587_04_F2_LE_RS.jpg,M,66.0,4.0,Moderate AMD,1
+G202,4,left,51551/51551_04_F2_LE_LS.jpg,M,70.6,11.0,Active Neovascular AMD,4
+5219,22,left,53761/53761_22_F2_LE_RS.jpg,M,80.6,8.0,Advanced Intermediate AMD,2
+4050,11,left,60056/60056_11_F2_LE_RS.jpg,M,77.7,4.0,Moderate AMD,1
+3640,6,left,60642/60642_06_F2_LE_LS.jpg,M,76.1,4.0,Moderate AMD,1
+G178,12,right,54858/54858_12_F2_RE_RS.jpg,M,75.4,4.0,Moderate AMD,1
+5228,18,left,56800/56800_18_F2_LE_RS.jpg,M,86.0,2.0,Early AMD,0
+2145,16,right,53135/53135_16_F2_RE_RS.jpg,F,78.80000000000001,11.0,Active Neovascular AMD,4
+2986,6,left,52864/52864_06_F2_LE_LS.jpg,F,82.3,12.0,End-Stage AMD,5
+3117,18,left,54146/54146_18_F2_LE_LS.jpg,F,81.6,3.0,Early AMD,0
+4280,16,right,55608/55608_16_F2_RE_LS.jpg,F,74.8,8.0,Advanced Intermediate AMD,2
+3098,10,left,52085/52085_10_F2_LE_RS.jpg,F,67.3,1.0,Early AMD,0
+1588,0,right,1588/1588_00_RE_F2_LS.jpg,F,71.7,11.0,Active Neovascular AMD,4
+5738,12,left,58632/58632_12_F2_LE_LS.jpg,M,83.5,2.0,Early AMD,0
+1785,4,right,59919/59919_04_F2_RE_LS.jpg,M,76.9,6.0,Moderate AMD,1
+2918,16,left,52742/52742_16_F2_LE_RS.jpg,F,71.3,1.0,Early AMD,0
+G444,16,left,60601/60601_16_F2_LE_LS.jpg,F,79.4,1.0,Early AMD,0
+4914,8,left,58609/58609_08_F2_LE_LS.jpg,M,80.8,6.0,Moderate AMD,1
+4053,10,left,56526/56526_10_F2_LE_RS.jpg,F,77.4,7.0,Advanced Intermediate AMD,2
+4457,22,right,55047/55047_22_F2_RE_RS.jpg,F,86.1,11.0,Active Neovascular AMD,4
+3031,11,right,59080/59080_11_F2_RE_LS.jpg,M,72.1,11.0,Active Neovascular AMD,4
+1934,14,right,54236/54236_14_F2_RE_RS.jpg,F,74.1,4.0,Moderate AMD,1
+4317,12,left,4317/4317_12_LE_F2_LS.jpg,F,78.3,11.0,Active Neovascular AMD,4
+2055,14,right,53030/53030_14_F2_RE_RS.jpg,F,81.9,8.0,Advanced Intermediate AMD,2
+1915,16,left,1915/1915_16_LE_F2_LS.jpg,F,68.9,11.0,Active Neovascular AMD,4
+G260,4,left,59722/59722_04_F2_LE_LS.jpg,F,70.6,1.0,Early AMD,0
+2003,10,right,54182/54182_10_F2_RE_RS.jpg,F,72.6,4.0,Moderate AMD,1
+4806,10,right,60984/60984_10_F2_RE_RS.jpg,F,65.7,4.0,Moderate AMD,1
+5156,14,left,58672/58672_14_F2_LE_LS.jpg,F,66.5,7.0,Advanced Intermediate AMD,2
+3717,24,right,59093/59093_24_F2_RE_LS.jpg,M,82.10000000000001,4.0,Moderate AMD,1
+3892,4,right,56710/56710_04_F2_RE_LS.jpg,F,63.6,4.0,Moderate AMD,1
+G105,10,left,58546/58546_10_F2_LE_RS.jpg,F,64.3,7.0,Advanced Intermediate AMD,2
+5289,4,left,58700/58700_04_F2_LE_LS.jpg,F,78.5,5.0,Moderate AMD,1
+4310,15,right,55028/55028_15_F2_RE_LS.jpg,F,80.9,2.0,Early AMD,0
+G316,20,left,51107/51107_20_F2_LE_RS.jpg,M,73.5,7.0,Advanced Intermediate AMD,2
+5160,2,right,59893/59893_02_F2_RE_LS.jpg,F,81.69999999999999,6.0,Moderate AMD,1
+2162,20,left,2162/2162_20_LE_F2_LS.jpg,F,80.3,12.0,End-Stage AMD,5
+1587,16,right,59648/59648_16_F2_RE_LS.jpg,F,71.1,5.0,Moderate AMD,1
+G392,18,right,61495/61495_18_F2_RE_RS.jpg,M,75.4,12.0,End-Stage AMD,5
+2524,20,left,55569/55569_20_F2_LE_LS.jpg,M,81.30000000000001,1.0,Early AMD,0
+3357,12,left,60888/60888_12_F2_LE_LS.jpg,F,69.0,2.0,Early AMD,0
+4771,6,right,54280/54280_06_F2_RE_LS.jpg,M,75.0,2.0,Early AMD,0
+1953,12,left,58469/58469_12_F2_LE_LS.jpg,M,67.6,4.0,Moderate AMD,1
+1479,14,right,51725/51725_14_F2_RE_RS.jpg,M,68.9,12.0,End-Stage AMD,5
+3794,14,left,57182/57182_14_F2_LE_LS.jpg,F,69.89999999999999,11.0,Active Neovascular AMD,4
+4671,12,left,4671/4671_12_LE_F2_LS.jpg,M,80.3,10.0,Early Late AMD,3
+G105,22,right,58546/58546_22_F2_RE_RS.jpg,F,70.6,8.0,Advanced Intermediate AMD,2
+G086,22,left,53227/53227_22_F2_LE_RS.jpg,F,83.2,4.0,Moderate AMD,1
+G058,6,left,61686/61686_06_F2_LE_LS.jpg,F,82.1,1.0,Early AMD,0
+1162,10,right,58572/58572_10_F2_RE_RS.jpg,F,84.0,11.0,Active Neovascular AMD,4
+1624,6,right,56356/56356_06_F2_RE_LS.jpg,M,68.60000000000001,12.0,End-Stage AMD,5
+G346,14,left,51213/51213_14_F2_LE_LS.jpg,M,81.9,3.0,Early AMD,0
+1046,4,right,51624/51624_04_F2_RE_LS.jpg,F,76.5,4.0,Moderate AMD,1
+2474,4,left,52499/52499_04_F2_LE_RS.jpg,F,71.7,4.0,Moderate AMD,1
+5289,8,left,58700/58700_08_F2_LE_RS.jpg,F,80.5,4.0,Moderate AMD,1
+1604,4,right,52836/52836_04_F2_RE_RS.jpg,M,61.6,6.0,Moderate AMD,1
+G043,20,left,60886/60886_20_F2_LE_LS.jpg,F,81.0,11.0,Active Neovascular AMD,4
+4224,8,left,53809/53809_08_F2_LE_LS.jpg,F,77.0,6.0,Moderate AMD,1
+4387,20,right,59915/59915_20_F2_RE_RS.jpg,F,75.1,4.0,Moderate AMD,1
+1761,6,right,55118/55118_06_F2_RE_LS.jpg,F,80.1,1.0,Early AMD,0
+G473,20,left,60715/60715_20_F2_LE_LS.jpg,M,74.1,8.0,Advanced Intermediate AMD,2
+4672,6,right,59589/59589_06_F2_RE_LS.jpg,M,70.7,7.0,Advanced Intermediate AMD,2
+1371,16,right,1371/1371_16_RE_F2_RS.jpg,F,79.1,11.0,Active Neovascular AMD,4
+3494,4,right,61012/61012_04_F2_RE_LS.jpg,M,65.5,4.0,Moderate AMD,1
+3889,12,left,61374/61374_12_F2_LE_LS.jpg,F,69.7,4.0,Moderate AMD,1
+5066,8,right,52217/52217_08_F2_RE_LS.jpg,M,68.3,1.0,Early AMD,0
+4337,18,left,54836/54836_18_F2_LE_LS.jpg,F,84.2,10.0,Early Late AMD,3
+2003,22,right,54182/54182_22_F2_RE_LS.jpg,F,78.6,7.0,Advanced Intermediate AMD,2
+1281,10,right,61305/61305_10_F2_RE_RS.jpg,M,72.5,11.0,Active Neovascular AMD,4
+G287,4,right,60910/60910_04_F2_RE_LS.jpg,M,64.6,1.0,Early AMD,0
+1186,6,right,60575/60575_06_F2_RE_RS.jpg,F,75.4,6.0,Moderate AMD,1
+2728,14,left,53365/53365_14_F2_LE_RS.jpg,F,71.3,2.0,Early AMD,0
+G105,4,left,58546/58546_04_F2_LE_LS.jpg,F,61.3,6.0,Moderate AMD,1
+2674,14,left,59743/59743_14_F2_LE_RS.jpg,M,64.3,11.0,Active Neovascular AMD,4
+3138,22,left,61483/61483_22_F2_LE_LS.jpg,F,83.6,10.0,Early Late AMD,3
+2765,8,left,52360/52360_08_F2_LE_RS.jpg,F,73.9,3.0,Early AMD,0
+G604,18,left,52739/52739_18_F2_LE_LS.jpg,F,79.0,9.0,Advanced Intermediate AMD,2
+G279,22,left,61203/61203_22_F2_LE_LS.jpg,F,83.7,8.0,Advanced Intermediate AMD,2
+3826,12,right,52385/52385_12_F2_RE_LS.jpg,M,72.2,4.0,Moderate AMD,1
+1663,4,left,58547/58547_04_F2_LE_RS.jpg,M,62.6,9.0,Advanced Intermediate AMD,2
+1501,1,left,58750/58750_01_F2_LE_RS.jpg,M,73.9,4.0,Moderate AMD,1
+1471,4,right,59898/59898_04_F2_RE_RS.jpg,M,76.9,4.0,Moderate AMD,1
+2259,20,left,54556/54556_20_F2_LE_RS.jpg,M,82.3,11.0,Active Neovascular AMD,4
+G054,16,left,60909/60909_16_F2_LE_RS.jpg,M,73.1,5.0,Moderate AMD,1
+2952,8,left,56685/56685_08_F2_LE_RS.jpg,M,70.4,3.0,Early AMD,0
+3142,8,right,53607/53607_08_F2_RE_RS.jpg,F,74.7,11.0,Active Neovascular AMD,4
+3036,14,left,51796/51796_14_F2_LE_LS.jpg,M,82.0,10.0,Early Late AMD,3
+2791,12,right,60582/60582_12_F2_RE_LS.jpg,M,66.10000000000001,6.0,Moderate AMD,1
+4672,10,left,59589/59589_10_F2_LE_RS.jpg,M,72.7,7.0,Advanced Intermediate AMD,2
+G473,6,left,60715/60715_06_F2_LE_LS.jpg,M,66.9,5.0,Moderate AMD,1
+4933,6,left,60610/60610_06_F2_LE_RS.jpg,M,70.0,5.0,Moderate AMD,1
+4840,18,right,55593/55593_18_F2_RE_LS.jpg,F,72.7,1.0,Early AMD,0
+3133,20,right,59192/59192_20_F2_RE_LS.jpg,F,78.2,6.0,Moderate AMD,1
+G467,8,right,53681/53681_08_F2_RE_RS.jpg,F,76.8,6.0,Moderate AMD,1
+G316,14,right,51107/51107_14_F2_RE_LS.jpg,M,70.5,6.0,Moderate AMD,1
+2396,2,left,55738/55738_02_F2_LE_RS.jpg,F,65.19999999999999,4.0,Moderate AMD,1
+5032,14,right,53618/53618_14_F2_RE_RS.jpg,F,76.4,11.0,Active Neovascular AMD,4
+2505,12,right,58688/58688_12_F2_RE_LS.jpg,F,66.6,1.0,Early AMD,0
+1471,8,right,59898/59898_08_F2_RE_RS.jpg,M,78.9,6.0,Moderate AMD,1
+3889,6,left,61374/61374_06_F2_LE_LS.jpg,F,66.7,5.0,Moderate AMD,1
+4280,14,right,55608/55608_14_F2_RE_RS.jpg,F,73.7,8.0,Advanced Intermediate AMD,2
+2933,8,left,55562/55562_08_F2_LE_RS.jpg,F,82.30000000000001,11.0,Active Neovascular AMD,4
+G089,6,left,53238/53238_06_F2_LE_LS.jpg,F,65.6,4.0,Moderate AMD,1
+1500,14,right,60938/60938_14_F2_RE_LS.jpg,M,72.9,7.0,Advanced Intermediate AMD,2
+G081,16,right,G081/G081_16_RE_F2_LS.jpg,M,76.4,11.0,Active Neovascular AMD,4
+G307,4,right,59757/59757_04_F2_RE_RS.jpg,F,72.8,4.0,Moderate AMD,1
+4224,12,right,53809/53809_12_F2_RE_RS.jpg,F,79.0,7.0,Advanced Intermediate AMD,2
+2070,14,right,52606/52606_14_F2_RE_LS.jpg,M,76.3,10.0,Early Late AMD,3
+3631,4,right,52573/52573_04_F2_RE_RS.jpg,M,76.9,11.0,Active Neovascular AMD,4
+3826,10,right,52385/52385_10_F2_RE_LS.jpg,M,71.2,4.0,Moderate AMD,1
+1478,10,right,60799/60799_10_F2_RE_LS.jpg,M,69.2,11.0,Active Neovascular AMD,4
+1587,22,left,59648/59648_22_F2_LE_RS.jpg,F,74.1,6.0,Moderate AMD,1
+2635,4,left,52226/52226_04_F2_LE_RS.jpg,M,71.5,2.0,Early AMD,0
+5504,20,left,57247/57247_20_F2_LE_RS.jpg,F,70.7,8.0,Advanced Intermediate AMD,2
+3640,14,left,60642/60642_14_F2_LE_LS.jpg,M,80.3,6.0,Moderate AMD,1
+1500,4,right,1500/1500_04_RE_F2_LS.jpg,M,67.9,7.0,Advanced Intermediate AMD,2
+2070,16,right,52606/52606_16_F2_RE_LS.jpg,M,77.3,10.0,Early Late AMD,3
+1949,16,left,61584/61584_16_F2_LE_LS.jpg,M,80.5,5.0,Moderate AMD,1
+5299,9,right,56198/56198_09_F2_RE_RS.jpg,M,73.5,10.0,Early Late AMD,3
+3260,6,right,58322/58322_06_F2_RE_RS.jpg,M,78.0,5.0,Moderate AMD,1
+2617,20,left,58157/58157_20_F2_LE_LS.jpg,M,80.69999999999999,4.0,Moderate AMD,1
+3407,8,left,56816/56816_08_F2_LE_LS.jpg,M,72.4,11.0,Active Neovascular AMD,4
+4219,16,right,51767/51767_16_F2_RE_RS.jpg,M,86.0,8.0,Advanced Intermediate AMD,2
+2575,20,left,56362/56362_20_F2_LE_RS.jpg,F,73.0,11.0,Active Neovascular AMD,4
+5179,24,right,5179/5179_24_RE_F2_RS.jpg,F,84.5,11.0,Active Neovascular AMD,4
+3174,12,left,3174/3174_12_LE_F2_LS.jpg,M,64.4,10.0,Early Late AMD,3
+4822,14,left,51771/51771_14_F2_LE_LS.jpg,M,69.5,12.0,End-Stage AMD,5
+G428,12,right,61190/61190_12_F2_RE_LS.jpg,F,74.89999999999999,2.0,Early AMD,0
+5304,14,left,56497/56497_14_F2_LE_LS.jpg,M,74.8,5.0,Moderate AMD,1
+G443,14,left,59638/59638_14_F2_LE_LS.jpg,F,73.6,6.0,Moderate AMD,1
+4050,12,left,60056/60056_12_F2_LE_RS.jpg,M,78.2,4.0,Moderate AMD,1
+G117,24,left,53143/53143_24_F2_LE_RS.jpg,M,80.0,2.0,Early AMD,0
+4586,20,left,59229/59229_20_F2_LE_RS.jpg,M,79.30000000000001,1.0,Early AMD,0
+3042,14,left,58317/58317_14_F2_LE_RS.jpg,F,69.39999999999999,11.0,Active Neovascular AMD,4
+4454,0,left,4454/4454_00_LE_F2_LS.jpg,M,62.1,1.0,Early AMD,0
+5290,10,right,51588/51588_10_F2_RE_RS.jpg,F,68.6,10.0,Early Late AMD,3
+5219,10,left,53761/53761_10_F2_LE_LS.jpg,M,74.5,4.0,Moderate AMD,1
+G604,14,left,52739/52739_14_F2_LE_LS.jpg,F,77.0,9.0,Advanced Intermediate AMD,2
+G104,8,left,51288/51288_08_F2_LE_LS.jpg,M,71.0,1.0,Early AMD,0
+3357,16,left,60888/60888_16_F2_LE_LS.jpg,F,71.2,3.0,Early AMD,0
+1186,22,left,1186/1186_22_LE_F2_RS.jpg,F,83.5,12.0,End-Stage AMD,5
+G324,0,left,G324/G324_00_LE_F2_RS.jpg,F,63.3,1.0,Early AMD,0
+4300,22,left,61612/61612_22_F2_LE_LS.jpg,F,75.2,4.0,Moderate AMD,1
+2246,14,left,60966/60966_14_F2_LE_RS.jpg,F,75.5,3.0,Early AMD,0
+3982,0,right,3982/3982_00_RE_F2_RS.jpg,F,71.2,11.0,Active Neovascular AMD,4
+3852,16,left,55681/55681_16_F2_LE_RS.jpg,F,69.2,1.0,Early AMD,0
+1594,10,left,54357/54357_10_F2_LE_RS.jpg,F,71.8,2.0,Early AMD,0
+3368,7,left,59618/59618_07_F2_LE_LS.jpg,F,79.5,11.0,Active Neovascular AMD,4
+4594,4,right,61151/61151_04_F2_RE_RS.jpg,M,79.2,2.0,Early AMD,0
+1430,10,left,59195/59195_10_F2_LE_RS.jpg,M,70.5,1.0,Early AMD,0
+1929,16,right,58718/58718_16_F2_RE_LS.jpg,M,75.0,2.0,Early AMD,0
+1106,6,left,61552/61552_06_F2_LE_LS.jpg,F,69.4,6.0,Moderate AMD,1
+1430,14,right,59195/59195_14_F2_RE_RS.jpg,M,72.5,4.0,Moderate AMD,1
+2303,6,right,53601/53601_06_F2_RE_LS.jpg,M,73.9,11.0,Active Neovascular AMD,4
+4190,18,left,56203/56203_18_F2_LE_LS.jpg,F,78.7,1.0,Early AMD,0
+1371,8,right,1371/1371_08_RE_F2_LS.jpg,F,75.39999999999999,11.0,Active Neovascular AMD,4
+3368,16,left,59618/59618_16_F2_LE_RS.jpg,F,83.9,10.0,Early Late AMD,3
+4986,4,right,58745/58745_04_F2_RE_LS.jpg,M,75.19999999999999,8.0,Advanced Intermediate AMD,2
+1758,8,right,52760/52760_08_F2_RE_LS.jpg,F,76.3,3.0,Early AMD,0
+1588,16,right,1588/1588_16_RE_F2_LS.jpg,F,79.7,11.0,Active Neovascular AMD,4
+4520,6,right,58753/58753_06_F2_RE_RS.jpg,F,72.5,6.0,Moderate AMD,1
+3032,6,left,51760/51760_06_F2_LE_RS.jpg,M,82.2,11.0,Active Neovascular AMD,4
+G420,22,right,61290/61290_22_F2_RE_RS.jpg,M,77.60000000000001,1.0,Early AMD,0
+3640,16,left,60642/60642_16_F2_LE_RS.jpg,M,81.1,7.0,Advanced Intermediate AMD,2
+G249,2,right,61526/61526_02_F2_RE_RS.jpg,M,65.7,11.0,Active Neovascular AMD,4
+1734,14,right,52397/52397_14_F2_RE_LS.jpg,F,77.0,5.0,Moderate AMD,1
+G588,4,left,51718/51718_04_F2_LE_LS.jpg,M,65.7,4.0,Moderate AMD,1
+2047,12,left,55024/55024_12_F2_LE_RS.jpg,M,68.10000000000001,2.0,Early AMD,0
+3368,6,left,59618/59618_06_F2_LE_RS.jpg,F,79.1,11.0,Active Neovascular AMD,4
+1186,4,left,1186/1186_04_LE_F2_RS.jpg,F,74.4,7.0,Advanced Intermediate AMD,2
+2678,6,left,56679/56679_06_F2_LE_RS.jpg,M,61.2,5.0,Moderate AMD,1
+3430,8,left,601013/601013_08_F2_LE_LS.jpg,M,64.2,5.0,Moderate AMD,1
+2518,6,left,51645/51645_06_F2_LE_RS.jpg,M,61.4,4.0,Moderate AMD,1
+2617,14,right,58157/58157_14_F2_RE_LS.jpg,M,77.6,3.0,Early AMD,0
+4641,11,right,60937/60937_11_F2_RE_RS.jpg,F,71.3,2.0,Early AMD,0
+1462,24,right,1462/1462_24_RE_F2_RS.jpg,M,83.7,11.0,Active Neovascular AMD,4
+3356,10,left,56722/56722_10_F2_LE_LS.jpg,F,69.4,4.0,Moderate AMD,1
+4457,20,right,55047/55047_20_F2_RE_RS.jpg,F,85.1,11.0,Active Neovascular AMD,4
+2307,12,right,51074/51074_12_F2_RE_LS.jpg,F,70.5,1.0,Early AMD,0
+5400,22,left,5400/5400_22_LE_F2_RS.jpg,F,79.1,10.0,Early Late AMD,3
+5179,10,left,56538/56538_10_F2_LE_RS.jpg,F,77.6,9.0,Advanced Intermediate AMD,2
+1321,8,left,55214/55214_08_F2_LE_LS.jpg,F,66.1,1.0,Early AMD,0
+3633,6,left,56473/56473_06_F2_LE_LS.jpg,F,74.6,11.0,Active Neovascular AMD,4
+1717,6,right,59604/59604_06_F2_RE_RS.jpg,F,82.3,11.0,Active Neovascular AMD,4
+1774,6,right,61420/61420_06_F2_RE_RS.jpg,F,59.9,6.0,Moderate AMD,1
+1006,4,right,55353/55353_04_F2_RE_RS.jpg,F,69.30000000000001,1.0,Early AMD,0
+1011,12,right,52594/52594_12_F2_RE_RS.jpg,F,72.5,10.0,Early Late AMD,3
+2276,14,right,61654/61654_14_F2_RE_LS.jpg,M,75.4,8.0,Advanced Intermediate AMD,2
+5478,17,left,61130/61130_17_F2_LE_RS.jpg,F,86.30000000000001,11.0,Active Neovascular AMD,4
+2674,10,left,59743/59743_10_F2_LE_LS.jpg,M,62.1,5.0,Moderate AMD,1
+2663,8,right,52305/52305_08_F2_RE_RS.jpg,M,73.9,1.0,Early AMD,0
+1941,6,left,58776/58776_06_F2_LE_RS.jpg,M,65.6,12.0,End-Stage AMD,5
+4274,12,right,60986/60986_12_F2_RE_LS.jpg,F,83.4,11.0,Active Neovascular AMD,4
+3739,20,right,52709/52709_20_F2_RE_RS.jpg,M,79.1,4.0,Moderate AMD,1
+2426,15,right,61351/61351_15_F2_RE_RS.jpg,M,79.39999999999999,11.0,Active Neovascular AMD,4
+1565,12,right,1565/1565_12_RE_F2_RS.jpg,F,80.4,1.0,Early AMD,0
+3597,16,right,51197/51197_16_F2_RE_LS.jpg,F,78.4,12.0,End-Stage AMD,5
+G117,4,left,53143/53143_04_F2_LE_LS.jpg,M,70.0,2.0,Early AMD,0
+G426,8,right,61324/61324_08_F2_RE_LS.jpg,F,71.3,6.0,Moderate AMD,1
+1915,18,right,59650/59650_18_F2_RE_RS.jpg,F,69.7,11.0,Active Neovascular AMD,4
+2183,6,right,59448/59448_06_F2_RE_LS.jpg,M,69.8,1.0,Early AMD,0
+4616,20,left,52710/52710_20_F2_LE_LS.jpg,F,83.3,12.0,End-Stage AMD,5
+1677,6,right,53736/53736_06_F2_RE_LS.jpg,M,80.5,1.0,Early AMD,0
+3174,0,left,3174/3174_00_LE_F2_LS.jpg,M,58.4,9.0,Advanced Intermediate AMD,2
+3840,6,right,53442/53442_06_F2_RE_LS.jpg,F,68.1,5.0,Moderate AMD,1
+3186,12,right,60606/60606_12_F2_RE_LS.jpg,M,72.0,2.0,Early AMD,0
+3258,6,left,60630/60630_06_F2_LE_LS.jpg,M,78.2,6.0,Moderate AMD,1
+3739,6,right,52709/52709_06_F2_RE_RS.jpg,M,72.19999999999999,3.0,Early AMD,0
+1587,8,left,59648/59648_08_F2_LE_RS.jpg,F,67.1,4.0,Moderate AMD,1
+3031,24,right,3031/3031_24_RE_F2_LS.jpg,M,78.6,10.0,Early Late AMD,3
+1873,12,right,1873/1873_12_RE_F2_LS.jpg,M,74.6,11.0,Active Neovascular AMD,4
+2754,8,left,52862/52862_08_F2_LE_RS.jpg,M,71.1,9.0,Advanced Intermediate AMD,2
+G490,4,right,53751/53751_04_F2_RE_RS.jpg,F,78.4,6.0,Moderate AMD,1
+3138,14,left,61483/61483_14_F2_LE_RS.jpg,F,79.6,11.0,Active Neovascular AMD,4
+G014,6,left,53224/53224_06_F2_LE_RS.jpg,F,69.1,4.0,Moderate AMD,1
+4318,16,left,4318/4318_16_LE_F2_RS.jpg,M,77.4,1.0,Early AMD,0
+2212,4,right,2212/2212_04_RE_F2_RS.jpg,M,70.5,9.0,Advanced Intermediate AMD,2
+5304,8,right,56497/56497_08_F2_RE_RS.jpg,M,71.6,4.0,Moderate AMD,1
+4683,11,left,56826/56826_11_F2_LE_LS.jpg,F,66.7,3.0,Early AMD,0
+1926,6,left,60319/60319_06_F2_LE_LS.jpg,F,77.2,1.0,Early AMD,0
+1021,10,right,57220/57220_10_F2_RE_RS.jpg,F,81.0,3.0,Early AMD,0
+1924,8,left,1924/1924_08_LE_F2_RS.jpg,F,72.2,1.0,Early AMD,0
+3982,18,right,55551/55551_18_F2_RE_LS.jpg,F,80.9,11.0,Active Neovascular AMD,4
+1587,6,left,59648/59648_06_F2_LE_RS.jpg,F,66.1,4.0,Moderate AMD,1
+1924,12,left,1924/1924_12_LE_F2_LS.jpg,F,74.2,1.0,Early AMD,0
+1873,7,right,59531/59531_07_F2_RE_LS.jpg,M,72.0,11.0,Active Neovascular AMD,4
+4274,14,right,60986/60986_14_F2_RE_LS.jpg,F,84.4,11.0,Active Neovascular AMD,4
+G499,12,left,G499/G499_12_LE_F2_RS.jpg,M,74.7,1.0,Early AMD,0
+5290,12,right,51588/51588_12_F2_RE_RS.jpg,F,69.6,10.0,Early Late AMD,3
+2682,4,right,51664/51664_04_F2_RE_LS.jpg,M,69.6,8.0,Advanced Intermediate AMD,2
+2563,12,right,59705/59705_12_F2_RE_RS.jpg,F,67.0,1.0,Early AMD,0
+2870,20,left,55507/55507_20_F2_LE_RS.jpg,F,79.5,1.0,Early AMD,0
+3174,4,left,3174/3174_04_LE_F2_LS.jpg,M,60.5,9.0,Advanced Intermediate AMD,2
+4820,4,right,54526/54526_04_F2_RE_LS.jpg,F,70.3,5.0,Moderate AMD,1
+2352,6,right,51036/51036_06_F2_RE_LS.jpg,M,68.3,1.0,Early AMD,0
+5350,10,right,61681/61681_10_F2_RE_RS.jpg,F,69.9,1.0,Early AMD,0
+G279,12,left,61203/61203_12_F2_LE_LS.jpg,F,78.8,7.0,Advanced Intermediate AMD,2
+2055,24,right,2055/2055_24_RE_F2_RS.jpg,F,87.0,10.0,Early Late AMD,3
+2838,8,right,55732/55732_08_F2_RE_RS.jpg,M,77.8,11.0,Active Neovascular AMD,4
+1800,16,left,56154/56154_16_F2_LE_RS.jpg,M,77.3,1.0,Early AMD,0
+3784,14,left,54346/54346_14_F2_LE_RS.jpg,M,76.7,1.0,Early AMD,0
+4586,14,right,59229/59229_14_F2_RE_RS.jpg,M,76.4,1.0,Early AMD,0
+5587,17,left,52172/52172_17_F2_LE_LS.jpg,F,74.6,10.0,Early Late AMD,3
+4172,10,left,56014/56014_10_F2_LE_LS.jpg,M,78.6,1.0,Early AMD,0
+2939,20,right,57048/57048_20_F2_RE_LS.jpg,F,73.0,6.0,Moderate AMD,1
+2002,8,left,61281/61281_08_F2_LE_RS.jpg,F,69.3,1.0,Early AMD,0
+1371,18,right,61583/61583_18_F2_RE_LS.jpg,F,80.2,11.0,Active Neovascular AMD,4
+4663,8,left,601000/601000_08_F2_LE_LS.jpg,F,65.4,3.0,Early AMD,0
+2055,12,right,2055/2055_12_RE_F2_LS.jpg,F,81.1,8.0,Advanced Intermediate AMD,2
+1717,4,right,59604/59604_04_F2_RE_LS.jpg,F,81.10000000000001,11.0,Active Neovascular AMD,4
+3640,4,left,60642/60642_04_F2_LE_LS.jpg,M,75.19999999999999,6.0,Moderate AMD,1
+5532,6,left,56699/56699_06_F2_LE_LS.jpg,F,82.8,11.0,Active Neovascular AMD,4
+3272,12,right,3272/3272_12_RE_F2_LS.jpg,M,74.0,11.0,Active Neovascular AMD,4
+5738,6,left,58632/58632_06_F2_LE_LS.jpg,M,80.5,1.0,Early AMD,0
+G228,14,left,60320/60320_14_F2_LE_LS.jpg,F,79.5,2.0,Early AMD,0
+2212,12,right,2212/2212_12_RE_F2_LS.jpg,M,74.7,10.0,Early Late AMD,3
+G228,8,left,60320/60320_08_F2_LE_LS.jpg,F,76.39999999999999,1.0,Early AMD,0
+3133,8,right,59192/59192_08_F2_RE_LS.jpg,F,72.1,6.0,Moderate AMD,1
+4657,8,right,52403/52403_08_F2_RE_LS.jpg,M,79.6,8.0,Advanced Intermediate AMD,2
+3857,6,right,55741/55741_06_F2_RE_LS.jpg,F,71.10000000000001,4.0,Moderate AMD,1
+2270,4,right,54508/54508_04_F2_RE_RS.jpg,F,75.6,9.0,Advanced Intermediate AMD,2
+2195,4,right,58629/58629_04_F2_RE_RS.jpg,F,66.5,8.0,Advanced Intermediate AMD,2
+3834,6,right,58239/58239_06_F2_RE_RS.jpg,M,66.6,10.0,Early Late AMD,3
+1242,4,left,51701/51701_04_F2_LE_RS.jpg,M,74.2,5.0,Moderate AMD,1
+2956,22,right,59067/59067_22_F2_RE_LS.jpg,F,75.7,1.0,Early AMD,0
+3461,8,left,3461/3461_08_LE_F2_RS.jpg,F,76.6,1.0,Early AMD,0
+2150,6,right,60854/60854_06_F2_RE_RS.jpg,M,76.5,7.0,Advanced Intermediate AMD,2
+4202,20,right,53481/53481_20_F2_RE_RS.jpg,F,72.3,7.0,Advanced Intermediate AMD,2
+4933,12,left,60610/60610_12_F2_LE_RS.jpg,M,73.1,5.0,Moderate AMD,1
+4946,4,right,54058/54058_04_F2_RE_RS.jpg,M,67.1,2.0,Early AMD,0
+2259,14,left,54556/54556_14_F2_LE_RS.jpg,M,79.19999999999999,11.0,Active Neovascular AMD,4
+3826,8,right,52385/52385_08_F2_RE_LS.jpg,M,70.2,4.0,Moderate AMD,1
+5351,8,right,53716/53716_08_F2_RE_LS.jpg,F,69.1,4.0,Moderate AMD,1
+3410,12,left,56424/56424_12_F2_LE_LS.jpg,M,77.8,7.0,Advanced Intermediate AMD,2
+3008,20,left,56610/56610_20_F2_LE_RS.jpg,F,83.89999999999999,6.0,Moderate AMD,1
+5219,13,right,53761/53761_13_F2_RE_LS.jpg,M,76.0,5.0,Moderate AMD,1
+1915,10,right,59650/59650_10_F2_RE_RS.jpg,F,65.9,6.0,Moderate AMD,1
+1843,18,right,54279/54279_18_F2_RE_RS.jpg,F,81.10000000000001,5.0,Moderate AMD,1
+G260,10,right,59722/59722_10_F2_RE_LS.jpg,F,73.8,2.0,Early AMD,0
+4906,14,left,56807/56807_14_F2_LE_LS.jpg,M,75.1,5.0,Moderate AMD,1
+3126,8,right,54264/54264_08_F2_RE_RS.jpg,M,71.6,1.0,Early AMD,0
+5239,6,right,55404/55404_06_F2_RE_RS.jpg,M,81.1,9.0,Advanced Intermediate AMD,2
+G314,18,right,53470/53470_18_F2_RE_LS.jpg,F,84.8,8.0,Advanced Intermediate AMD,2
+2654,16,left,53082/53082_16_F2_LE_RS.jpg,M,71.89999999999999,2.0,Early AMD,0
+4202,8,right,53481/53481_08_F2_RE_LS.jpg,F,66.4,5.0,Moderate AMD,1
+1011,20,right,52594/52594_20_F2_RE_RS.jpg,F,76.5,10.0,Early Late AMD,3
+4274,18,left,60986/60986_18_F2_LE_LS.jpg,F,86.3,11.0,Active Neovascular AMD,4
+4746,18,left,58124/58124_18_F2_LE_LS.jpg,F,79.6,1.0,Early AMD,0
+2986,8,left,52864/52864_08_F2_LE_LS.jpg,F,83.3,12.0,End-Stage AMD,5
+G196,12,right,51590/51590_12_F2_RE_RS.jpg,M,75.7,10.0,Early Late AMD,3
+4166,24,left,55060/55060_24_F2_LE_RS.jpg,M,79.8,3.0,Early AMD,0
+3077,13,left,59724/59724_13_F2_LE_RS.jpg,F,74.5,11.0,Active Neovascular AMD,4
+2097,22,left,56217/56217_22_F2_LE_RS.jpg,M,82.8,3.0,Early AMD,0
+2575,8,left,56362/56362_08_F2_LE_RS.jpg,F,67.0,11.0,Active Neovascular AMD,4
+5441,4,right,54777/54777_04_F2_RE_LS.jpg,F,73.39999999999999,1.0,Early AMD,0
+G604,20,left,52739/52739_20_F2_LE_LS.jpg,F,80.1,9.0,Advanced Intermediate AMD,2
+1106,10,left,61552/61552_10_F2_LE_RS.jpg,F,71.4,2.0,Early AMD,0
+2939,22,right,57048/57048_22_F2_RE_RS.jpg,F,73.6,6.0,Moderate AMD,1
+2193,4,left,2193/2193_04_LE_F2_RS.jpg,F,70.9,6.0,Moderate AMD,1
+5351,22,right,53716/53716_22_F2_RE_LS.jpg,F,75.9,5.0,Moderate AMD,1
+G171,15,left,56069/56069_15_F2_LE_RS.jpg,F,75.89999999999999,2.0,Early AMD,0
+G499,14,left,56752/56752_14_F2_LE_RS.jpg,M,76.10000000000001,1.0,Early AMD,0
+1759,20,left,54697/54697_20_F2_LE_RS.jpg,M,85.6,10.0,Early Late AMD,3
+3272,22,right,3272/3272_22_RE_F2_LS.jpg,M,79.0,11.0,Active Neovascular AMD,4
+1160,4,left,1160/1160_04_LE_F2_RS.jpg,F,66.3,7.0,Advanced Intermediate AMD,2
+3874,10,right,56711/56711_10_F2_RE_LS.jpg,F,76.4,1.0,Early AMD,0
+4708,6,left,55258/55258_06_F2_LE_LS.jpg,M,68.0,2.0,Early AMD,0
+3596,6,left,59281/59281_06_F2_LE_LS.jpg,F,70.2,2.0,Early AMD,0
+4671,18,right,53604/53604_18_F2_RE_LS.jpg,M,83.3,10.0,Early Late AMD,3
+2583,4,right,56112/56112_04_F2_RE_RS.jpg,M,70.2,4.0,Moderate AMD,1
+4286,14,right,53418/53418_14_F2_RE_LS.jpg,M,73.10000000000001,8.0,Advanced Intermediate AMD,2
+3032,10,right,51760/51760_10_F2_RE_RS.jpg,M,84.2,11.0,Active Neovascular AMD,4
+1471,16,left,59898/59898_16_F2_LE_LS.jpg,M,82.9,6.0,Moderate AMD,1
+2834,8,right,56723/56723_08_F2_RE_LS.jpg,F,80.7,4.0,Moderate AMD,1
+3138,0,left,3138/3138_00_LE_F2_LS.jpg,F,72.6,7.0,Advanced Intermediate AMD,2
+4454,4,right,4454/4454_04_RE_F2_RS.jpg,M,64.2,1.0,Early AMD,0
+2518,12,left,51645/51645_12_F2_LE_LS.jpg,M,64.0,4.0,Moderate AMD,1
+G526,4,left,61605/61605_04_F2_LE_LS.jpg,F,71.1,5.0,Moderate AMD,1
+1968,6,left,61094/61094_06_F2_LE_LS.jpg,M,73.5,1.0,Early AMD,0
+1907,16,left,61696/61696_16_F2_LE_LS.jpg,M,78.80000000000001,3.0,Early AMD,0
+5383,6,left,55117/55117_06_F2_LE_RS.jpg,M,72.60000000000001,1.0,Early AMD,0
+G424,6,right,51205/51205_06_F2_RE_RS.jpg,F,70.2,1.0,Early AMD,0
+2466,6,right,58696/58696_06_F2_RE_LS.jpg,F,72.1,11.0,Active Neovascular AMD,4
+1846,8,left,59537/59537_08_F2_LE_LS.jpg,M,69.8,5.0,Moderate AMD,1
+3795,22,right,61545/61545_22_F2_RE_LS.jpg,M,75.1,11.0,Active Neovascular AMD,4
+5061,5,left,58457/58457_05_F2_LE_LS.jpg,F,72.6,8.0,Advanced Intermediate AMD,2
+4274,6,left,60986/60986_06_F2_LE_RS.jpg,F,80.2,11.0,Active Neovascular AMD,4
+5304,6,right,56497/56497_06_F2_RE_LS.jpg,M,70.5,5.0,Moderate AMD,1
+1907,18,right,61696/61696_18_F2_RE_RS.jpg,M,79.80000000000001,4.0,Moderate AMD,1
+2617,24,left,58157/58157_24_F2_LE_RS.jpg,M,82.69999999999999,5.0,Moderate AMD,1
+5299,8,right,56198/56198_08_F2_RE_LS.jpg,M,73.1,10.0,Early Late AMD,3
+1337,12,right,56344/56344_12_F2_RE_LS.jpg,F,80.1,3.0,Early AMD,0
+2150,8,right,60854/60854_08_F2_RE_RS.jpg,M,77.4,8.0,Advanced Intermediate AMD,2
+G089,12,right,53238/53238_12_F2_RE_LS.jpg,F,68.8,2.0,Early AMD,0
+3073,18,right,56088/56088_18_F2_RE_LS.jpg,M,81.5,1.0,Early AMD,0
+3633,4,left,56473/56473_04_F2_LE_LS.jpg,F,73.5,11.0,Active Neovascular AMD,4
+2760,8,left,2760/2760_08_LE_F2_LS.jpg,M,77.30000000000001,1.0,Early AMD,0
+4645,18,left,55668/55668_18_F2_LE_LS.jpg,M,76.2,1.0,Early AMD,0
+G324,20,left,G324/G324_20_LE_F2_RS.jpg,F,73.3,1.0,Early AMD,0
+3087,10,left,56639/56639_10_F2_LE_RS.jpg,F,70.8,2.0,Early AMD,0
+G105,8,right,58546/58546_08_F2_RE_RS.jpg,F,63.3,6.0,Moderate AMD,1
+4782,6,left,53575/53575_06_F2_LE_LS.jpg,M,82.19999999999999,7.0,Advanced Intermediate AMD,2
+4337,20,left,54836/54836_20_F2_LE_LS.jpg,F,85.3,10.0,Early Late AMD,3
+3720,10,left,54631/54631_10_F2_LE_RS.jpg,F,78.39999999999999,11.0,Active Neovascular AMD,4
+1540,6,right,61477/61477_06_F2_RE_RS.jpg,F,80.3,6.0,Moderate AMD,1
+3655,4,left,59422/59422_04_F2_LE_LS.jpg,F,70.89999999999999,1.0,Early AMD,0
+4671,0,left,4671/4671_00_LE_F2_RS.jpg,M,74.3,7.0,Advanced Intermediate AMD,2
+2635,12,right,52226/52226_12_F2_RE_RS.jpg,M,75.5,1.0,Early AMD,0
+2396,12,left,55738/55738_12_F2_LE_RS.jpg,F,70.19999999999999,3.0,Early AMD,0
+1758,20,right,52760/52760_20_F2_RE_LS.jpg,F,82.3,6.0,Moderate AMD,1
+3356,6,right,56722/56722_06_F2_RE_LS.jpg,F,67.4,4.0,Moderate AMD,1
+4749,14,right,57165/57165_14_F2_RE_LS.jpg,F,73.5,11.0,Active Neovascular AMD,4
+4317,0,left,4317/4317_00_LE_F2_RS.jpg,F,72.3,11.0,Active Neovascular AMD,4
+1006,8,left,55353/55353_08_F2_LE_LS.jpg,F,71.30000000000001,1.0,Early AMD,0
+2793,22,right,2793/2793_22_RE_F2_RS.jpg,M,77.19999999999999,11.0,Active Neovascular AMD,4
+2055,8,right,2055/2055_08_RE_F2_RS.jpg,F,79.0,7.0,Advanced Intermediate AMD,2
+2734,14,left,51654/51654_14_F2_LE_LS.jpg,M,73.1,2.0,Early AMD,0
+3368,14,left,59618/59618_14_F2_LE_RS.jpg,F,83.0,11.0,Active Neovascular AMD,4
+2002,4,right,61281/61281_04_F2_RE_LS.jpg,F,67.3,1.0,Early AMD,0
+3133,10,right,59192/59192_10_F2_RE_RS.jpg,F,73.39999999999999,7.0,Advanced Intermediate AMD,2
+2481,12,right,58076/58076_12_F2_RE_RS.jpg,F,76.4,4.0,Moderate AMD,1
+1588,8,right,1588/1588_08_RE_F2_RS.jpg,F,75.7,11.0,Active Neovascular AMD,4
+4726,4,right,61598/61598_04_F2_RE_RS.jpg,F,68.6,6.0,Moderate AMD,1
+G020,8,left,58063/58063_08_F2_LE_LS.jpg,M,66.5,2.0,Early AMD,0
+4317,18,right,4317/4317_18_RE_F2_LS.jpg,F,81.3,11.0,Active Neovascular AMD,4
+3415,4,left,52063/52063_04_F2_LE_LS.jpg,F,64.7,2.0,Early AMD,0
+3133,24,left,59192/59192_24_F2_LE_RS.jpg,F,80.1,8.0,Advanced Intermediate AMD,2
+4708,22,right,55258/55258_22_F2_RE_RS.jpg,M,75.9,2.0,Early AMD,0
+3840,4,right,53442/53442_04_F2_RE_RS.jpg,F,67.1,5.0,Moderate AMD,1
+3274,18,right,52692/52692_18_F2_RE_LS.jpg,M,86.1,1.0,Early AMD,0
+2370,16,left,2370/2370_16_LE_F2_LS.jpg,M,71.6,1.0,Early AMD,0
+3795,14,right,61545/61545_14_F2_RE_RS.jpg,M,71.3,11.0,Active Neovascular AMD,4
+1806,18,left,60535/60535_18_F2_LE_LS.jpg,M,69.9,1.0,Early AMD,0
+1774,10,right,61420/61420_10_F2_RE_RS.jpg,F,61.9,7.0,Advanced Intermediate AMD,2
+5478,4,left,5478/5478_04_LE_F2_RS.jpg,F,78.30000000000001,11.0,Active Neovascular AMD,4
+2303,4,right,53601/53601_04_F2_RE_LS.jpg,M,73.0,11.0,Active Neovascular AMD,4
+3120,10,left,55320/55320_10_F2_LE_LS.jpg,F,75.3,7.0,Advanced Intermediate AMD,2
+4439,4,right,56846/56846_04_F2_RE_LS.jpg,F,70.2,6.0,Moderate AMD,1
+5578,18,left,54196/54196_18_F2_LE_RS.jpg,F,73.8,1.0,Early AMD,0
+4317,4,left,4317/4317_04_LE_F2_LS.jpg,F,74.3,11.0,Active Neovascular AMD,4
+1269,18,right,56591/56591_18_F2_RE_RS.jpg,F,83.6,2.0,Early AMD,0
+4505,6,right,54538/54538_06_F2_RE_LS.jpg,F,69.0,5.0,Moderate AMD,1
+G316,6,left,51107/51107_06_F2_LE_LS.jpg,M,66.5,6.0,Moderate AMD,1
+3834,12,left,58239/58239_12_F2_LE_RS.jpg,M,69.6,10.0,Early Late AMD,3
+G353,20,left,53815/53815_20_F2_LE_LS.jpg,F,77.39999999999999,1.0,Early AMD,0
+1281,18,right,61305/61305_18_F2_RE_RS.jpg,M,76.5,11.0,Active Neovascular AMD,4
+G467,4,left,53681/53681_04_F2_LE_LS.jpg,F,74.8,7.0,Advanced Intermediate AMD,2
+5278,14,left,61051/61051_14_F2_LE_RS.jpg,F,74.39999999999999,11.0,Active Neovascular AMD,4
+5738,10,left,58632/58632_10_F2_LE_RS.jpg,M,82.5,2.0,Early AMD,0
+G171,8,right,56069/56069_08_F2_RE_LS.jpg,F,72.6,1.0,Early AMD,0
+3461,6,left,52379/52379_06_F2_LE_LS.jpg,F,75.6,1.0,Early AMD,0
+2518,14,left,51645/51645_14_F2_LE_LS.jpg,M,65.0,8.0,Advanced Intermediate AMD,2
+5066,12,right,52217/52217_12_F2_RE_LS.jpg,M,70.39999999999999,2.0,Early AMD,0
+5066,20,right,52217/52217_20_F2_RE_RS.jpg,M,74.3,1.0,Early AMD,0
+G081,10,right,56721/56721_10_F2_RE_RS.jpg,M,73.2,11.0,Active Neovascular AMD,4
+2575,22,left,56362/56362_22_F2_LE_LS.jpg,F,74.0,11.0,Active Neovascular AMD,4
+5478,24,left,5478/5478_24_LE_F2_RS.jpg,F,88.4,11.0,Active Neovascular AMD,4
+G478,12,right,51133/51133_12_F2_RE_RS.jpg,F,79.10000000000001,4.0,Moderate AMD,1
+G129,14,right,58280/58280_14_F2_RE_RS.jpg,F,72.60000000000001,1.0,Early AMD,0
+4454,20,right,4454/4454_20_RE_F2_LS.jpg,M,72.1,1.0,Early AMD,0
+1594,22,right,54357/54357_22_F2_RE_RS.jpg,F,77.7,2.0,Early AMD,0
+2276,4,left,2276/2276_04_LE_F2_RS.jpg,M,70.5,7.0,Advanced Intermediate AMD,2
+3845,22,left,53400/53400_22_F2_LE_RS.jpg,M,83.9,6.0,Moderate AMD,1
+3036,8,left,51796/51796_08_F2_LE_RS.jpg,M,79.0,10.0,Early Late AMD,3
+G054,12,left,60909/60909_12_F2_LE_RS.jpg,M,70.89999999999999,4.0,Moderate AMD,1
+3857,10,left,55741/55741_10_F2_LE_LS.jpg,F,73.10000000000001,4.0,Moderate AMD,1
+1812,12,right,54198/54198_12_F2_RE_LS.jpg,F,68.5,1.0,Early AMD,0
+3609,4,right,52938/52938_04_F2_RE_RS.jpg,M,74.39999999999999,7.0,Advanced Intermediate AMD,2
+1891,8,right,1891/1891_08_RE_F2_LS.jpg,F,70.2,1.0,Early AMD,0
+1337,14,right,56344/56344_14_F2_RE_RS.jpg,F,81.2,2.0,Early AMD,0
+1160,12,left,1160/1160_12_LE_F2_RS.jpg,F,70.5,8.0,Advanced Intermediate AMD,2
+1240,20,right,53371/53371_20_F2_RE_RS.jpg,F,71.6,1.0,Early AMD,0
+1843,10,left,54279/54279_10_F2_LE_LS.jpg,F,77.2,4.0,Moderate AMD,1
+2003,8,right,54182/54182_08_F2_RE_LS.jpg,F,71.6,4.0,Moderate AMD,1
+4558,4,left,56006/56006_04_F2_LE_LS.jpg,M,73.10000000000001,11.0,Active Neovascular AMD,4
+4589,18,right,55666/55666_18_F2_RE_RS.jpg,M,76.0,1.0,Early AMD,0
+4749,15,right,57165/57165_15_F2_RE_LS.jpg,F,74.0,11.0,Active Neovascular AMD,4
+3407,18,left,56816/56816_18_F2_LE_RS.jpg,M,77.4,12.0,End-Stage AMD,5
+5196,4,left,56393/56393_04_F2_LE_LS.jpg,F,77.4,11.0,Active Neovascular AMD,4
+3049,4,right,52529/52529_04_F2_RE_LS.jpg,M,78.1,11.0,Active Neovascular AMD,4
+G443,8,left,59638/59638_08_F2_LE_RS.jpg,F,70.6,4.0,Moderate AMD,1
+3717,4,left,59093/59093_04_F2_LE_RS.jpg,M,71.9,1.0,Early AMD,0
+5290,16,right,51588/51588_16_F2_RE_RS.jpg,F,71.6,10.0,Early Late AMD,3
+1321,12,left,55214/55214_12_F2_LE_RS.jpg,F,67.9,5.0,Moderate AMD,1
+3260,4,right,58322/58322_04_F2_RE_LS.jpg,M,76.5,6.0,Moderate AMD,1
+5619,8,left,60517/60517_08_F2_LE_RS.jpg,F,84.10000000000001,4.0,Moderate AMD,1
+4505,12,right,54538/54538_12_F2_RE_LS.jpg,F,71.7,5.0,Moderate AMD,1
+2728,8,left,53365/53365_08_F2_LE_LS.jpg,F,68.3,2.0,Early AMD,0
+1800,20,left,56154/56154_20_F2_LE_RS.jpg,M,79.39999999999999,1.0,Early AMD,0
+4172,22,right,56014/56014_22_F2_RE_LS.jpg,M,84.39999999999999,1.0,Early AMD,0
+4307,8,right,4307/4307_08_RE_F2_LS.jpg,F,67.8,1.0,Early AMD,0
+1478,7,right,60799/60799_07_F2_RE_RS.jpg,M,67.5,11.0,Active Neovascular AMD,4
+5587,12,left,52172/52172_12_F2_LE_RS.jpg,F,72.3,10.0,Early Late AMD,3
+4848,11,right,60950/60950_11_F2_RE_LS.jpg,M,72.6,2.0,Early AMD,0
+2212,6,right,52944/52944_06_F2_RE_RS.jpg,M,71.6,10.0,Early Late AMD,3
+3612,6,right,55393/55393_06_F2_RE_LS.jpg,M,69.2,7.0,Advanced Intermediate AMD,2
+2607,14,left,51135/51135_14_F2_LE_LS.jpg,M,70.89999999999999,2.0,Early AMD,0
+3031,8,right,3031/3031_08_RE_F2_RS.jpg,M,70.6,11.0,Active Neovascular AMD,4
+G603,6,right,55587/55587_06_F2_RE_RS.jpg,M,67.0,4.0,Moderate AMD,1
+G531,14,left,51223/51223_14_F2_LE_RS.jpg,M,72.69999999999999,4.0,Moderate AMD,1
+4616,4,left,52710/52710_04_F2_LE_RS.jpg,F,75.19999999999999,11.0,Active Neovascular AMD,4
+1761,14,left,55118/55118_14_F2_LE_RS.jpg,F,84.1,1.0,Early AMD,0
+G526,10,left,61605/61605_10_F2_LE_LS.jpg,F,74.1,6.0,Moderate AMD,1
+5290,6,right,51588/51588_06_F2_RE_RS.jpg,F,66.6,10.0,Early Late AMD,3
+5103,24,right,59438/59438_24_F2_RE_LS.jpg,M,82.2,9.0,Advanced Intermediate AMD,2
+5370,8,right,58467/58467_08_F2_RE_RS.jpg,F,69.3,7.0,Advanced Intermediate AMD,2
+1439,10,right,53285/53285_10_F2_RE_LS.jpg,M,71.0,5.0,Moderate AMD,1
+2246,4,right,60966/60966_04_F2_RE_RS.jpg,F,70.5,1.0,Early AMD,0
+1478,12,right,1478/1478_12_RE_F2_RS.jpg,M,70.1,11.0,Active Neovascular AMD,4
+3889,8,left,61374/61374_08_F2_LE_LS.jpg,F,67.7,4.0,Moderate AMD,1
+5312,18,left,59178/59178_18_F2_LE_LS.jpg,F,70.8,1.0,Early AMD,0
+3470,15,left,58364/58364_15_F2_LE_RS.jpg,M,81.10000000000001,11.0,Active Neovascular AMD,4
+G196,4,right,51590/51590_04_F2_RE_LS.jpg,M,71.7,7.0,Advanced Intermediate AMD,2
+3655,22,left,59422/59422_22_F2_LE_RS.jpg,F,79.89999999999999,5.0,Moderate AMD,1
+3317,12,right,58778/58778_12_F2_RE_LS.jpg,M,66.5,2.0,Early AMD,0
+1565,4,right,1565/1565_04_RE_F2_LS.jpg,F,76.4,1.0,Early AMD,0
+4918,4,left,52674/52674_04_F2_LE_LS.jpg,M,68.2,7.0,Advanced Intermediate AMD,2
+3681,20,left,53835/53835_20_F2_LE_LS.jpg,M,83.8,11.0,Active Neovascular AMD,4
+2518,4,left,51645/51645_04_F2_LE_LS.jpg,M,59.9,5.0,Moderate AMD,1
+5278,8,left,61051/61051_08_F2_LE_RS.jpg,F,71.69999999999999,11.0,Active Neovascular AMD,4
+3609,6,right,52938/52938_06_F2_RE_RS.jpg,M,75.39999999999999,6.0,Moderate AMD,1
+G473,18,left,60715/60715_18_F2_LE_RS.jpg,M,73.1,8.0,Advanced Intermediate AMD,2
+4195,22,right,58222/58222_22_F2_RE_LS.jpg,F,82.5,2.0,Early AMD,0
+1758,10,left,52760/52760_10_F2_LE_LS.jpg,F,77.3,3.0,Early AMD,0
+2765,16,right,52360/52360_16_F2_RE_LS.jpg,F,77.9,7.0,Advanced Intermediate AMD,2
+5032,10,right,53618/53618_10_F2_RE_RS.jpg,F,74.5,7.0,Advanced Intermediate AMD,2
+1846,4,left,59537/59537_04_F2_LE_RS.jpg,M,67.7,5.0,Moderate AMD,1
+G295,4,right,53588/53588_04_F2_RE_LS.jpg,M,79.8,7.0,Advanced Intermediate AMD,2
+2575,16,right,56362/56362_16_F2_RE_RS.jpg,F,71.0,11.0,Active Neovascular AMD,4
+3368,18,left,59618/59618_18_F2_LE_LS.jpg,F,85.1,11.0,Active Neovascular AMD,4
+2791,10,left,60582/60582_10_F2_LE_RS.jpg,M,65.10000000000001,6.0,Moderate AMD,1
+3612,8,left,55393/55393_08_F2_LE_RS.jpg,M,70.10000000000001,7.0,Advanced Intermediate AMD,2
+3794,6,right,57182/57182_06_F2_RE_RS.jpg,F,65.8,11.0,Active Neovascular AMD,4
+3812,6,right,55519/55519_06_F2_RE_RS.jpg,F,67.1,2.0,Early AMD,0
+4914,20,left,58609/58609_20_F2_LE_RS.jpg,M,86.8,11.0,Active Neovascular AMD,4
+4314,10,left,56830/56830_10_F2_LE_RS.jpg,F,74.6,1.0,Early AMD,0
+3142,2,right,53607/53607_02_F2_RE_RS.jpg,F,71.8,11.0,Active Neovascular AMD,4
+4236,12,right,51800/51800_12_F2_RE_RS.jpg,F,75.0,1.0,Early AMD,0
+4848,6,right,60950/60950_06_F2_RE_LS.jpg,M,70.0,2.0,Early AMD,0
+G470,12,right,58552/58552_12_F2_RE_LS.jpg,M,61.8,11.0,Active Neovascular AMD,4
+3889,16,left,61374/61374_16_F2_LE_LS.jpg,F,71.8,5.0,Moderate AMD,1
+2212,8,right,2212/2212_08_RE_F2_RS.jpg,M,72.5,10.0,Early Late AMD,3
+1269,10,left,56591/56591_10_F2_LE_LS.jpg,F,79.3,2.0,Early AMD,0
+3845,18,left,53400/53400_18_F2_LE_LS.jpg,M,81.80000000000001,6.0,Moderate AMD,1
+5228,6,left,56800/56800_06_F2_LE_LS.jpg,M,79.9,3.0,Early AMD,0
+4820,6,right,54526/54526_06_F2_RE_RS.jpg,F,70.8,5.0,Moderate AMD,1
+1774,24,right,61420/61420_24_F2_RE_LS.jpg,F,68.9,8.0,Advanced Intermediate AMD,2
+3407,12,left,56816/56816_12_F2_LE_RS.jpg,M,74.30000000000001,11.0,Active Neovascular AMD,4
+3013,8,left,51480/51480_08_F2_LE_LS.jpg,F,69.69999999999999,1.0,Early AMD,0
+3857,4,right,55741/55741_04_F2_RE_RS.jpg,F,70.2,4.0,Moderate AMD,1
+3368,24,left,59618/59618_24_F2_LE_RS.jpg,F,88.0,10.0,Early Late AMD,3
+5619,4,left,60517/60517_04_F2_LE_RS.jpg,F,82.0,4.0,Moderate AMD,1
+G249,6,left,61526/61526_06_F2_LE_LS.jpg,M,67.7,2.0,Early AMD,0
+3120,15,left,55320/55320_15_F2_LE_LS.jpg,F,77.89999999999999,6.0,Moderate AMD,1
+G349,18,right,59858/59858_18_F2_RE_RS.jpg,M,70.2,10.0,Early Late AMD,3
+2474,8,left,52499/52499_08_F2_LE_LS.jpg,F,73.7,6.0,Moderate AMD,1
+3410,6,right,56424/56424_06_F2_RE_RS.jpg,M,74.7,7.0,Advanced Intermediate AMD,2
+3031,0,left,3031/3031_00_LE_F2_RS.jpg,M,66.6,8.0,Advanced Intermediate AMD,2
+4938,6,right,59840/59840_06_F2_RE_LS.jpg,F,76.2,5.0,Moderate AMD,1
+G043,14,right,60886/60886_14_F2_RE_LS.jpg,F,78.0,11.0,Active Neovascular AMD,4
+3133,18,left,59192/59192_18_F2_LE_RS.jpg,F,77.2,8.0,Advanced Intermediate AMD,2
+1663,8,left,58547/58547_08_F2_LE_LS.jpg,M,64.6,8.0,Advanced Intermediate AMD,2
+2100,6,left,51780/51780_06_F2_LE_LS.jpg,M,62.9,6.0,Moderate AMD,1
+3739,12,left,52709/52709_12_F2_LE_LS.jpg,M,75.19999999999999,1.0,Early AMD,0
+2259,18,left,54556/54556_18_F2_LE_RS.jpg,M,81.1,11.0,Active Neovascular AMD,4
+5219,16,right,53761/53761_16_F2_RE_LS.jpg,M,77.7,5.0,Moderate AMD,1
+1759,4,left,54697/54697_04_F2_LE_LS.jpg,M,77.39999999999999,11.0,Active Neovascular AMD,4
+5370,10,left,58467/58467_10_F2_LE_LS.jpg,F,70.3,7.0,Advanced Intermediate AMD,2
+3272,0,right,3272/3272_00_RE_F2_RS.jpg,M,68.0,11.0,Active Neovascular AMD,4
+4300,10,left,61612/61612_10_F2_LE_RS.jpg,F,69.30000000000001,4.0,Moderate AMD,1
+1439,8,right,53285/53285_08_F2_RE_RS.jpg,M,70.0,5.0,Moderate AMD,1
+1371,4,right,1371/1371_04_RE_F2_RS.jpg,F,73.5,11.0,Active Neovascular AMD,4
+2120,18,right,59767/59767_18_F2_RE_RS.jpg,M,78.0,4.0,Moderate AMD,1
+G314,16,left,53470/53470_16_F2_LE_LS.jpg,F,83.8,8.0,Advanced Intermediate AMD,2
+3812,8,right,55519/55519_08_F2_RE_RS.jpg,F,67.9,1.0,Early AMD,0
+3357,10,left,60888/60888_10_F2_LE_LS.jpg,F,68.10000000000001,4.0,Moderate AMD,1
+1290,6,left,60962/60962_06_F2_LE_RS.jpg,F,79.3,7.0,Advanced Intermediate AMD,2
+1225,6,right,56673/56673_06_F2_RE_LS.jpg,M,70.7,9.0,Advanced Intermediate AMD,2
+G426,4,right,61324/61324_04_F2_RE_LS.jpg,F,69.3,6.0,Moderate AMD,1
+3133,4,left,59192/59192_04_F2_LE_LS.jpg,F,70.3,5.0,Moderate AMD,1
+G043,3,left,60886/60886_03_F2_LE_LS.jpg,F,72.5,11.0,Active Neovascular AMD,4
+3669,8,right,58409/58409_08_F2_RE_LS.jpg,F,70.5,2.0,Early AMD,0
+4726,6,left,61598/61598_06_F2_LE_LS.jpg,F,69.6,7.0,Advanced Intermediate AMD,2
+2952,10,left,56685/56685_10_F2_LE_RS.jpg,M,71.4,3.0,Early AMD,0
+1624,10,right,56356/56356_10_F2_RE_RS.jpg,M,70.7,11.0,Active Neovascular AMD,4
+2408,22,left,52834/52834_22_F2_LE_LS.jpg,M,83.5,1.0,Early AMD,0
+G129,8,right,58280/58280_08_F2_RE_RS.jpg,F,69.4,2.0,Early AMD,0
+2044,22,left,54098/54098_22_F2_LE_RS.jpg,F,80.0,9.0,Advanced Intermediate AMD,2
+4986,10,right,58745/58745_10_F2_RE_LS.jpg,M,78.19999999999999,6.0,Moderate AMD,1
+4914,6,left,58609/58609_06_F2_LE_LS.jpg,M,79.7,6.0,Moderate AMD,1
+G209,12,left,G209/G209_12_LE_F2_RS.jpg,M,72.69999999999999,1.0,Early AMD,0
+1345,20,left,58113/58113_20_F2_LE_LS.jpg,M,78.4,1.0,Early AMD,0
+G420,8,left,G420/G420_08_LE_F2_RS.jpg,M,70.4,1.0,Early AMD,0
+5321,4,right,56809/56809_04_F2_RE_LS.jpg,F,69.0,1.0,Early AMD,0
+2868,4,left,54785/54785_04_F2_LE_LS.jpg,M,71.8,1.0,Early AMD,0
+2834,18,right,56723/56723_18_F2_RE_LS.jpg,F,85.7,4.0,Moderate AMD,1
+5320,10,left,53857/53857_10_F2_LE_RS.jpg,M,79.3,12.0,End-Stage AMD,5
+G603,12,left,55587/55587_12_F2_LE_RS.jpg,M,69.89999999999999,6.0,Moderate AMD,1
+2801,0,right,2801/2801_00_RE_F2_RS.jpg,F,71.5,1.0,Early AMD,0
+G426,24,left,61324/61324_24_F2_LE_RS.jpg,F,78.9,8.0,Advanced Intermediate AMD,2
+5289,6,left,58700/58700_06_F2_LE_RS.jpg,F,79.5,4.0,Moderate AMD,1
+3494,6,right,61012/61012_06_F2_RE_LS.jpg,M,66.5,5.0,Moderate AMD,1
+1926,3,right,60319/60319_03_F2_RE_LS.jpg,F,75.4,1.0,Early AMD,0
+3010,4,left,3010/3010_04_LE_F2_LS.jpg,F,75.30000000000001,7.0,Advanced Intermediate AMD,2
+2055,10,left,53030/53030_10_F2_LE_RS.jpg,F,80.0,8.0,Advanced Intermediate AMD,2
+5304,4,right,56497/56497_04_F2_RE_LS.jpg,M,69.6,5.0,Moderate AMD,1
+1915,0,right,1915/1915_00_RE_F2_RS.jpg,F,60.9,5.0,Moderate AMD,1
+4594,22,right,61151/61151_22_F2_RE_LS.jpg,M,88.3,5.0,Moderate AMD,1
+4672,8,left,59589/59589_08_F2_LE_RS.jpg,M,71.6,7.0,Advanced Intermediate AMD,2
+3174,14,left,59883/59883_14_F2_LE_LS.jpg,M,65.5,10.0,Early Late AMD,3
+5219,18,right,53761/53761_18_F2_RE_LS.jpg,M,78.5,5.0,Moderate AMD,1
+G603,14,right,55587/55587_14_F2_RE_RS.jpg,M,70.8,5.0,Moderate AMD,1
+G353,8,right,53815/53815_08_F2_RE_LS.jpg,F,71.5,2.0,Early AMD,0
+3857,18,left,55741/55741_18_F2_LE_RS.jpg,F,77.10000000000001,4.0,Moderate AMD,1
+3138,18,left,61483/61483_18_F2_LE_LS.jpg,F,81.69999999999999,12.0,End-Stage AMD,5
+3120,8,right,55320/55320_08_F2_RE_RS.jpg,F,74.3,7.0,Advanced Intermediate AMD,2
+2712,8,left,2712/2712_08_LE_F2_LS.jpg,F,73.2,1.0,Early AMD,0
+3812,20,right,55519/55519_20_F2_RE_RS.jpg,F,75.0,8.0,Advanced Intermediate AMD,2
+2162,16,left,2162/2162_16_LE_F2_LS.jpg,F,78.39999999999999,12.0,End-Stage AMD,5
+G412,20,left,G412/G412_20_LE_F2_RS.jpg,F,80.4,1.0,Early AMD,0
+G603,10,right,55587/55587_10_F2_RE_LS.jpg,M,68.89999999999999,5.0,Moderate AMD,1
+3430,14,left,601013/601013_14_F2_LE_RS.jpg,M,67.3,2.0,Early AMD,0
+G603,16,left,55587/55587_16_F2_LE_LS.jpg,M,71.89999999999999,3.0,Early AMD,0
+5156,4,right,58672/58672_04_F2_RE_RS.jpg,F,61.5,5.0,Moderate AMD,1
+3795,4,right,61545/61545_04_F2_RE_LS.jpg,M,66.3,11.0,Active Neovascular AMD,4
+5327,20,left,60306/60306_20_F2_LE_LS.jpg,M,82.10000000000001,8.0,Advanced Intermediate AMD,2
+G117,8,left,53143/53143_08_F2_LE_RS.jpg,M,72.0,2.0,Early AMD,0
+5327,10,right,60306/60306_10_F2_RE_LS.jpg,M,77.2,7.0,Advanced Intermediate AMD,2
+1479,4,left,51725/51725_04_F2_LE_RS.jpg,M,63.9,7.0,Advanced Intermediate AMD,2
+G081,14,right,56721/56721_14_F2_RE_RS.jpg,M,75.4,11.0,Active Neovascular AMD,4
+3430,10,right,601013/601013_10_F2_RE_LS.jpg,M,65.2,2.0,Early AMD,0
+1953,8,right,58469/58469_08_F2_RE_LS.jpg,M,65.6,4.0,Moderate AMD,1
+1242,6,left,51701/51701_06_F2_LE_RS.jpg,M,75.2,5.0,Moderate AMD,1
+1873,8,right,1873/1873_08_RE_F2_RS.jpg,M,72.5,11.0,Active Neovascular AMD,4
+3036,6,left,51796/51796_06_F2_LE_LS.jpg,M,77.89999999999999,10.0,Early Late AMD,3
+G426,22,left,61324/61324_22_F2_LE_RS.jpg,F,78.0,8.0,Advanced Intermediate AMD,2
+4053,14,right,56526/56526_14_F2_RE_RS.jpg,F,79.4,9.0,Advanced Intermediate AMD,2
+3341,6,right,601006/601006_06_F2_RE_RS.jpg,M,62.1,12.0,End-Stage AMD,5
+5196,8,left,56393/56393_08_F2_LE_LS.jpg,F,79.5,11.0,Active Neovascular AMD,4
+1735,10,left,53338/53338_10_F2_LE_RS.jpg,F,68.1,1.0,Early AMD,0
+1653,22,left,52633/52633_22_F2_LE_RS.jpg,M,77.9,3.0,Early AMD,0
+4848,20,right,60950/60950_20_F2_RE_LS.jpg,M,77.1,4.0,Moderate AMD,1
+1594,18,left,54357/54357_18_F2_LE_RS.jpg,F,75.7,2.0,Early AMD,0
+4172,4,right,4172/4172_04_RE_F2_LS.jpg,M,75.6,1.0,Early AMD,0
+3317,16,right,58778/58778_16_F2_RE_RS.jpg,M,68.2,4.0,Moderate AMD,1
+3681,4,left,53835/53835_04_F2_LE_RS.jpg,M,75.8,11.0,Active Neovascular AMD,4
+4708,8,left,55258/55258_08_F2_LE_RS.jpg,M,68.9,2.0,Early AMD,0
+1942,8,right,55703/55703_08_F2_RE_LS.jpg,F,71.0,5.0,Moderate AMD,1
+G424,16,right,51205/51205_16_F2_RE_LS.jpg,F,75.2,3.0,Early AMD,0
+2034,12,right,54749/54749_12_F2_RE_RS.jpg,F,83.5,10.0,Early Late AMD,3
+G200,20,right,56495/56495_20_F2_RE_LS.jpg,F,68.8,8.0,Advanced Intermediate AMD,2
+1934,10,right,54236/54236_10_F2_RE_LS.jpg,F,72.1,5.0,Moderate AMD,1
+5372,4,right,60376/60376_04_F2_RE_RS.jpg,M,72.9,1.0,Early AMD,0
+5211,22,left,53469/53469_22_F2_LE_RS.jpg,F,82.2,7.0,Advanced Intermediate AMD,2
+3031,16,left,3031/3031_16_LE_F2_LS.jpg,M,74.39999999999999,11.0,Active Neovascular AMD,4
+5578,24,right,5578/5578_24_RE_F2_LS.jpg,F,76.8,1.0,Early AMD,0
+1162,6,left,58572/58572_06_F2_LE_RS.jpg,F,82.0,11.0,Active Neovascular AMD,4
+G161,6,right,53805/53805_06_F2_RE_RS.jpg,M,81.7,11.0,Active Neovascular AMD,4
+5196,12,left,56393/56393_12_F2_LE_LS.jpg,F,81.60000000000001,11.0,Active Neovascular AMD,4
+4122,6,left,60244/60244_06_F2_LE_RS.jpg,M,72.6,4.0,Moderate AMD,1
+2793,18,right,2793/2793_18_RE_F2_LS.jpg,M,75.19999999999999,11.0,Active Neovascular AMD,4
+G473,12,left,60715/60715_12_F2_LE_LS.jpg,M,69.9,8.0,Advanced Intermediate AMD,2
+2055,20,right,2055/2055_20_RE_F2_RS.jpg,F,85.0,10.0,Early Late AMD,3
+1225,8,right,56673/56673_08_F2_RE_RS.jpg,M,71.7,5.0,Moderate AMD,1
+5312,22,right,59178/59178_22_F2_RE_LS.jpg,F,72.7,2.0,Early AMD,0
+1873,18,right,59531/59531_18_F2_RE_RS.jpg,M,77.3,11.0,Active Neovascular AMD,4
+2190,8,right,54719/54719_08_F2_RE_LS.jpg,M,66.4,1.0,Early AMD,0
+G200,18,right,56495/56495_18_F2_RE_LS.jpg,F,67.8,8.0,Advanced Intermediate AMD,2
+1929,20,left,58718/58718_20_F2_LE_LS.jpg,M,77.4,2.0,Early AMD,0
+2518,8,left,51645/51645_08_F2_LE_LS.jpg,M,61.9,5.0,Moderate AMD,1
+G081,0,left,G081/G081_00_LE_F2_LS.jpg,M,68.4,7.0,Advanced Intermediate AMD,2
+2674,8,left,59743/59743_08_F2_LE_RS.jpg,M,61.1,6.0,Moderate AMD,1
+2055,22,left,53030/53030_22_F2_LE_RS.jpg,F,86.0,10.0,Early Late AMD,3
+1290,14,right,60962/60962_14_F2_RE_LS.jpg,F,83.3,8.0,Advanced Intermediate AMD,2
+3971,18,right,52020/52020_18_F2_RE_LS.jpg,F,85.5,1.0,Early AMD,0
+G033,22,right,54565/54565_22_F2_RE_RS.jpg,M,80.8,7.0,Advanced Intermediate AMD,2
+5179,4,left,5179/5179_04_LE_F2_LS.jpg,F,74.7,6.0,Moderate AMD,1
+G043,18,left,60886/60886_18_F2_LE_RS.jpg,F,80.1,11.0,Active Neovascular AMD,4
+5320,12,left,53857/53857_12_F2_LE_LS.jpg,M,80.1,12.0,End-Stage AMD,5
+G081,20,right,G081/G081_20_RE_F2_RS.jpg,M,78.4,11.0,Active Neovascular AMD,4
+3840,12,right,53442/53442_12_F2_RE_RS.jpg,F,71.1,4.0,Moderate AMD,1
+3794,8,left,57182/57182_08_F2_LE_LS.jpg,F,66.8,11.0,Active Neovascular AMD,4
+1014,4,left,55692/55692_04_F2_LE_LS.jpg,M,80.2,11.0,Active Neovascular AMD,4
+G081,4,right,G081/G081_04_RE_F2_RS.jpg,M,70.4,11.0,Active Neovascular AMD,4
+3794,24,left,57182/57182_24_F2_LE_LS.jpg,F,75.0,11.0,Active Neovascular AMD,4
+5325,6,left,60705/60705_06_F2_LE_LS.jpg,M,78.3,6.0,Moderate AMD,1
+1717,18,right,59604/59604_18_F2_RE_RS.jpg,F,88.2,11.0,Active Neovascular AMD,4
+1291,2,right,61419/61419_02_F2_RE_RS.jpg,M,81.19999999999999,6.0,Moderate AMD,1
+2819,4,right,56705/56705_04_F2_RE_LS.jpg,F,79.0,11.0,Active Neovascular AMD,4
+3889,20,right,61374/61374_20_F2_RE_RS.jpg,F,73.5,5.0,Moderate AMD,1
+4457,6,right,55047/55047_06_F2_RE_LS.jpg,F,77.89999999999999,11.0,Active Neovascular AMD,4
+2815,14,left,60303/60303_14_F2_LE_RS.jpg,F,74.0,2.0,Early AMD,0
+1006,6,left,55353/55353_06_F2_LE_LS.jpg,F,70.30000000000001,2.0,Early AMD,0
+3260,16,right,58322/58322_16_F2_RE_LS.jpg,M,82.5,6.0,Moderate AMD,1
+G424,4,left,51205/51205_04_F2_LE_LS.jpg,F,69.2,1.0,Early AMD,0
+2616,12,right,54484/54484_12_F2_RE_RS.jpg,M,79.8,11.0,Active Neovascular AMD,4
+5400,10,left,55472/55472_10_F2_LE_LS.jpg,F,72.8,10.0,Early Late AMD,3
+5350,8,left,61681/61681_08_F2_LE_LS.jpg,F,68.9,1.0,Early AMD,0
+1846,16,right,59537/59537_16_F2_RE_RS.jpg,M,73.5,5.0,Moderate AMD,1
+1788,12,left,59645/59645_12_F2_LE_RS.jpg,F,82.19999999999999,11.0,Active Neovascular AMD,4
+G346,17,left,51213/51213_17_F2_LE_RS.jpg,M,83.5,6.0,Moderate AMD,1
+3098,12,right,52085/52085_12_F2_RE_RS.jpg,F,68.3,1.0,Early AMD,0
+1106,18,right,61552/61552_18_F2_RE_RS.jpg,F,75.4,8.0,Advanced Intermediate AMD,2
+1186,18,left,60575/60575_18_F2_LE_LS.jpg,F,81.4,10.0,Early Late AMD,3
+3341,4,left,3341/3341_04_LE_F2_LS.jpg,M,60.9,11.0,Active Neovascular AMD,4
+G086,4,left,53227/53227_04_F2_LE_RS.jpg,F,74.2,5.0,Moderate AMD,1
+5312,14,right,59178/59178_14_F2_RE_RS.jpg,F,68.89999999999999,2.0,Early AMD,0
+3857,20,right,55741/55741_20_F2_RE_LS.jpg,F,78.10000000000001,8.0,Advanced Intermediate AMD,2
+5619,10,left,60517/60517_10_F2_LE_RS.jpg,F,85.0,8.0,Advanced Intermediate AMD,2
+1462,20,right,1462/1462_20_RE_F2_RS.jpg,M,81.8,11.0,Active Neovascular AMD,4
+3410,14,right,56424/56424_14_F2_RE_RS.jpg,M,78.60000000000001,9.0,Advanced Intermediate AMD,2
+1277,13,left,60723/60723_13_F2_LE_RS.jpg,F,73.80000000000001,1.0,Early AMD,0
+4594,20,right,61151/61151_20_F2_RE_RS.jpg,M,87.3,5.0,Moderate AMD,1
+5619,6,left,60517/60517_06_F2_LE_LS.jpg,F,83.10000000000001,4.0,Moderate AMD,1
+1021,4,right,57220/57220_04_F2_RE_LS.jpg,F,77.89999999999999,4.0,Moderate AMD,1
+3420,6,right,56488/56488_06_F2_RE_LS.jpg,F,77.0,11.0,Active Neovascular AMD,4
+1187,4,right,58561/58561_04_F2_RE_RS.jpg,M,78.9,11.0,Active Neovascular AMD,4
+G424,22,right,51205/51205_22_F2_RE_RS.jpg,F,78.9,5.0,Moderate AMD,1
+3356,16,right,56722/56722_16_F2_RE_RS.jpg,F,72.4,4.0,Moderate AMD,1
+5351,4,left,53716/53716_04_F2_LE_LS.jpg,F,67.1,4.0,Moderate AMD,1
+3013,6,left,51480/51480_06_F2_LE_LS.jpg,F,69.1,1.0,Early AMD,0
+4457,18,right,55047/55047_18_F2_RE_RS.jpg,F,84.1,11.0,Active Neovascular AMD,4
+G219,14,right,52639/52639_14_F2_RE_LS.jpg,F,70.0,2.0,Early AMD,0
+G200,12,right,56495/56495_12_F2_RE_RS.jpg,F,65.0,8.0,Advanced Intermediate AMD,2
+4457,12,right,55047/55047_12_F2_RE_LS.jpg,F,80.89999999999999,11.0,Active Neovascular AMD,4
+4314,8,left,56830/56830_08_F2_LE_LS.jpg,F,73.6,1.0,Early AMD,0
+1565,16,left,1565/1565_16_LE_F2_LS.jpg,F,82.4,1.0,Early AMD,0
+1968,4,right,61094/61094_04_F2_RE_LS.jpg,M,72.5,1.0,Early AMD,0
+1717,22,right,59604/59604_22_F2_RE_LS.jpg,F,90.1,11.0,Active Neovascular AMD,4
+5327,14,left,60306/60306_14_F2_LE_LS.jpg,M,79.2,7.0,Advanced Intermediate AMD,2
+G316,4,left,51107/51107_04_F2_LE_LS.jpg,M,65.5,5.0,Moderate AMD,1
+3049,10,right,52529/52529_10_F2_RE_RS.jpg,M,81.1,11.0,Active Neovascular AMD,4
+G526,6,left,61605/61605_06_F2_LE_LS.jpg,F,72.1,5.0,Moderate AMD,1
+5196,10,left,56393/56393_10_F2_LE_LS.jpg,F,80.5,11.0,Active Neovascular AMD,4
+1371,12,right,1371/1371_12_RE_F2_LS.jpg,F,77.3,11.0,Active Neovascular AMD,4
+2575,4,right,56362/56362_04_F2_RE_LS.jpg,F,65.0,11.0,Active Neovascular AMD,4
+3368,12,left,59618/59618_12_F2_LE_LS.jpg,F,82.1,11.0,Active Neovascular AMD,4
+5738,4,left,58632/58632_04_F2_LE_RS.jpg,M,79.5,1.0,Early AMD,0
+4914,12,right,58609/58609_12_F2_RE_RS.jpg,M,82.8,7.0,Advanced Intermediate AMD,2
+2003,6,right,54182/54182_06_F2_RE_LS.jpg,F,70.5,4.0,Moderate AMD,1
+4457,4,right,55047/55047_04_F2_RE_LS.jpg,F,76.89999999999999,11.0,Active Neovascular AMD,4
+4219,14,left,51767/51767_14_F2_LE_LS.jpg,M,84.9,8.0,Advanced Intermediate AMD,2
+4806,9,left,60984/60984_09_F2_LE_RS.jpg,F,64.7,4.0,Moderate AMD,1
+4387,16,right,59915/59915_16_F2_RE_RS.jpg,F,73.1,1.0,Early AMD,0
+1625,6,right,60577/60577_06_F2_RE_RS.jpg,F,69.1,6.0,Moderate AMD,1
+4906,7,left,56807/56807_07_F2_LE_RS.jpg,M,71.6,5.0,Moderate AMD,1
+1812,8,right,54198/54198_08_F2_RE_LS.jpg,F,66.5,1.0,Early AMD,0
+3596,10,left,59281/59281_10_F2_LE_RS.jpg,F,72.3,2.0,Early AMD,0
+1186,9,left,60575/60575_09_F2_LE_LS.jpg,F,76.9,7.0,Advanced Intermediate AMD,2
+1594,15,left,54357/54357_15_F2_LE_LS.jpg,F,74.3,1.0,Early AMD,0
+1500,6,left,1500/1500_06_LE_F2_LS.jpg,M,68.9,10.0,Early Late AMD,3
+1088,20,left,55721/55721_20_F2_LE_RS.jpg,F,78.3,6.0,Moderate AMD,1
+5103,12,right,59438/59438_12_F2_RE_RS.jpg,M,76.8,6.0,Moderate AMD,1
+3407,4,left,56816/56816_04_F2_LE_RS.jpg,M,70.4,11.0,Active Neovascular AMD,4
+1846,12,right,59537/59537_12_F2_RE_RS.jpg,M,71.7,5.0,Moderate AMD,1
+G105,12,left,58546/58546_12_F2_LE_RS.jpg,F,65.2,7.0,Advanced Intermediate AMD,2
+2162,14,left,61422/61422_14_F2_LE_LS.jpg,F,77.39999999999999,11.0,Active Neovascular AMD,4
+3013,12,left,51480/51480_12_F2_LE_RS.jpg,F,71.6,2.0,Early AMD,0
+1774,4,left,61420/61420_04_F2_LE_RS.jpg,F,58.9,6.0,Moderate AMD,1
+4166,4,left,55060/55060_04_F2_LE_RS.jpg,M,69.7,5.0,Moderate AMD,1
+4224,16,left,53809/53809_16_F2_LE_LS.jpg,F,81.0,8.0,Advanced Intermediate AMD,2
+4457,16,right,55047/55047_16_F2_RE_RS.jpg,F,83.1,11.0,Active Neovascular AMD,4
+4122,12,left,60244/60244_12_F2_LE_LS.jpg,M,75.5,2.0,Early AMD,0
+G295,1,right,53588/53588_01_F2_RE_LS.jpg,M,78.3,11.0,Active Neovascular AMD,4
+1290,18,right,60962/60962_18_F2_RE_LS.jpg,F,85.3,8.0,Advanced Intermediate AMD,2
+4309,11,right,60969/60969_11_F2_RE_LS.jpg,M,78.6,4.0,Moderate AMD,1
+4457,24,right,55047/55047_24_F2_RE_RS.jpg,F,87.1,9.0,Advanced Intermediate AMD,2
+2396,8,left,55738/55738_08_F2_LE_LS.jpg,F,68.3,4.0,Moderate AMD,1
+3272,3,right,53623/53623_03_F2_RE_LS.jpg,M,69.5,11.0,Active Neovascular AMD,4
+3846,4,right,54045/54045_04_F2_RE_LS.jpg,F,77.5,11.0,Active Neovascular AMD,4
+2070,10,right,52606/52606_10_F2_RE_RS.jpg,M,74.2,10.0,Early Late AMD,3
+5400,5,left,55472/55472_05_F2_LE_RS.jpg,F,70.5,10.0,Early Late AMD,3
+4053,6,right,56526/56526_06_F2_RE_LS.jpg,F,75.30000000000001,7.0,Advanced Intermediate AMD,2
+3609,12,right,52938/52938_12_F2_RE_RS.jpg,M,78.5,8.0,Advanced Intermediate AMD,2
+G250,4,left,61693/61693_04_F2_LE_RS.jpg,F,64.3,8.0,Advanced Intermediate AMD,2
+2276,20,left,2276/2276_20_LE_F2_RS.jpg,M,78.4,9.0,Advanced Intermediate AMD,2
+1873,16,right,1873/1873_16_RE_F2_RS.jpg,M,76.7,11.0,Active Neovascular AMD,4
+4683,20,right,56826/56826_20_F2_RE_LS.jpg,F,71.3,2.0,Early AMD,0
+3597,14,right,51197/51197_14_F2_RE_RS.jpg,F,77.3,12.0,End-Stage AMD,5
+5160,12,right,59893/59893_12_F2_RE_LS.jpg,F,86.6,6.0,Moderate AMD,1
+1225,18,right,56673/56673_18_F2_RE_RS.jpg,M,76.7,4.0,Moderate AMD,1
+3073,20,right,56088/56088_20_F2_RE_RS.jpg,M,82.60000000000001,1.0,Early AMD,0
+G178,22,right,54858/54858_22_F2_RE_LS.jpg,M,80.4,5.0,Moderate AMD,1
+G321,24,right,57049/57049_24_F2_RE_LS.jpg,M,75.5,4.0,Moderate AMD,1
+3846,18,right,54045/54045_18_F2_RE_LS.jpg,F,84.39999999999999,11.0,Active Neovascular AMD,4
+1907,20,left,61696/61696_20_F2_LE_RS.jpg,M,80.80000000000001,2.0,Early AMD,0
+5103,16,right,59438/59438_16_F2_RE_LS.jpg,M,78.5,8.0,Advanced Intermediate AMD,2
+3739,4,right,52709/52709_04_F2_RE_LS.jpg,M,71.1,3.0,Early AMD,0
+1735,22,left,53338/53338_22_F2_LE_LS.jpg,F,74.1,1.0,Early AMD,0
+2003,20,right,54182/54182_20_F2_RE_LS.jpg,F,77.6,7.0,Advanced Intermediate AMD,2
+2190,16,right,54719/54719_16_F2_RE_RS.jpg,M,70.7,1.0,Early AMD,0
+3633,8,left,56473/56473_08_F2_LE_LS.jpg,F,75.6,11.0,Active Neovascular AMD,4
+5587,24,left,52172/52172_24_F2_LE_RS.jpg,F,78.3,10.0,Early Late AMD,3
+1439,22,right,53285/53285_22_F2_RE_LS.jpg,M,77.0,5.0,Moderate AMD,1
+G058,12,left,61686/61686_12_F2_LE_LS.jpg,F,84.89999999999999,1.0,Early AMD,0
+1949,18,left,61584/61584_18_F2_LE_RS.jpg,M,81.60000000000001,4.0,Moderate AMD,1
+3636,18,left,60332/60332_18_F2_LE_RS.jpg,M,84.6,2.0,Early AMD,0
+1462,22,right,52588/52588_22_F2_RE_RS.jpg,M,82.8,11.0,Active Neovascular AMD,4
+5370,14,right,58467/58467_14_F2_RE_LS.jpg,F,65.3,8.0,Advanced Intermediate AMD,2
+3720,6,right,54631/54631_06_F2_RE_LS.jpg,F,76.3,11.0,Active Neovascular AMD,4
+G043,11,left,60886/60886_11_F2_LE_RS.jpg,F,76.8,11.0,Active Neovascular AMD,4
+5478,6,left,61130/61130_06_F2_LE_LS.jpg,F,79.4,11.0,Active Neovascular AMD,4
+3845,8,right,53400/53400_08_F2_RE_LS.jpg,M,76.9,2.0,Early AMD,0
+4932,6,left,59936/59936_06_F2_LE_RS.jpg,M,68.8,3.0,Early AMD,0
+G604,10,right,52739/52739_10_F2_RE_RS.jpg,F,75.0,3.0,Early AMD,0
+5219,20,right,53761/53761_20_F2_RE_LS.jpg,M,79.5,5.0,Moderate AMD,1
+1070,16,right,51060/51060_16_F2_RE_RS.jpg,F,72.0,1.0,Early AMD,0
+1350,4,left,54471/54471_04_F2_LE_LS.jpg,F,72.0,11.0,Active Neovascular AMD,4
+2307,14,right,51074/51074_14_F2_RE_RS.jpg,F,71.5,1.0,Early AMD,0
+1941,8,left,1941/1941_08_LE_F2_LS.jpg,M,66.6,11.0,Active Neovascular AMD,4
+1478,0,right,1478/1478_00_RE_F2_LS.jpg,M,64.0,11.0,Active Neovascular AMD,4
+3368,4,left,59618/59618_04_F2_LE_RS.jpg,F,78.0,11.0,Active Neovascular AMD,4
+1734,8,right,52397/52397_08_F2_RE_LS.jpg,F,74.1,4.0,Moderate AMD,1
+4280,10,right,55608/55608_10_F2_RE_RS.jpg,F,71.60000000000001,8.0,Advanced Intermediate AMD,2
+1891,10,left,59498/59498_10_F2_LE_LS.jpg,F,71.2,1.0,Early AMD,0
+5383,10,left,55117/55117_10_F2_LE_LS.jpg,M,74.5,1.0,Early AMD,0
+1865,4,left,61717/61717_04_F2_LE_LS.jpg,F,70.0,7.0,Advanced Intermediate AMD,2
+2465,1,right,56821/56821_01_F2_RE_RS.jpg,F,69.0,11.0,Active Neovascular AMD,4
+5393,20,left,61676/61676_20_F2_LE_RS.jpg,F,80.3,8.0,Advanced Intermediate AMD,2
+2307,18,right,51074/51074_18_F2_RE_LS.jpg,F,73.6,1.0,Early AMD,0
+G279,20,left,61203/61203_20_F2_LE_LS.jpg,F,82.7,8.0,Advanced Intermediate AMD,2
+4224,20,right,53809/53809_20_F2_RE_LS.jpg,F,82.9,8.0,Advanced Intermediate AMD,2
+2183,12,left,59448/59448_12_F2_LE_RS.jpg,M,72.8,3.0,Early AMD,0
+G316,8,left,51107/51107_08_F2_LE_LS.jpg,M,67.5,6.0,Moderate AMD,1
+G161,4,right,53805/53805_04_F2_RE_LS.jpg,M,80.60000000000001,11.0,Active Neovascular AMD,4
+1785,6,right,59919/59919_06_F2_RE_RS.jpg,M,77.9,8.0,Advanced Intermediate AMD,2
+1186,2,left,60575/60575_02_F2_LE_RS.jpg,F,73.4,7.0,Advanced Intermediate AMD,2
+1439,14,right,53285/53285_14_F2_RE_RS.jpg,M,73.0,7.0,Advanced Intermediate AMD,2
+4300,12,right,61612/61612_12_F2_RE_LS.jpg,F,70.4,4.0,Moderate AMD,1
+5103,10,left,59438/59438_10_F2_LE_LS.jpg,M,75.3,6.0,Moderate AMD,1
+5393,6,left,61676/61676_06_F2_LE_LS.jpg,F,73.6,6.0,Moderate AMD,1
+3597,22,right,51197/51197_22_F2_RE_RS.jpg,F,82.2,11.0,Active Neovascular AMD,4
+3846,2,left,54045/54045_02_F2_LE_LS.jpg,F,76.3,11.0,Active Neovascular AMD,4
+3834,4,right,58239/58239_04_F2_RE_RS.jpg,M,65.6,10.0,Early Late AMD,3
+1800,6,right,56154/56154_06_F2_RE_RS.jpg,M,72.2,1.0,Early AMD,0
+2663,10,left,52305/52305_10_F2_LE_RS.jpg,M,74.9,1.0,Early AMD,0
+1285,4,right,61562/61562_04_F2_RE_RS.jpg,M,72.0,9.0,Advanced Intermediate AMD,2
+1439,12,right,53285/53285_12_F2_RE_RS.jpg,M,72.1,5.0,Moderate AMD,1
+2760,6,left,61325/61325_06_F2_LE_LS.jpg,M,76.4,1.0,Early AMD,0
+3049,16,right,52529/52529_16_F2_RE_RS.jpg,M,84.1,11.0,Active Neovascular AMD,4
+3852,6,left,55681/55681_06_F2_LE_RS.jpg,F,64.5,2.0,Early AMD,0
+1941,12,left,1941/1941_12_LE_F2_RS.jpg,M,68.3,11.0,Active Neovascular AMD,4
+2754,6,left,52862/52862_06_F2_LE_LS.jpg,M,70.1,9.0,Advanced Intermediate AMD,2
+3633,1,left,56473/56473_01_F2_LE_RS.jpg,F,72.1,11.0,Active Neovascular AMD,4
+3846,12,right,54045/54045_12_F2_RE_RS.jpg,F,81.39999999999999,11.0,Active Neovascular AMD,4
+3795,16,right,61545/61545_16_F2_RE_RS.jpg,M,72.3,11.0,Active Neovascular AMD,4
+1152,12,left,60872/60872_12_F2_LE_RS.jpg,M,78.6,8.0,Advanced Intermediate AMD,2
+3987,4,right,56732/56732_04_F2_RE_LS.jpg,M,71.30000000000001,2.0,Early AMD,0
+4848,10,left,60950/60950_10_F2_LE_RS.jpg,M,72.1,8.0,Advanced Intermediate AMD,2
+1471,18,right,59898/59898_18_F2_RE_RS.jpg,M,83.9,6.0,Moderate AMD,1
+5350,4,left,61681/61681_04_F2_LE_RS.jpg,F,66.9,2.0,Early AMD,0
+2145,4,right,53135/53135_04_F2_RE_RS.jpg,F,73.0,11.0,Active Neovascular AMD,4
+1968,18,right,61094/61094_18_F2_RE_RS.jpg,M,79.4,1.0,Early AMD,0
+5587,4,left,52172/52172_04_F2_LE_RS.jpg,F,68.3,10.0,Early Late AMD,3
+1759,6,left,54697/54697_06_F2_LE_RS.jpg,M,78.5,10.0,Early Late AMD,3
+4641,7,right,60937/60937_07_F2_RE_RS.jpg,F,69.5,2.0,Early AMD,0
+G196,6,right,51590/51590_06_F2_RE_LS.jpg,M,72.7,7.0,Advanced Intermediate AMD,2
+4202,6,right,53481/53481_06_F2_RE_LS.jpg,F,65.5,6.0,Moderate AMD,1
+3174,8,left,3174/3174_08_LE_F2_RS.jpg,M,62.5,10.0,Early Late AMD,3
+G014,12,left,53224/53224_12_F2_LE_RS.jpg,F,72.6,4.0,Moderate AMD,1
+3681,1,right,53835/53835_01_F2_RE_LS.jpg,M,74.39999999999999,11.0,Active Neovascular AMD,4
+3470,18,left,58364/58364_18_F2_LE_RS.jpg,M,82.30000000000001,12.0,End-Stage AMD,5
+4166,22,left,55060/55060_22_F2_LE_LS.jpg,M,78.8,2.0,Early AMD,0
+G429,8,left,59852/59852_08_F2_LE_LS.jpg,M,69.6,1.0,Early AMD,0
+2276,12,left,2276/2276_12_LE_F2_RS.jpg,M,74.6,7.0,Advanced Intermediate AMD,2
+3430,16,right,601013/601013_16_F2_RE_RS.jpg,M,68.3,1.0,Early AMD,0
+3073,8,right,56088/56088_08_F2_RE_RS.jpg,M,76.8,1.0,Early AMD,0
+3010,14,left,3010/3010_14_LE_F2_LS.jpg,F,80.60000000000001,11.0,Active Neovascular AMD,4
+1225,11,right,56673/56673_11_F2_RE_RS.jpg,M,73.3,5.0,Moderate AMD,1
+4586,8,right,59229/59229_08_F2_RE_RS.jpg,M,73.30000000000001,1.0,Early AMD,0
+G200,16,right,56495/56495_16_F2_RE_RS.jpg,F,67.0,8.0,Advanced Intermediate AMD,2
+2583,14,right,56112/56112_14_F2_RE_LS.jpg,M,75.2,5.0,Moderate AMD,1
+1604,20,left,52836/52836_20_F2_LE_LS.jpg,M,69.6,7.0,Advanced Intermediate AMD,2
+2408,10,left,52834/52834_10_F2_LE_RS.jpg,M,78.2,2.0,Early AMD,0
+5532,8,right,56699/56699_08_F2_RE_LS.jpg,F,83.8,11.0,Active Neovascular AMD,4
+G392,22,right,61495/61495_22_F2_RE_LS.jpg,M,77.2,10.0,Early Late AMD,3
+5156,10,left,58672/58672_10_F2_LE_LS.jpg,F,64.5,6.0,Moderate AMD,1
+G495,12,left,51350/51350_12_F2_LE_RS.jpg,F,77.1,4.0,Moderate AMD,1
+2791,4,left,60582/60582_04_F2_LE_LS.jpg,M,62.400000000000006,6.0,Moderate AMD,1
+5610,20,right,56664/56664_20_F2_RE_LS.jpg,F,66.1,4.0,Moderate AMD,1
+5299,4,left,56198/56198_04_F2_LE_LS.jpg,M,71.1,10.0,Early Late AMD,3
+5531,6,right,52600/52600_06_F2_RE_LS.jpg,M,72.5,2.0,Early AMD,0
+5049,8,right,54775/54775_08_F2_RE_LS.jpg,F,76.6,1.0,Early AMD,0

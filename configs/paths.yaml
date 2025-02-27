@@ -1,0 +1,35 @@
+# contains the paths to the dataset
+
+Fundus:
+  dset_name: kaggle_512 
+  root: "/xx/xx/xx"
+  data_dir: xx   
+  target: "level" 
+  fname:  "filename"
+  train_csv: './csv_files/kaggle/kaggle_gradable_train.csv' 
+  val_csv: './csv_files/kaggle/kaggle_gradable_val.csv'
+  test_csv: './csv_files/kaggle/kaggle_gradable_test.csv'
+  mean: [0.41326871514320374, 0.2723627984523773, 0.18590997159481049] 
+  std: [0.29345420002937317, 0.20033970475196838, 0.15474912524223328] 
+  num_classes: 5 
+  binary: False   
+  threshold: 2 # threshold for binary performance
+  input_size: 512 
+  
+  
+AREDS:
+  dset_name: Areds  
+  root: "/xx/xx/xx"
+  data_dir: "xx"   
+  target: "amd_level" 
+  fname:  "image_path"
+  train_csv: './files/csv/Areds/train.csv'
+  val_csv: './files/csv/Areds/val.csv'
+  test_csv: './files/csv/Areds/test.csv'
+  mean: [0.41326871514320374, 0.2723627984523773, 0.18590997159481049] 
+  std: [0.29345420002937317, 0.20033970475196838, 0.15474912524223328] 
+  num_classes: 6 
+  binary: False  
+  threshold: 2 # threshold for binary performance
+  input_size: 512 
+
