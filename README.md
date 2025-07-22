@@ -1,5 +1,5 @@
 # An inherently-interpretable CNN-Transformer model for image classification
-This repository contains the official implementation of the Self-Explainable CNN-Transformer architecture from the paper ["An inherently-interpretable CNN-Transformer model for image classification"](https://conferences.miccai.org/2025/en/default.asp) (Submitted to MICCAI 2025).
+This repository contains the official implementation of the Self-Explainable CNN-Transformer architecture from the paper ["A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Disease Detection from Retinal Fundus Images"](https://conferences.miccai.org/2025/en/default.asp) (IMIMIC / MICCAI 2025).
 
 ## Model's architecture
 ![Model's architecture](./files/fig1_architecture.png)
@@ -76,9 +76,9 @@ We used code from the [interpretable-sparse-activation](https://github.com/kdjou
 
 ## Reference
 ```
-@InProceedings{xxx,
+@InProceedings{interpretablecnntransformer,
         author = { Kerol Djoumessi, Samuel Ofosu Mensah, Philipp Berens},
-        title = {An inherently-interpretable CNN-Transformer model for image classification},
+        title = {A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Disease Detection from Retinal Fundus Images},
         booktitle = {8th International Workshop on Interpretability of Machine Intelligence in Medical Image Computing (IMIMIC) at MICCAI},
         year = {2025}
 }
