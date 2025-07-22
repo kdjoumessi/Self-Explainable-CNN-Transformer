@@ -1,5 +1,5 @@
 base:
-  dataset: AREDS # in ['Fundus', AREDS]
+  dataset: Fundus # in ['Fundus', AREDS]
   device: cuda 
   random_seed: 0
   test: True #True, False
@@ -75,7 +75,6 @@ drsa:
   reduction_factor: 2
   downsample_factor: [2, 4]
   baseline_conv_drsa: None #True
-  class_from_att: True
     
 solver:
   optimizer: SGD # SGD / ADAM

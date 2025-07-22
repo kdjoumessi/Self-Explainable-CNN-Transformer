@@ -68,7 +68,7 @@ class DRSA_model(nn.Module):
 
         b, c, h, w = xhigh.shape   
         xhigh_att = self.mhsa(xhigh, res=0)  # res=0 ~ high-resolution 
-        xlow_att, xxlow_att = None, None
+        xlow_att = None
         res = 0
 
         if self.cfg.drsa.with_drsa:
@@ -76,33 +76,17 @@ class DRSA_model(nn.Module):
             xlow_att = self.mhsa(xlow, res=1)
             res = 1
              
-        att_weight = self.mhsa.final_attention(xxlow_att, xlow_att, xhigh_att, xhigh, res)  # (bs, C, H, W) ~ (bs, 2048, 60, 60)
-        self.aggregate_att = self.mhsa.aggregate(att_weight)                    
-
+        att_weight = self.mhsa.final_attention(xlow_att, xhigh_att, xhigh, res)  # (bs, C, H, W) ~ (bs, 2048, 60, 60)
         b, nc, h, w = att_weight.shape
 
-        if self.cfg.drsa.class_from_att:
-            if self.cfg.train.conv_cls:
-                x_heatmap = self.classifier(att_weight)        # (bs, nclasses, H, W)
-                out = self.avgpool(x_heatmap)                  # (bs, nclasse, 1, 1)
-                out = out.view(out.shape[0], -1)               # (bs, nclasse)
-            else:
-                x = self.avgpool(att_weight)    # (bs, C, 1, 1)
-                x = torch.flatten(x, 1)         # (bs, C)
-                out = self.classifier(x)        # (bs, nclasse)
-                x_heatmap = torch.zeros((b, nc, h, w), device='cuda')   
+        if self.cfg.train.conv_cls:
+            x_heatmap = self.classifier(att_weight)        # (bs, nclasses, H, W)
+            out = self.avgpool(x_heatmap)                  # (bs, nclasse, 1, 1)
+            out = out.view(out.shape[0], -1)               # (bs, nclasse)
         else:
-            x_heatmap = self.classifier(xhigh)        # (bs, nclasses, H, W)
-            att_weight = self.aggregate_att 
-
-            if self.cfg.drsa.drsa_cls:
-                xlow = self.mhsa.downsample(xhigh)
-                xlow_heatmap = self.classifier(xlow)
-                xupsample = self.upsample(xlow_heatmap) 
-                x_heatmap = xupsample + x_heatmap
-
-            pred = x_heatmap * att_weight
-            pred = self.avgpool(pred)              # bs, n_class, 1, 1
-            out = pred.view(pred.shape[0], -1)
+            x = self.avgpool(att_weight)    # (bs, C, 1, 1)
+            x = torch.flatten(x, 1)         # (bs, C)
+            out = self.classifier(x)        # (bs, nclasse)
+            x_heatmap = torch.zeros((b, nc, h, w), device='cuda')   
 
         return out, x_heatmap, att_weight    

@@ -29,7 +29,6 @@ def build_model(cfg, num_classes):
     if cfg.train.drsa:
         model = DRSA_model(cfg)
     elif cfg.train.vit:
-        #model = SwinTimmModel(num_classes)
         model = ViT_Tim_Model(num_classes)
     else:
         if cfg.train.train_with_att:
@@ -59,7 +58,6 @@ class SparseBagnet(nn.Module):
         
         # classification layer: conv2d instead of FCL
         self.classifier = nn.Conv2d(num_channels, num_classes, kernel_size=(1,1), stride=1)
-        # 24 ~ 224, 60~ 512
         self.clf_avgpool = nn.AvgPool2d(kernel_size=(1,1), stride=(1,1), padding=0)
 
     def forward(self, x):        

@@ -53,7 +53,6 @@ def main():
         cfg.base.test = True
         cfg.base.sample = 10
         cfg.train.epochs = 4
-        #cfg.train.n_head = 5
         cfg.train.batch_size = 1
      
     # create folder

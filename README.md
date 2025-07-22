@@ -13,9 +13,9 @@ The code in this repository uses publicly available datasets for the [Diabetic R
 The Kaggle dataset was preprocessed by tightly cropping the circular mask of the retinal fundus and resize to 512 x 512. Then an ensemble of EfficientNets trained on the [ISBI2020 challenge dataset](https://isbi.deepdr.org/challenge2.html) was used to filter out images with low qualities. The resulting dataset (csv files) used for model training and evaluation are as follows: 
 - [`training csv file`](./files/csv/kaggle/kaggle_gradable_train.csv)
 - [`validation csv file`](./files/csv/kaggle/kaggle_gradable_val.csv)
-- [`test csv file`](./files/csv/kaggle/kaggle_gradable_test.csv)  
+- [`test csv file`](./files/csv/kaggle/kaggle_gradable_test.csv)
 
-From the AREDS dataset, we used a subset with the highest-severity image per visit, and grouped AMD severity into six categories Early AMD, Moderate AMD, Advanced Intermediate AMD, Early Late AMD, Active Neovascular AMD, and End-Stage AMD. The resulting dataset (CSV files) used for model training and evaluation are as follows:  
+From the AREDS dataset, we used a subset with the highest-severity image per visit, and grouped AMD severity into six categories Early AMD, Moderate AMD, Advanced Intermediate AMD, Early Late AMD, Active Neovascular AMD, and End-Stage AMD. The resulting dataset (CSV files) used for model training and evaluation are as follows:
 - [`test csv file`](./files/csv/Areds/test.csv) 
 - [`training csv file`](./files/csv/Areds/train.csv)
 - [`validation csv file`](./files/csv/val.csv)
@@ -40,13 +40,7 @@ The images used for figures 2, and 4 are provided in `./files/images`
       ├── BagNet-Transformer 
 ```
 
-#################### to check
-
-Then replace in `configs/paths.yaml` the value of
-- `paths.root` with path to `main_folder`
-- `paths.dset_dir` with path to `OCT_datset`
-- `paths.save` with path to `Outputs` to save the model output (logs, model weight, and learned prototypes)
-- `paths.model_dir` with path to `ProtoBagNet` or `ProtoPNet` depending on the model you are training
+Then replace the values in  `configs/paths.yaml` according to your dataset, includind `root` and `main_folder`.
 
 ### 2. Update the training configurations and hyperparameters 
 Update the training configurations and hyperparameters in: 
@@ -83,9 +77,9 @@ We used code from the [interpretable-sparse-activation](https://github.com/kdjou
 ## Reference
 ```
 @InProceedings{xxx,
-        author = { xxx, xxx, xxx},
+        author = { Kerol Djoumessi, Samuel Ofosu Mensah, Philipp Berens},
         title = {An inherently-interpretable CNN-Transformer model for image classification},
-        booktitle = {Submitted to MICCAI},
+        booktitle = {8th International Workshop on Interpretability of Machine Intelligence in Medical Image Computing (IMIMIC) at MICCAI},
         year = {2025}
 }
 ```

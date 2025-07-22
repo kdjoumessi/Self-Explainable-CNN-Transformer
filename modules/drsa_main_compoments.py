@@ -150,7 +150,6 @@ class DRSATransformerBlock(nn.Module):
 
         self.aggregate = nn.Conv2d(channels, 1, kernel_size=(1, 1), stride=1)      
         self.project_out = nn.Conv2d(channels, channels, kernel_size=1, bias=bias)
-        # self.project_out = nn.Linear(dim,dim, bias=False)
 
         ffn_expansion_factor = cfg.drsa.reduction_factor
         if cfg.drsa.gdfn_layer:            
@@ -171,17 +170,13 @@ class DRSATransformerBlock(nn.Module):
         x = self.attn(x, res)
         return x
     
-    def final_attention(self, xxlow, xlow, xhigh, residual, res):
+    def final_attention(self, xlow, xhigh, residual, res):
 
         if res==0:
             out = xhigh
-        elif res==1:
-            xl = self.upsample(xlow)   # (b, c, h, w)
-            out  = xl + xhigh  
         else:
-            xl = self.upsample(xlow)
-            xxl = self.upsample3(xxlow)
-            out = xxl + xl + xhigh
+            xl = self.upsample(xlow)   # (b, c, h, w)
+            out  = xl + xhigh 
 
         out = self.project_out(out)
         out = self.dropout(out)
@@ -335,7 +330,7 @@ class DRSAConvTransformerBlock(nn.Module):
         x = self.attn(x, res)
         return x
     
-    def final_attention(self, xxlow, xlow, xhigh, residual, res):
+    def final_attention(self, xlow, xhigh, residual, res):
         if res==0:
             out = xhigh
         else:
@@ -392,7 +387,7 @@ class DRSA_ConvAttention(nn.Module):
 
         if res==0:
             head_size = self.head_size
-        else res==1:
+        else:
             head_size = self.cfg.drsa.ld_head_size   
         
         # window SA is used, the input is split on the spatial direction and not on the channel as the normal MHSA
